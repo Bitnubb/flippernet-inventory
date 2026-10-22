@@ -1,0 +1,78 @@
+name: Mirror sanitized HQ inventory
+on:
+  schedule:
+    - cron: '2-59/5 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/mirror.yml'
+permissions:
+  contents: write
+concurrency:
+  group: inventory-mirror
+  cancel-in-progress: false
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Validate and publish sanitized feed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPOSITORY: ${{ github.repository }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request, base64, re
+          SOURCE = "https://script.google.com/macros/s/AKfycbyufuKP6dMYeO5Zf-_rfmLebmbYomsIOe42iYQqQBjrPk1NoxZ0YFWvt_KGWLZDtiv1fw/exec"
+          with urllib.request.urlopen(SOURCE, timeout=45) as response:
+              raw = response.read(1000001)
+          assert len(raw) <= 1000000, "Feed too large"
+          data = json.loads(raw)
+          assert data.get("ok") is True and data.get("schemaVersion") == 1
+          assert data.get("source") == "FLIPPERNET HQ"
+          assert type(data.get("revision")) is int and data["revision"] > 0
+          assert set(data) <= {"ok","schemaVersion","source","revision","generatedAt","counts","listings","researchModels"}
+          listing_keys = {"name","yr","role","price","miles","loc","myRank","note","flag","status","archived","archiveReason","archiveOriginalRank","visitNotes","sellerQuestions","url"}
+          model_keys = {"id","name","brand","model","year","yr","role","category","categories","tags","rank","myRank","note","notes","description","pros","cons","seatHeight","weight","engine","price","ranks","categoryRanks"}
+          bikes, models, counts = data["listings"], data["researchModels"], data["counts"]
+          assert isinstance(bikes,list) and isinstance(models,list)
+          for bike in bikes:
+              assert set(bike) <= listing_keys
+              assert type(bike["archived"]) is bool
+              assert bike["role"] in {"street","dirt","hula"}
+          for model in models:
+              assert set(model) <= model_keys
+          assert not re.search(r"data:[^,\\s]+;base64,", raw.decode(), re.I), "Embedded image"
+          assert not re.search(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,}", raw.decode(), re.I), "Email"
+          assert counts["total"] == len(bikes)
+          assert counts["active"] == sum(not b["archived"] for b in bikes)
+          assert counts["archived"] == sum(b["archived"] for b in bikes)
+          assert counts["researchModels"] == len(models)
+          for role in ("street","dirt","hula"):
+              assert counts["categories"][role]["active"] == sum(b["role"]==role and not b["archived"] for b in bikes)
+              assert counts["categories"][role]["archived"] == sum(b["role"]==role and b["archived"] for b in bikes)
+          api = "https://api.github.com/repos/" + os.environ["GH_REPOSITORY"] + "/contents/inventory.json"
+          headers = {"Authorization":"Bearer " + os.environ["GH_TOKEN"], "Accept":"application/vnd.github+json", "X-GitHub-Api-Version":"2022-11-28", "User-Agent":"Flippernet-Inventory-Mirror"}
+          existing = None
+          try:
+              with urllib.request.urlopen(urllib.request.Request(api,headers=headers),timeout=30) as response:
+                  existing = json.load(response)
+          except urllib.error.HTTPError as error:
+              if error.code != 404:
+                  raise
+          if existing:
+              previous = json.loads(base64.b64decode(existing["content"]))
+              assert data["revision"] >= previous["revision"], "Refusing revision rollback"
+              comparable = lambda d: {k:v for k,v in d.items() if k != "generatedAt"}
+              if comparable(data) == comparable(previous):
+                  print("Unchanged revision", data["revision"], json.dumps(counts))
+                  raise SystemExit(0)
+          payload = {"message":"Mirror HQ revision " + str(data["revision"]), "content":base64.b64encode((json.dumps(data,ensure_ascii=False,indent=2)+"\n").encode()).decode(), "branch":"main"}
+          if existing:
+              payload["sha"] = existing["sha"]
+          request = urllib.request.Request(api,data=json.dumps(payload).encode(),headers={**headers,"Content-Type":"application/json"},method="PUT")
+          with urllib.request.urlopen(request,timeout=30) as response:
+              assert response.status in (200,201)
+          print("Published revision",data["revision"],json.dumps(counts))
+          PY
