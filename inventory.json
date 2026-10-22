@@ -1,0 +1,1649 @@
+{
+  "ok": true,
+  "schemaVersion": 1,
+  "source": "FLIPPERNET HQ",
+  "revision": 21,
+  "generatedAt": "2026-10-22T04:28:52.308Z",
+  "counts": {
+    "active": 38,
+    "archived": 12,
+    "total": 50,
+    "researchModels": 50,
+    "categories": {
+      "street": {
+        "active": 8,
+        "archived": 7
+      },
+      "dirt": {
+        "active": 7,
+        "archived": 2
+      },
+      "hula": {
+        "active": 23,
+        "archived": 3
+      }
+    }
+  },
+  "listings": [
+    {
+      "name": "Suzuki DR-Z400S",
+      "yr": 2018,
+      "role": "dirt",
+      "price": 1500,
+      "miles": "33,000",
+      "loc": "Loomis",
+      "myRank": 1,
+      "note": "Very low price; seller says one owner, riding BDR. Verify title, VIN and bike first.",
+      "flag": "Verify legitimacy",
+      "status": "Live Craigslist listing",
+      "archived": true,
+      "archiveReason": "",
+      "archiveOriginalRank": 1,
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• Why is the 2018 DR-Z400S priced at just $1,500? Is it running, and is the clean California title in your name?\n• Can you send a current VIN/title photo (with personal details covered), and can we inspect the bike in person before any payment?\n• At 33,000 miles, has the engine/top end or cam chain ever been serviced? Any oil burning, smoke, or starting problems?\n• What was replaced or damaged during the BDR trips—wheels, suspension linkage, bearings, clutch, or cooling system?\n• When were oil, coolant, tires, chain/sprockets and valve clearances last addressed? Any service records?",
+      "sellerQuestions": [
+        "Why is the 2018 DR-Z400S priced at just $1,500? Is it running, and is the clean California title in your name?",
+        "Can you send a current VIN/title photo (with personal details covered), and can we inspect the bike in person before any payment?",
+        "At 33,000 miles, has the engine/top end or cam chain ever been serviced? Any oil burning, smoke, or starting problems?",
+        "What was replaced or damaged during the BDR trips—wheels, suspension linkage, bearings, clutch, or cooling system?",
+        "When were oil, coolant, tires, chain/sprockets and valve clearances last addressed? Any service records?"
+      ],
+      "url": "https://www.craigslist.org/view/d/penryn-suzuki-drz400s/kAorN5T1KFhFXr1VAJRTTk"
+    },
+    {
+      "name": "KTM 625 SMC project",
+      "yr": "2001? / 2004?",
+      "role": "dirt",
+      "price": 2000,
+      "miles": "15,000",
+      "loc": "Antelope",
+      "myRank": 7,
+      "note": "Undiagnosed coolant leak; seller says possible head gasket. Advertised year conflicts with description.",
+      "flag": "Project / avoid",
+      "status": "Facebook screenshot",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• Is the KTM 625 SMC a 2001 or a 2004? Can you confirm the year and model from the VIN/title?\n• Where exactly is the coolant leaking? Was a cooling-system pressure test or combustion-gas/head-gasket test done?\n• Has it overheated, mixed coolant with oil, or run low on coolant? Is it currently safe to start?\n• What else does the bike need to ride reliably? Any parts removed, stripped threads, or known engine noise?\n• Is the California title current, clean, and street-legal in your name?",
+      "sellerQuestions": [
+        "Is the KTM 625 SMC a 2001 or a 2004? Can you confirm the year and model from the VIN/title?",
+        "Where exactly is the coolant leaking? Was a cooling-system pressure test or combustion-gas/head-gasket test done?",
+        "Has it overheated, mixed coolant with oil, or run low on coolant? Is it currently safe to start?",
+        "What else does the bike need to ride reliably? Any parts removed, stripped threads, or known engine noise?",
+        "Is the California title current, clean, and street-legal in your name?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/1338455571401599/"
+    },
+    {
+      "name": "KTM 690 Supermoto",
+      "yr": 2007,
+      "role": "street",
+      "price": 2500,
+      "miles": "13,000",
+      "loc": "Sloughhouse",
+      "myRank": 3,
+      "note": "Seller offered $2,500; disclosed rocker noise.",
+      "flag": "Inspect rocker noise",
+      "status": "Facebook screenshot",
+      "archived": true,
+      "archiveReason": "Piece of shit bike",
+      "archiveOriginalRank": 3,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Has a mechanic diagnosed the disclosed rocker ticking, rather than assumed it normal?\n• Can you send cold and warm recordings of that rocker noise?\n• Were the rocker rollers, bearings or cam-chain tensioner repaired?",
+      "sellerQuestions": [
+        "Has a mechanic diagnosed the disclosed rocker ticking, rather than assumed it normal?",
+        "Can you send cold and warm recordings of that rocker noise?",
+        "Were the rocker rollers, bearings or cam-chain tensioner repaired?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/837365079400995/"
+    },
+    {
+      "name": "Ducati Monster 620",
+      "yr": "2005",
+      "role": "street",
+      "price": 2999,
+      "miles": "28,000",
+      "loc": "Larkspur",
+      "myRank": 7,
+      "note": "Belts only inspected; valves reportedly adjusted.",
+      "flag": "Belt receipt needed",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• When were the timing belts replaced, rather than merely checked? Is there a dated receipt?\n• Who performed the reported desmodromic valve adjustment, and at what mileage?",
+      "sellerQuestions": [
+        "When were the timing belts replaced, rather than merely checked? Is there a dated receipt?",
+        "Who performed the reported desmodromic valve adjustment, and at what mileage?"
+      ],
+      "url": "https://www.craigslist.org/view/d/novato-2005-ducati-monster-m620-valves/rkN2yQsPSGPXr4Ce1r7CR8"
+    },
+    {
+      "name": "Suzuki V-Strom DL650 ABS",
+      "yr": 2011,
+      "role": "street",
+      "price": 3200,
+      "miles": "47,819",
+      "loc": "San Jose",
+      "myRank": 8,
+      "note": "Touring twin with luggage; less playful.",
+      "flag": "",
+      "status": "Facebook screenshot",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• At nearly 48,000 miles, which scheduled valve inspections are documented?\n• Are the pictured luggage and mounts included?",
+      "sellerQuestions": [
+        "At nearly 48,000 miles, which scheduled valve inspections are documented?",
+        "Are the pictured luggage and mounts included?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/2401934166900285/"
+    },
+    {
+      "name": "Husqvarna TE610",
+      "yr": 2009,
+      "role": "dirt",
+      "price": 3400,
+      "miles": "13,600",
+      "loc": "Hayward",
+      "myRank": 5,
+      "note": "Current owner rode ~50 miles in 1.5 years; no receipts for cam-chain/clutch work.",
+      "flag": "Mechanical history unknown",
+      "status": "Live Craigslist listing",
+      "archived": true,
+      "archiveReason": "Test ridden; Fun, not perfect. Mechanical concerns. mechanical hold rather than a confirmed major failure. Brief metallic chatter for roughly one second at cold startup, one genuine but very brief clutch slip under heavy acceleration that could not be reproduced, and an uncertain rattly/odd clutch sensation when lugging or re-engaging. The rev-limiter behavior itself seemed normal. No documented cam-chain tensioner or clutch spring cup washer inspection; very little use by the current owner. Not willing to risk metal contamination or a major internal failure without a competent pre-purchase inspection of the clutch assembly, cam-chain tensioner, oil screens and clutch slip. Could reconsider if inspected and verified sound within the repair budget.",
+      "archiveOriginalRank": 5,
+      "visitNotes": "Bad communication. Owner before him was a mechanic. Unknown maintenance though. Worries about cam chain tensioner and clutch spring cup washers.\nQUESTIONS TO ASK THE SELLER:\nWhy was the gas cap replaced?\n• Has the cam-chain tensioner/chain been inspected or replaced? At what mileage and by whom?\n• Have the clutch spring cup washers been inspected or secured/repaired?\n• Can you connect me with the prior mechanic-owner or show photos/notes for the work he performed?\n• You have ridden only ~50 miles in 1.5 years: any fuel, battery, brake, or tire issues from sitting?\n• Can I see a truly cold start and a hot restart? Any stalling, oil use, warning lights, or cooling problems?",
+      "sellerQuestions": [
+        "Has the cam-chain tensioner/chain been inspected or replaced? At what mileage and by whom?",
+        "Have the clutch spring cup washers been inspected or secured/repaired?",
+        "Can you connect me with the prior mechanic-owner or show photos/notes for the work he performed?",
+        "You have ridden only ~50 miles in 1.5 years: any fuel, battery, brake, or tire issues from sitting?",
+        "Can I see a truly cold start and a hot restart? Any stalling, oil use, warning lights, or cooling problems?"
+      ],
+      "url": "https://www.craigslist.org/view/d/hayward-2009-husqvarna-te610-te-610/v6tgaf13Eri1iqPhqZfESa"
+    },
+    {
+      "name": "KTM 525 EXC SM conversion",
+      "yr": 2006,
+      "role": "dirt",
+      "price": 3500,
+      "miles": "1,234 claimed",
+      "loc": "Vacaville",
+      "myRank": 2,
+      "note": "Actual 525 feel in street wheels; check engine hours, CA registration and dirt wheelset.",
+      "flag": "Dirt conversion potential",
+      "status": "Facebook screenshot",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• The odometer says ~1,234 miles: what are the ACTUAL engine hours and total engine mileage?\n• Is it California-plated with a clean, transferable on-highway title, or was it converted from off-road use?\n• Are the original 21/18-inch dirt wheels included? What would I need to swap back (brake rotor/caliper bracket, gearing, spacers)?\n• When were the valves checked, piston/top end serviced, and oil changed? Is there an auxiliary oil reservoir?\n• What suspension work and supermoto-conversion parts are installed? Any engine or gearbox problems?",
+      "sellerQuestions": [
+        "The odometer says ~1,234 miles: what are the ACTUAL engine hours and total engine mileage?",
+        "Is it California-plated with a clean, transferable on-highway title, or was it converted from off-road use?",
+        "Are the original 21/18-inch dirt wheels included? What would I need to swap back (brake rotor/caliper bracket, gearing, spacers)?",
+        "When were the valves checked, piston/top end serviced, and oil changed? Is there an auxiliary oil reservoir?",
+        "What suspension work and supermoto-conversion parts are installed? Any engine or gearbox problems?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/2968378016840565/"
+    },
+    {
+      "name": "KTM 625 SXC",
+      "yr": null,
+      "role": "dirt",
+      "price": 3500,
+      "miles": "18,000",
+      "loc": "Soda Springs",
+      "myRank": 3,
+      "note": "Raw LC4 dirt dual-sport; firm price, unknown year, thin seller description.",
+      "flag": "Confirm year & title",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• What exact year is this KTM 625 SXC? Could you confirm the VIN/model year?\n• Is it legally street-registered in California with a clean title in your name?\n• At 18,000 miles, what engine/top-end, rocker-bearing and valve-clearance work has been done?\n• What is the recent oil/filter change history? Has the carburetor been cleaned or tuned?\n• Any hard starting, smoke, coolant/oil leaks, cracked rims, or worn suspension/linkage bearings?",
+      "sellerQuestions": [
+        "What exact year is this KTM 625 SXC? Could you confirm the VIN/model year?",
+        "Is it legally street-registered in California with a clean title in your name?",
+        "At 18,000 miles, what engine/top-end, rocker-bearing and valve-clearance work has been done?",
+        "What is the recent oil/filter change history? Has the carburetor been cleaned or tuned?",
+        "Any hard starting, smoke, coolant/oil leaks, cracked rims, or worn suspension/linkage bearings?"
+      ],
+      "url": "https://www.craigslist.org/view/d/truckee-ktm-625-sxc/5Unhh9m5jsFgFV7zPkcN3X"
+    },
+    {
+      "name": "KTM 690 Duke",
+      "yr": "2013",
+      "role": "street",
+      "price": 3500,
+      "miles": "10,300",
+      "loc": "San Rafael",
+      "myRank": 2,
+      "note": "Fresh tires, Power Commander, claimed 10k service.",
+      "flag": "Street favorite",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What did the claimed 10,000-mile service include? Is there an itemized invoice?\n• Have the rocker-arm roller bearings been inspected or replaced?\n• Who tuned the Power Commander, and are the original fueling parts included?\n• Does the modified fueling surge or stall at low rpm?",
+      "sellerQuestions": [
+        "What did the claimed 10,000-mile service include? Is there an itemized invoice?",
+        "Have the rocker-arm roller bearings been inspected or replaced?",
+        "Who tuned the Power Commander, and are the original fueling parts included?",
+        "Does the modified fueling surge or stall at low rpm?"
+      ],
+      "url": "https://www.craigslist.org/view/d/san-rafael-2013-ktm-690-duke/b5HMraR28KCwodedgKwRYH"
+    },
+    {
+      "name": "Suzuki DR-Z400S (FCR)",
+      "yr": 2000,
+      "role": "dirt",
+      "price": 3500,
+      "miles": "17,000",
+      "loc": "Shingletown",
+      "myRank": 5,
+      "note": "3x3 mod, FCR39, exhaust, ADV setup. Front turn signals not working.",
+      "flag": "Interesting modified DR-Z",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• Who fitted and jetted the FCR carb, exhaust and 3×3 airbox mod? Does it start easily hot and cold?\n• At 17,000 miles, any top-end, valve-clearance or cam-chain work? Any oil burning?\n• Why are the front turn signals not working? What parts are needed to restore street legality?\n• Is the California street title clean/current and does the VIN match?\n• What ADV accessories are included, and when were tires, chain, bearings and suspension last serviced?",
+      "sellerQuestions": [
+        "Who fitted and jetted the FCR carb, exhaust and 3×3 airbox mod? Does it start easily hot and cold?",
+        "At 17,000 miles, any top-end, valve-clearance or cam-chain work? Any oil burning?",
+        "Why are the front turn signals not working? What parts are needed to restore street legality?",
+        "Is the California street title clean/current and does the VIN match?",
+        "What ADV accessories are included, and when were tires, chain, bearings and suspension last serviced?"
+      ],
+      "url": "https://www.craigslist.org/view/d/shingletown-2000-suzuki-drz400/wWN9YbmkZ52rtV9xTKyWG8"
+    },
+    {
+      "name": "Yamaha FZ6",
+      "yr": 2009,
+      "role": "street",
+      "price": 3500,
+      "miles": "22,000",
+      "loc": "Morgan Hill",
+      "myRank": 1,
+      "note": "Black inline-four; favored looks, valve check approaching.",
+      "flag": "Street favorite",
+      "status": "Facebook screenshot",
+      "archived": true,
+      "archiveReason": "Inspected and test ridden. Beautiful, very clean example with many recently renewed parts (radiator, hoses, tires, chain/sprockets, windshield). Left fork seal weeping; pulled left on a straight road; front end dove under braking; abrupt on/off throttle response. But the decisive issue was riding enjoyment: little excitement below roughly 8,000 rpm, and the entertaining powerband encouraged speeds I no longer want to ride. A great example of the wrong motorcycle for me. Prefer immediate response, torque and fun at ordinary speeds.",
+      "archiveOriginalRank": 1,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Has the approaching 26,600-mile valve inspection been completed?",
+      "sellerQuestions": [
+        "Has the approaching 26,600-mile valve inspection been completed?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/1474148881203853/"
+    },
+    {
+      "name": "KTM 950 Supermoto R",
+      "yr": 2007,
+      "role": "street",
+      "price": 4000,
+      "miles": "15,160",
+      "loc": "Bodega Bay",
+      "myRank": 6,
+      "note": "Akrapovič pipes, Rottweiler intake, steering damper.",
+      "flag": "Fast street hooligan · inspect carefully",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Has the LC8 water-pump shaft/seal been replaced?\n• Have the fuel pump and clutch slave been upgraded or repaired?\n• Was the carburetor jetting matched to the Akrapovič pipes and Rottweiler intake?\n• Can you document the claimed recent oil, chain/sprocket and rear-tire work?",
+      "sellerQuestions": [
+        "Has the LC8 water-pump shaft/seal been replaced?",
+        "Have the fuel pump and clutch slave been upgraded or repaired?",
+        "Was the carburetor jetting matched to the Akrapovič pipes and Rottweiler intake?",
+        "Can you document the claimed recent oil, chain/sprocket and rear-tire work?"
+      ],
+      "url": "https://www.craigslist.org/view/d/bodega-bay-2007-ktm-950-smr/dd3MCphbEDeAPftsm31vuH"
+    },
+    {
+      "name": "Suzuki SV650",
+      "yr": 2022,
+      "role": "street",
+      "price": 4000,
+      "miles": "20,000",
+      "loc": "Lodi",
+      "myRank": 1,
+      "note": "Highway gearing, fresh tires, slip-on, X-ring chain.",
+      "flag": "Strong everyday street value · confirm maintenance",
+      "status": "Facebook screenshot · seller claims well-maintained",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "budget roughly $300–$600 for a valve inspection\noffer $3,400–$3,500, citing the overdue valve inspection\n\nThere's something I'd especially like you to pay attention to during the ride: how naturally the motorcycle holds a line through a corner while you're progressively adding throttle.\nNot just how quickly it tips in. Not just whether it accelerates hard. Does the whole motorcycle feel composed and communicative as you load the chassis?\n\nQUESTIONS FOR THIS BIKE:\n• Were valve clearances inspected at 15,000 miles, with measurements or a receipt?\n• What sprocket tooth counts produce the highway gearing, and are stock sprockets included?\n• Were both sprockets replaced with the X-ring chain?",
+      "sellerQuestions": [
+        "Were valve clearances inspected at 15,000 miles, with measurements or a receipt?",
+        "What sprocket tooth counts produce the highway gearing, and are stock sprockets included?",
+        "Were both sprockets replaced with the X-ring chain?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/1237946278453520/"
+    },
+    {
+      "name": "Suzuki DR-Z400SM",
+      "yr": null,
+      "role": "dirt",
+      "price": 4500,
+      "miles": "under 8,000",
+      "loc": "Berkeley",
+      "myRank": 4,
+      "note": "Enjoyable small-speed supermoto; $800 service receipt claimed. Confirm actual year.",
+      "flag": "Year missing",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• What is the actual model year of the DR-Z400SM? Can you verify it with the VIN/title?\n• What exactly did the claimed ~$800 recent service include? Could you send the receipt?\n• With fewer than 8,000 miles, what is the oil-change and valve-check history?\n• Any carburetor/fueling mods, jetting issues, cold/hot starting problems, or oil use?\n• Are any 21/18-inch dirt wheels included, or is it sold only with 17-inch supermoto wheels?",
+      "sellerQuestions": [
+        "What is the actual model year of the DR-Z400SM? Can you verify it with the VIN/title?",
+        "What exactly did the claimed ~$800 recent service include? Could you send the receipt?",
+        "With fewer than 8,000 miles, what is the oil-change and valve-check history?",
+        "Any carburetor/fueling mods, jetting issues, cold/hot starting problems, or oil use?",
+        "Are any 21/18-inch dirt wheels included, or is it sold only with 17-inch supermoto wheels?"
+      ],
+      "url": "https://www.craigslist.org/view/d/berkeley-drz400sm/mokigVetcoVdtToxsLQo57"
+    },
+    {
+      "name": "Yamaha FZ1",
+      "yr": 2002,
+      "role": "street",
+      "price": 4975,
+      "miles": "6,493",
+      "loc": "Napa",
+      "myRank": 11,
+      "note": "Low-mileage inline-four; rebuilt carbs, new intake boots.",
+      "flag": "Speed-focused",
+      "status": "Live Craigslist listing",
+      "archived": true,
+      "archiveReason": "Too Fast",
+      "archiveOriginalRank": 11,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Who rebuilt the carburetors, when, and what was replaced?\n• Are there receipts for the new intake boots?\n• Was the low-mileage bike stored with fuel in the tank?",
+      "sellerQuestions": [
+        "Who rebuilt the carburetors, when, and what was replaced?",
+        "Are there receipts for the new intake boots?",
+        "Was the low-mileage bike stored with fuel in the tank?"
+      ],
+      "url": "https://www.craigslist.org/view/d/napa-2002-yamaha-fz-mi-near-new/9cY6mLPuY9znFVTtpnJttc"
+    },
+    {
+      "name": "Yamaha FZ-07",
+      "yr": 2015,
+      "role": "street",
+      "price": 4995,
+      "miles": "14,300",
+      "loc": "San Jose",
+      "myRank": 8,
+      "note": "Torquey twin; tuner, exhaust, upgraded rear shock.",
+      "flag": "Strong street choice",
+      "status": "Live Craigslist listing",
+      "archived": true,
+      "archiveReason": "no response",
+      "archiveOriginalRank": 8,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Who installed and tuned the exhaust/intake/fueling changes? Are stock parts included?\n• What rider weight and settings suit the upgraded rear shock?",
+      "sellerQuestions": [
+        "Who installed and tuned the exhaust/intake/fueling changes? Are stock parts included?",
+        "What rider weight and settings suit the upgraded rear shock?"
+      ],
+      "url": "https://www.craigslist.org/view/d/san-jose-2015-yamaha-fz-07/f1skn8wT3Q5Mohs5vYX5ni"
+    },
+    {
+      "name": "KTM 525 EXC",
+      "yr": 2007,
+      "role": "dirt",
+      "price": 5000,
+      "miles": "13,570",
+      "loc": "San Jose",
+      "myRank": 1,
+      "note": "Rebuilt top end claimed; Aftershocks suspension, oil reservoir, detailed log. Verify rebuild mileage.",
+      "flag": "Dirt favorite",
+      "status": "Live Craigslist listing",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• How many actual engine hours and miles are on the bike, and how many SINCE the Wössner/Kibblewhite top-end rebuild?\n• Who did the rebuild? Was the cylinder measured and were bottom-end bearings/crank inspected? Receipts/photos?\n• Can you share the maintenance log: valve-check frequency, recent oil/filter changes and any gearbox repairs?\n• Is the HT Racing auxiliary oil reservoir installed and leak-free? What is its total oil capacity?\n• Is it legally California street-plated with a clean on-highway title? What rider weight is the Aftershocks suspension sprung for?",
+      "sellerQuestions": [
+        "How many actual engine hours and miles are on the bike, and how many SINCE the Wössner/Kibblewhite top-end rebuild?",
+        "Who did the rebuild? Was the cylinder measured and were bottom-end bearings/crank inspected? Receipts/photos?",
+        "Can you share the maintenance log: valve-check frequency, recent oil/filter changes and any gearbox repairs?",
+        "Is the HT Racing auxiliary oil reservoir installed and leak-free? What is its total oil capacity?",
+        "Is it legally California street-plated with a clean on-highway title? What rider weight is the Aftershocks suspension sprung for?"
+      ],
+      "url": "https://www.craigslist.org/view/d/san-jose-street-legal-2007-ktm-525-exc/v5QojYNkR2BnBDTyu64NVU"
+    },
+    {
+      "name": "Yamaha FJ-09",
+      "yr": 2017,
+      "role": "street",
+      "price": 6000,
+      "miles": "460",
+      "loc": "Lafayette",
+      "myRank": 8,
+      "note": "Torquey triple; only 460 miles, long storage.",
+      "flag": "Stored most of life",
+      "status": "Live Craigslist listing",
+      "archived": true,
+      "archiveReason": "Triple cyl",
+      "archiveOriginalRank": 8,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why only 460 miles, and how was the bike stored?\n• Were the tank, pump and injectors checked after that storage?\n• Was the applicable handlebar-holder recall completed?",
+      "sellerQuestions": [
+        "Why only 460 miles, and how was the bike stored?",
+        "Were the tank, pump and injectors checked after that storage?",
+        "Was the applicable handlebar-holder recall completed?"
+      ],
+      "url": "https://www.craigslist.org/view/d/lafayette-yamaha-2017-fj09/dhA3jE5xbJ1K3o34Z5dPGK"
+    },
+    {
+      "name": "Suzuki DR-Z400 (supermoto wheels)",
+      "yr": "2005",
+      "role": "dirt",
+      "price": 2500,
+      "miles": "2,000 claimed",
+      "loc": "San Jose",
+      "myRank": 6,
+      "note": "Black DR-Z with 17-inch-style supermoto wheels and aftermarket Z-Pro racing exhaust per seller. Starts/runs but seller recommends carburetor service; claims piston and cylinder-head work about five months ago, with only ~2 months riding afterward. Exact DR-Z trim and true odometer history unverified.",
+      "flag": "Carb needs work · unexplained recent top-end rebuild · verify 2k mi",
+      "status": "Facebook screenshot · mechanically needs service",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• Which exact DR-Z400 trim is it (S, E, or SM), and is it on a clean/current California street-legal title?\n• What problem required the cylinder-head and piston work? Who did the rebuild, when, and are there receipts or measurements?\n• Does the advertised 2,000 miles reflect total bike mileage, miles since rebuild, or a replacement speedometer?\n• What carburetor service is needed specifically? Can I hear a genuinely cold start and see it idle and respond to throttle?\n• Does it overheat, burn oil, smoke, leak, or make cam-chain noises? When were oil and valve clearances last checked?\n• Are the supermoto wheels straight, tires/brakes good, and original dirt wheels included? Any other parts with the bike?",
+      "sellerQuestions": [
+        "Which exact DR-Z400 trim is it (S, E, or SM), and is it on a clean/current California street-legal title?",
+        "What problem required the cylinder-head and piston work? Who did the rebuild, when, and are there receipts or measurements?",
+        "Does the advertised 2,000 miles reflect total bike mileage, miles since rebuild, or a replacement speedometer?",
+        "What carburetor service is needed specifically? Can I hear a genuinely cold start and see it idle and respond to throttle?",
+        "Does it overheat, burn oil, smoke, leak, or make cam-chain noises? When were oil and valve clearances last checked?",
+        "Are the supermoto wheels straight, tires/brakes good, and original dirt wheels included? Any other parts with the bike?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/2997580303922952/"
+    },
+    {
+      "name": "Suzuki SV650S",
+      "yr": "2006",
+      "role": "street",
+      "price": 3000,
+      "miles": "52,500",
+      "loc": "Hayward",
+      "myRank": 4,
+      "note": "52.5k miles, aftermarket exhaust, recent resale.",
+      "flag": "52.5k miles · recent owner flip · verify valves/records",
+      "status": "Facebook screenshot · seller claims nothing wrong",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why resell the bike after only about a month?\n• Are the 15k/30k/45k valve inspections documented at its current 52,500 miles?\n• What work was done to the aftermarket exhaust and cooling hoses?",
+      "sellerQuestions": [
+        "Why resell the bike after only about a month?",
+        "Are the 15k/30k/45k valve inspections documented at its current 52,500 miles?",
+        "What work was done to the aftermarket exhaust and cooling hoses?"
+      ],
+      "url": ""
+    },
+    {
+      "name": "KTM 690 Enduro R",
+      "yr": "2012",
+      "role": "street",
+      "price": 4300,
+      "miles": "20,000",
+      "loc": "South San Francisco",
+      "myRank": 1,
+      "note": "20k miles, Seat Concepts seat, claimed tune-up.",
+      "flag": "20k mi — inspect rocker rollers, fuel system, oil screens and service history",
+      "status": "Facebook Marketplace · seller claims clean title and recent tune-up (unverified)",
+      "archived": true,
+      "archiveReason": "We own it now!",
+      "archiveOriginalRank": 1,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Which supplied parts were installed and which remain spares?\n• Were both rocker arms replaced, at what mileage, and preventively or after failure?\n• If a rocker failed, was metal found in the engine?\n• Was the fuel pump replaced preventively or after failure?\n• Who did the rocker and pump work, and how many miles since?\n• Can I inspect the removed rocker arms and other old parts?\n• Has the hydraulic clutch slave been replaced?",
+      "sellerQuestions": [
+        "Which supplied parts were installed and which remain spares?",
+        "Were both rocker arms replaced, at what mileage, and preventively or after failure?",
+        "If a rocker failed, was metal found in the engine?",
+        "Was the fuel pump replaced preventively or after failure?",
+        "Who did the rocker and pump work, and how many miles since?",
+        "Can I inspect the removed rocker arms and other old parts?",
+        "Has the hydraulic clutch slave been replaced?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/3368038673367123"
+    },
+    {
+      "name": "Ducati Hypermotard 796",
+      "yr": 2011,
+      "role": "street",
+      "price": 4300,
+      "miles": "~6,000 (claimed)",
+      "loc": "Hollister",
+      "myRank": 5,
+      "note": "Matte-black wildcard; dealer service claimed, belts pivotal.",
+      "flag": "Request dated belt-service receipts · 7.5k valve check approaching · short-term owner",
+      "status": "Facebook Marketplace · “like new / fully serviced” dealer claim (unverified)",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What exactly did the San Jose dealership service include? Can you send the invoice?\n• When were the timing belts replaced, and is the approaching 7,500-mile desmo inspection documented?\n• Why take it in trade and resell after only a handful of rides?\n• How long did it sit before the trade?",
+      "sellerQuestions": [
+        "What exactly did the San Jose dealership service include? Can you send the invoice?",
+        "When were the timing belts replaced, and is the approaching 7,500-mile desmo inspection documented?",
+        "Why take it in trade and resell after only a handful of rides?",
+        "How long did it sit before the trade?"
+      ],
+      "url": ""
+    },
+    {
+      "name": "KTM 390 Adventure",
+      "yr": "Year unlisted",
+      "role": "hula",
+      "price": 3750,
+      "miles": "600 (claimed)",
+      "loc": "Danville",
+      "myRank": 16,
+      "note": "600 miles, risers, new battery, minor scratches.",
+      "flag": "Year/title and ownership to verify",
+      "status": "Existing HQ listing; Craigslist checked 2026-10-20",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What is the exact model year of this 600-mile KTM?\n• Why did it need a new battery at only 600 miles, and how long did it sit?\n• What caused the scratches, and were steering parts affected?\n• Was the initial service completed despite the low mileage?",
+      "sellerQuestions": [
+        "What is the exact model year of this 600-mile KTM?",
+        "Why did it need a new battery at only 600 miles, and how long did it sit?",
+        "What caused the scratches, and were steering parts affected?",
+        "Was the initial service completed despite the low mileage?"
+      ],
+      "url": "https://www.craigslist.org/view/d/danville-ktm-390-adventure/h9vLvh8G7vGmHSr5xoeVkS"
+    },
+    {
+      "name": "Versys 650",
+      "yr": "2017",
+      "role": "street",
+      "price": 4500,
+      "miles": "22,450",
+      "loc": "Sacramento",
+      "myRank": 3,
+      "note": "Fresh oil, claimed inspection, trunk, crash bars.",
+      "flag": "",
+      "status": "User-added listing",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Who performed the advertised full inspection, and can you provide its report?\n• Are the rear trunk and crash bars included?",
+      "sellerQuestions": [
+        "Who performed the advertised full inspection, and can you provide its report?",
+        "Are the rear trunk and crash bars included?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/1718998236314490/"
+    },
+    {
+      "name": "Versys 650",
+      "yr": "2012",
+      "role": "street",
+      "price": 3500,
+      "miles": "8000",
+      "loc": "SF",
+      "myRank": 7,
+      "note": "",
+      "flag": "",
+      "status": "na",
+      "archived": true,
+      "archiveReason": "looks = bad",
+      "archiveOriginalRank": 7,
+      "visitNotes": "",
+      "sellerQuestions": [],
+      "url": ""
+    },
+    {
+      "name": "Yamaha XT250",
+      "yr": 2010,
+      "role": "hula",
+      "price": 3200,
+      "miles": "1,850",
+      "loc": "Santa Cruz",
+      "myRank": 2,
+      "note": "Low miles, new tires, claimed mechanic inspection.",
+      "flag": "Top lead — verify cold start",
+      "status": "Seller: clean title; reg to Jun 2027",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• How often was this 1,850-mile bike ridden, and was the carburetor cleaned after storage?\n• Can you provide the claimed recent mechanic inspection and maintenance records?\n• When were the advertised new tires fitted?",
+      "sellerQuestions": [
+        "How often was this 1,850-mile bike ridden, and was the carburetor cleaned after storage?",
+        "Can you provide the claimed recent mechanic inspection and maintenance records?",
+        "When were the advertised new tires fitted?"
+      ],
+      "url": "https://www.craigslist.org/view/d/santa-cruz-2010-yamaha-xt-250/fRk1BmeALmTW3gVa43Q5Eb"
+    },
+    {
+      "name": "Yamaha XT250",
+      "yr": 2017,
+      "role": "hula",
+      "price": 4400,
+      "miles": "1,990",
+      "loc": "Forestville / Santa Rosa",
+      "myRank": 7,
+      "note": "Fuel injection, handguards, rack, lighting modifications; $4,400 firm.",
+      "flag": "Price firm, near ceiling",
+      "status": "Seller: clean CA title in hand",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Who installed the lighting changes, and what was altered?\n• Are the handguards and rack included?",
+      "sellerQuestions": [
+        "Who installed the lighting changes, and what was altered?",
+        "Are the handguards and rack included?"
+      ],
+      "url": "https://www.craigslist.org/view/d/forestville-2017-yamaha-xt-250/vkgZoy9pF6vwzdHxfuNNKt"
+    },
+    {
+      "name": "Yamaha XT250",
+      "yr": 2010,
+      "role": "hula",
+      "price": 3500,
+      "miles": "9,500",
+      "loc": "Alameda / Oakland",
+      "myRank": 8,
+      "note": "Nearby carbureted runner; currently registered, 9,500 miles.",
+      "flag": "Convenient; mileage/price tradeoff",
+      "status": "Seller: clean title; reg Jan 2027",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Would you consider an offer reflecting the lower-mile Santa Cruz XT250 comparison?",
+      "sellerQuestions": [
+        "Would you consider an offer reflecting the lower-mile Santa Cruz XT250 comparison?"
+      ],
+      "url": "https://www.craigslist.org/view/d/oakland-2010-yamaha-xt250-dual-sport/mZHdrw5sh1BoS9chpArdqs"
+    },
+    {
+      "name": "Yamaha XT250",
+      "yr": 2017,
+      "role": "hula",
+      "price": 3900,
+      "miles": "5,000",
+      "loc": "Fortuna",
+      "myRank": 9,
+      "note": "Fuel injection, 5,000 miles; distant second-owner bike.",
+      "flag": "Long trip; sparse service detail",
+      "status": "Seller: clean title",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Can you send a running video and both-side photos before the long trip to Fortuna?",
+      "sellerQuestions": [
+        "Can you send a running video and both-side photos before the long trip to Fortuna?"
+      ],
+      "url": "https://www.craigslist.org/view/d/fortuna-2017-yamaha-xt250/xaGPNTn7QtgKtVidqvnRBC"
+    },
+    {
+      "name": "Yamaha XT225",
+      "yr": 2007,
+      "role": "hula",
+      "price": 2500,
+      "miles": "19,400",
+      "loc": "Napa",
+      "myRank": 10,
+      "note": "Rebuilt top end, Utah origin, rejetted carb.",
+      "flag": "Top-end rebuild; verify CA paperwork",
+      "status": "Seller: clean title; registered Jun 2027",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why did the top end need rebuilding around 18,400 miles, and who did the work?\n• Is it now California-titled rather than still on Utah paperwork?\n• Has its Utah origin or missing California canister caused registration issues?\n• How does it run after the carburetor rejet and exhaust changes?",
+      "sellerQuestions": [
+        "Why did the top end need rebuilding around 18,400 miles, and who did the work?",
+        "Is it now California-titled rather than still on Utah paperwork?",
+        "Has its Utah origin or missing California canister caused registration issues?",
+        "How does it run after the carburetor rejet and exhaust changes?"
+      ],
+      "url": "https://www.craigslist.org/view/d/napa-2007-yamaha-xt225/kDqRMobPKcKnRrFyEsz8PN"
+    },
+    {
+      "name": "Kawasaki Versys-X 300",
+      "yr": 2022,
+      "role": "hula",
+      "price": 4195,
+      "miles": "1,500",
+      "loc": "Danville",
+      "myRank": 14,
+      "note": "ABS, 1,500 miles, windshield; heavier road-oriented ADV.",
+      "flag": "Street-biased; heavier in dirt",
+      "status": "Seller: clean title",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Was the 600-mile break-in service completed on this 1,500-mile bike?\n• Are both advertised keys and the windshield included?",
+      "sellerQuestions": [
+        "Was the 600-mile break-in service completed on this 1,500-mile bike?",
+        "Are both advertised keys and the windshield included?"
+      ],
+      "url": "https://www.craigslist.org/view/d/danville-2022-kawasaki-versys-x300/evR6nzw6LKLji4n1uak2CR"
+    },
+    {
+      "name": "KTM 390 Adventure",
+      "yr": 2020,
+      "role": "hula",
+      "price": 4000,
+      "miles": "4,800",
+      "loc": "Half Moon Bay",
+      "myRank": 15,
+      "note": "ABS, aftermarket exhaust and levers, low miles.",
+      "flag": "Test seat width; aftermarket exhaust",
+      "status": "Seller: clean title",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Was the fueling changed for the aftermarket exhaust, and is the stock exhaust included?\n• Were the replacement levers installed after a drop?",
+      "sellerQuestions": [
+        "Was the fueling changed for the aftermarket exhaust, and is the stock exhaust included?",
+        "Were the replacement levers installed after a drop?"
+      ],
+      "url": "https://www.craigslist.org/view/d/half-moon-bay-ktm-390-adventure/bNQdJtpyDq7VAPXCJ9EPFM"
+    },
+    {
+      "name": "BMW G 310 GS",
+      "yr": 2022,
+      "role": "hula",
+      "price": 4399,
+      "miles": "1,200",
+      "loc": "Grover Beach",
+      "myRank": 17,
+      "note": "ABS, low miles, new battery, claimed dealer maintenance.",
+      "flag": "Far away; 386 lb; street-oriented",
+      "status": "Seller: clean title, current registration",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why did the battery need replacement at 1,200 miles?\n• Can you provide the claimed dealer-maintenance invoices, including break-in service?",
+      "sellerQuestions": [
+        "Why did the battery need replacement at 1,200 miles?",
+        "Can you provide the claimed dealer-maintenance invoices, including break-in service?"
+      ],
+      "url": "https://www.craigslist.org/view/d/grover-beach-2022-bmw-310-gs-motorcycle/rxqiHXhJLDvexi9hqAwqFH"
+    },
+    {
+      "name": "BMW G 310 GS",
+      "yr": "2018",
+      "role": "hula",
+      "price": 3400,
+      "miles": "Unknown",
+      "loc": "Cutten / Eureka",
+      "myRank": 18,
+      "note": "Eureka-area BMW; indexed at $3,400.",
+      "flag": "Listing could not be opened; verify",
+      "status": "Price from search listing; details unavailable",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "",
+      "sellerQuestions": [],
+      "url": "https://www.craigslist.org/view/d/cutten-2018-bmw-g310-gs-sale-or-trade/6yHXGFQJWyfdLbpa6fT7kx"
+    },
+    {
+      "name": "Kawasaki KLX300SM",
+      "yr": 2024,
+      "role": "hula",
+      "price": 5000,
+      "miles": "300",
+      "loc": "Danville",
+      "myRank": 19,
+      "note": "Street-focused supermoto; modified springs, lights; over budget.",
+      "flag": "Over budget; supermoto wheels",
+      "status": "Title/registration not specified",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What spring rates were fitted, why, and what rider weight were they chosen for?\n• What rear-light and blinker modifications were made?\n• Are the original springs, lighting and other stock parts included?",
+      "sellerQuestions": [
+        "What spring rates were fitted, why, and what rider weight were they chosen for?",
+        "What rear-light and blinker modifications were made?",
+        "Are the original springs, lighting and other stock parts included?"
+      ],
+      "url": "https://www.craigslist.org/view/d/danville-klx-sm-with-extras/aAv1YWpEzzk8UHG3c9HnP4"
+    },
+    {
+      "name": "BMW F650 Funduro",
+      "yr": 1997,
+      "role": "hula",
+      "price": 1800,
+      "miles": "72,800",
+      "loc": "Novato",
+      "myRank": 20,
+      "note": "Cheap, heavy, carbureted; 72,800 miles.",
+      "flag": "Very heavy, old, 72,800 miles",
+      "status": "Seller: clean title; reg Jun 2027",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": " At 72,800 miles, which engine, cooling and charging components have been repaired or renewed?\n• Has its carbureted engine needed significant work at this mileage?",
+      "sellerQuestions": [
+        "At 72,800 miles, which engine, cooling and charging components have been repaired or renewed?",
+        "Has its carbureted engine needed significant work at this mileage?"
+      ],
+      "url": "https://www.craigslist.org/view/d/novato-1997-bmw-f650-funduro/uzB2AoPa4pJhYmb4cnk9hD"
+    },
+    {
+      "name": "Suzuki DR-Z400S",
+      "yr": 2002,
+      "role": "hula",
+      "price": 2800,
+      "miles": "8,838",
+      "loc": "Grass Valley",
+      "myRank": 21,
+      "note": "Big tank, stock parts; tall for Hula Girl.",
+      "flag": "Stock seat ~36.8in: beyond her limit",
+      "status": "Seller: clean title",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Are its seat and suspension stock height, or has it been lowered?\n• What is the loaded seat height of this particular setup?\n• Are the advertised original parts included with the big tank?",
+      "sellerQuestions": [
+        "Are its seat and suspension stock height, or has it been lowered?",
+        "What is the loaded seat height of this particular setup?",
+        "Are the advertised original parts included with the big tank?"
+      ],
+      "url": "https://www.craigslist.org/view/d/grass-valley-suzuki-drz-400s/gh5qK2zmc2o2ftQVBUnL4L"
+    },
+    {
+      "name": "Royal Enfield Hunter 350",
+      "yr": "2023/24",
+      "role": "hula",
+      "price": 2500,
+      "miles": "37,000",
+      "loc": "Coquille, OR",
+      "myRank": 22,
+      "note": "Low-seat road bike; 37k touring miles, Oregon.",
+      "flag": "Street-only; high miles; OR registration",
+      "status": "Seller: clean title; OREGON location",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Which year is correct: 2023 or 2024?\n• Does it have an Oregon title, and what California transfer requirements apply to this bike?\n• Can you provide the claimed full touring-service records at approximately 37,000 miles?",
+      "sellerQuestions": [
+        "Which year is correct: 2023 or 2024?",
+        "Does it have an Oregon title, and what California transfer requirements apply to this bike?",
+        "Can you provide the claimed full touring-service records at approximately 37,000 miles?"
+      ],
+      "url": "https://www.craigslist.org/view/d/coquille-royal-enfield-hunter-350/nkiXBh9DXxU3eBPB5ZR3ot"
+    },
+    {
+      "name": "Royal Enfield Himalayan 411 (seller: Kathmandu)",
+      "yr": 2022,
+      "role": "hula",
+      "price": 1000,
+      "miles": "3,000",
+      "loc": "San Rafael",
+      "myRank": 23,
+      "note": "Nonrunner, theft salvage; advertised as “Kathmandu.”",
+      "flag": "NONRUNNING + SALVAGE — avoid",
+      "status": "Seller: SALVAGE title",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "• Why is it advertised as Kathmandu when the photo resembles a Himalayan?\n• What caused the nonrunning fuel-system problem, and is there a diagnosis?\n• What documents explain the theft/salvage history and eligibility for registration?\n• Were the ignition, locks or keys damaged during the alleged theft?",
+      "sellerQuestions": [
+        "Why is it advertised as Kathmandu when the photo resembles a Himalayan?",
+        "What caused the nonrunning fuel-system problem, and is there a diagnosis?",
+        "What documents explain the theft/salvage history and eligibility for registration?",
+        "Were the ignition, locks or keys damaged during the alleged theft?"
+      ],
+      "url": "https://www.craigslist.org/view/d/san-rafael-royal-enfield-kathmandu/mMtsrSGqS4aPHKuqDXw2wd"
+    },
+    {
+      "name": "Kawasaki KLX230S ABS",
+      "yr": 2022,
+      "role": "hula",
+      "price": 2995,
+      "miles": "4,202",
+      "loc": "Hollister",
+      "myRank": 1,
+      "note": "Low-seat ABS dual-sport; dealer fees extra.",
+      "flag": "Dealership sale: tax/license/setup extra; confirm OTD",
+      "status": "Dealer advertises clean title (not independently inspected)",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What is the itemized out-the-door price including preparation and every dealer fee?\n• Is dealer stock U1459 still available?",
+      "sellerQuestions": [
+        "What is the itemized out-the-door price including preparation and every dealer fee?",
+        "Is dealer stock U1459 still available?"
+      ],
+      "url": "https://www.craigslist.org/view/d/hollister-2022-kawasaki-klx-230s-abs/bGn6jrnB8RGNueWjeAiLUA"
+    },
+    {
+      "name": "Yamaha TW200",
+      "yr": 2021,
+      "role": "hula",
+      "price": 4000,
+      "miles": "1,250",
+      "loc": "San Francisco / Sunset",
+      "myRank": 6,
+      "note": "Low-mileage city bike; windshield, gear, charger included.",
+      "flag": "Top fit prospect · no ABS · limited highway",
+      "status": "Seller claims clean title, street legal",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Are the advertised windshield, helmet, gloves and charger included?\n• Does the claimed city-only history account for all 1,250 miles?",
+      "sellerQuestions": [
+        "Are the advertised windshield, helmet, gloves and charger included?",
+        "Does the claimed city-only history account for all 1,250 miles?"
+      ],
+      "url": "https://www.craigslist.org/view/d/san-francisco-like-new-yamaha-tw200/7uo4T7UnqtReyWzpFsFQd6"
+    },
+    {
+      "name": "Kawasaki KLX230 (lowered)",
+      "yr": 2022,
+      "role": "hula",
+      "price": 4599,
+      "miles": "751",
+      "loc": "Sunnyvale",
+      "myRank": 12,
+      "note": "Lowered 1.5 inches, Seat Concepts seat; over budget.",
+      "flag": "Over budget · lowered suspension · ABS unknown",
+      "status": "Dealer advertises clean California title",
+      "archived": false,
+      "archiveReason": "",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What is the itemized out-the-door price?\n• Exactly how was the suspension lowered 1.5 inches, and who did it?\n• What is the resulting seat height and suspension travel with the Seat Concepts seat?\n• Is this lowered standard KLX230 an ABS version?\n• Are all original suspension parts included?",
+      "sellerQuestions": [
+        "What is the itemized out-the-door price?",
+        "Exactly how was the suspension lowered 1.5 inches, and who did it?",
+        "What is the resulting seat height and suspension travel with the Seat Concepts seat?",
+        "Is this lowered standard KLX230 an ABS version?",
+        "Are all original suspension parts included?"
+      ],
+      "url": "https://www.craigslist.org/view/d/sunnyvale-2022-kawasaki-klx230-selow/4zVJAfesA2UCxqBNpYgghF"
+    },
+    {
+      "name": "Yamaha TW200 (year disputed)",
+      "yr": "2006 / 2007",
+      "role": "hula",
+      "price": 3200,
+      "miles": "850 shown; rolled over",
+      "loc": "Folsom / Represa",
+      "myRank": 19,
+      "note": "Disputed year, rolled odometer, replacement headlight, missing fender.",
+      "flag": "Year conflict · odometer rolled over · verify VIN",
+      "status": "Seller claims clean title, street legal",
+      "archived": true,
+      "archiveReason": "",
+      "archiveOriginalRank": 19,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why does the title of the ad say 2007 and its description say 2006?\n• What does rolled-over odometer mean here, and what evidence supports total mileage?\n• Why were the front fender removed and headlight changed?",
+      "sellerQuestions": [
+        "Why does the title of the ad say 2007 and its description say 2006?",
+        "What does rolled-over odometer mean here, and what evidence supports total mileage?",
+        "Why were the front fender removed and headlight changed?"
+      ],
+      "url": "https://www.craigslist.org/view/d/represa-2007-yamaha-tw200-great/tF59v8Sk5v6Z8mFp22SMGk"
+    },
+    {
+      "name": "Yamaha TW200",
+      "yr": 2022,
+      "role": "hula",
+      "price": 4500,
+      "miles": "1,265",
+      "loc": "Sutter",
+      "myRank": 999,
+      "note": "Racks, kickstarter, skid plate; ad returned 410.",
+      "flag": "Link unavailable (410) · archive pending repost",
+      "status": "Indexed seller claim: clean title and street legal; page unavailable",
+      "archived": true,
+      "archiveReason": "Craigslist listing returned HTTP 410 Gone on 2026-10-20; status not confirmed sold",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Has the ad been reposted since the recorded HTTP 410 result?\n• Who installed the added kickstarter, and what parts were used?",
+      "sellerQuestions": [
+        "Has the ad been reposted since the recorded HTTP 410 result?",
+        "Who installed the added kickstarter, and what parts were used?"
+      ],
+      "url": "https://www.craigslist.org/view/d/sutter-2022-yamaha-tw200/bxfLnLrF7MjH3QVi49stEW"
+    },
+    {
+      "name": "Kawasaki Versys-X 300",
+      "yr": 2020,
+      "role": "hula",
+      "price": 2800,
+      "miles": "15,854",
+      "loc": "Salinas",
+      "myRank": 999,
+      "note": "Gravel-drop scrapes, new chain; ad returned 410.",
+      "flag": "Link unavailable (410) · crash scrapes claimed",
+      "status": "Indexed seller claim: clean title; page unavailable",
+      "archived": true,
+      "archiveReason": "Craigslist listing returned HTTP 410 Gone on 2026-10-20; status not confirmed sold",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Has the ad been reposted since the recorded HTTP 410 result?\n• What happened in the disclosed gravel fall, and can you show the right fairing and exhaust damage?\n• When were the advertised chain and sprockets replaced?",
+      "sellerQuestions": [
+        "Has the ad been reposted since the recorded HTTP 410 result?",
+        "What happened in the disclosed gravel fall, and can you show the right fairing and exhaust damage?",
+        "When were the advertised chain and sprockets replaced?"
+      ],
+      "url": "https://www.craigslist.org/view/d/salinas-kawasaki-versys-300x/xsrjBpCTSCWbzWgRs2T52J"
+    },
+    {
+      "name": "Suzuki DR200SE",
+      "yr": "2003",
+      "role": "hula",
+      "price": 1800,
+      "miles": "3,194 (seller claimed)",
+      "loc": "Oakley",
+      "myRank": 4,
+      "note": "Budget learner, low claimed mileage, price reduced.",
+      "flag": "23-year-old, low-mileage bike: inspect storage-related carb/petcock/tank issues, tire date codes, hoses, seals, brakes and bearings. Verify CA title/VIN/registration, exact year/trim and odometer. No ABS; highway margin limited. Screenshot only; availability unverified.",
+      "status": "Screenshot only — not contacted; availability/title unverified",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• How much of its 23 years was this 3,194-mile bike stored, and how was its fuel system maintained during storage?\n• Is 3,194 the original mileage, and what records support it?\n• What prompted the reduction from $2,000 to $1,800?",
+      "sellerQuestions": [
+        "How much of its 23 years was this 3,194-mile bike stored, and how was its fuel system maintained during storage?",
+        "Is 3,194 the original mileage, and what records support it?",
+        "What prompted the reduction from $2,000 to $1,800?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/880893688176798/"
+    },
+    {
+      "name": "Yamaha TW200",
+      "yr": "2006",
+      "role": "hula",
+      "price": 3800,
+      "miles": "2,219 (seller claimed)",
+      "loc": "Walnut Creek",
+      "myRank": 5,
+      "note": "Low miles, new battery, cleaned carburetor.",
+      "flag": "20-year-old low-mileage bike: investigate storage history and why carb/battery needed work; inspect tank rust, petcock/carb leaks, tire dates, charging and seals. Verify clean CA street title/VIN/registration, odometer and cold/hot starts. No ABS; limited highway reserve.",
+      "status": "Screenshot reviewed; live Facebook fetch unavailable; availability/title unverified; not contacted",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why were the carburetor and battery serviced, and how long had it sat?\n• Who cleaned the carburetor, what parts were replaced, and is jetting stock?\n• Does the claimed 2,219 miles cover both owners’ use?",
+      "sellerQuestions": [
+        "Why were the carburetor and battery serviced, and how long had it sat?",
+        "Who cleaned the carburetor, what parts were replaced, and is jetting stock?",
+        "Does the claimed 2,219 miles cover both owners’ use?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/1080216004807277"
+    },
+    {
+      "name": "Kawasaki KLX230SM ABS",
+      "yr": "2023",
+      "role": "hula",
+      "price": 3800,
+      "miles": "1,400 (seller claimed)",
+      "loc": "Modesto",
+      "myRank": 11,
+      "note": "Road-tired supermoto, claimed ABS, fuel injection.",
+      "flag": "SM supermoto, not KLX230S. Road tires/17-inch wheels compromise beginner dirt confidence. Verify actual ABS model, warning-light operation and rear-ABS behavior; clean CA title/VIN/registration, service records and modifications. No inspection checks cleared from photo.",
+      "status": "Screenshot reviewed; not contacted; availability/title/ABS unverified",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Is this the factory KLX230SM ABS version, and does its rear ABS have a factory off-road mode?\n• Can you provide the initial-service invoice for this 1,400-mile bike?\n• What is in the remainder of the cut-off seller description?\n• Is the pictured luggage included, and how is it mounted near the exhaust?",
+      "sellerQuestions": [
+        "Is this the factory KLX230SM ABS version, and does its rear ABS have a factory off-road mode?",
+        "Can you provide the initial-service invoice for this 1,400-mile bike?",
+        "What is in the remainder of the cut-off seller description?",
+        "Is the pictured luggage included, and how is it mounted near the exhaust?"
+      ],
+      "url": "https://www.facebook.com/marketplace/item/1120889460500908"
+    },
+    {
+      "name": "Yamaha XT250",
+      "yr": "2008",
+      "role": "hula",
+      "price": 2000,
+      "miles": "Not supplied",
+      "loc": "San Jose",
+      "myRank": 3,
+      "note": "Stored touring setup; windshield, luggage, extras offered.",
+      "flag": "Carbureted 2008 XT250; storage-unit history makes fuel-system condition important. Photo shows loaded touring setup: assess handling without luggage. No ABS. Mileage not supplied; screenshot claims ride-ready, not independently verified. Provisional #3 for low-seat dirt-learning fit and $2,000 asking price, pending condition.",
+      "status": "Screenshot-sourced; seller claims ride-ready; not contacted or independently verified",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• How long has it been in the storage unit, and how often has it been ridden during that time?\n• Was fuel left in the carburetor during storage, and has the carburetor needed cleaning?\n• What is its mileage, and can you provide an odometer photo before the visit?\n• Which of the advertised extras and pictured luggage, windshield and tank bag are included in the $2,000 price?\n• Was the rear suspension changed for loaded touring, and what is the unloaded setup?\n• What additional details will you be adding to the early posting?",
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/1653021426187030"
+    },
+    {
+      "name": "CSC TT250",
+      "yr": "2017",
+      "role": "hula",
+      "price": 1600,
+      "miles": "725 (seller claimed)",
+      "loc": "Livermore",
+      "myRank": 13,
+      "note": "725 miles, replacement shock, cracked fork guard.",
+      "flag": "Budget wildcard, provisional Hula Girl #13. Manufacturer TT250 references list a 34-in seat and 309-lb weight (weight basis not established here); replacement shock may change actual height and handling. Carbureted, five-speed, no ABS. Seller claims current registration, title in own name, recent oil, handguards, engine guard and upgraded rear suspension after pogo-like OEM behavior. Right fork-guard crack disclosed; $25 replacement estimate is seller claim. Assess real fit and shock suitability before considering BDR use; source is screenshot, not independent inspection.",
+      "status": "Screenshot-sourced; seller claims 725 miles, current registration and title in own name; not independently verified",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• What spring rate, rider weight, damping settings and shock length were selected?\n• Has the replacement changed seat height, suspension travel or steering geometry? What is the measured height now?\n• How much time has this 725-mile bike spent stored since 2017, and was its carburetor serviced afterward?\n• Are the original rear shock, handguards and engine guard included?",
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/1745295410100555"
+    }
+  ],
+  "researchModels": [
+    {
+      "id": "model-1",
+      "name": "KTM 690 Enduro R",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 1
+      }
+    },
+    {
+      "id": "model-2",
+      "name": "Husqvarna 701 Enduro",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 2
+      }
+    },
+    {
+      "id": "model-3",
+      "name": "GasGas ES 700",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 3
+      }
+    },
+    {
+      "id": "model-4",
+      "name": "Husqvarna TE630",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 6
+      }
+    },
+    {
+      "id": "model-5",
+      "name": "SWM RS650R",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 10
+      }
+    },
+    {
+      "id": "model-6",
+      "name": "KTM 625 SXC",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 5
+      }
+    },
+    {
+      "id": "model-7",
+      "name": "KTM 640 LC4 Enduro",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 15
+      }
+    },
+    {
+      "id": "model-8",
+      "name": "Suzuki DR650SE",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 13
+      }
+    },
+    {
+      "id": "model-9",
+      "name": "Husqvarna TE610",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 12
+      }
+    },
+    {
+      "id": "model-10",
+      "name": "BMW G650 Xchallenge",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 4
+      }
+    },
+    {
+      "id": "model-11",
+      "name": "Husqvarna TR650 Terra",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 18
+      }
+    },
+    {
+      "id": "model-12",
+      "name": "KTM 640 Adventure",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 20
+      }
+    },
+    {
+      "id": "model-13",
+      "name": "Honda XR650L",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 19
+      }
+    },
+    {
+      "id": "model-14",
+      "name": "BMW G650 Xcountry",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 17
+      }
+    },
+    {
+      "id": "model-15",
+      "name": "SWM Superdual X",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 14
+      }
+    },
+    {
+      "id": "model-16",
+      "name": "Yamaha XT660R",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 22
+      }
+    },
+    {
+      "id": "model-17",
+      "name": "Suzuki DR-Z400S",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 16
+      }
+    },
+    {
+      "id": "model-18",
+      "name": "Kawasaki KLX650C",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 25
+      }
+    },
+    {
+      "id": "model-19",
+      "name": "Suzuki DR-Z4S",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 7
+      }
+    },
+    {
+      "id": "model-20",
+      "name": "KTM 690 SMC R",
+      "tags": [
+        "street"
+      ],
+      "note": "Supermoto hooligan; overlaps enduro.",
+      "ranks": {
+        "street": 10
+      }
+    },
+    {
+      "id": "model-21",
+      "name": "Husqvarna 701 Supermoto",
+      "tags": [
+        "street"
+      ],
+      "note": "Agile, punchy; overlaps enduro.",
+      "ranks": {
+        "street": 9
+      }
+    },
+    {
+      "id": "model-22",
+      "name": "Husqvarna SM630",
+      "tags": [
+        "street"
+      ],
+      "note": "Punchy supermoto; scarce parts, KTM overlap.",
+      "ranks": {
+        "street": 13
+      }
+    },
+    {
+      "id": "model-23",
+      "name": "Husqvarna SM610",
+      "tags": [
+        "street"
+      ],
+      "note": "Rowdy single; old, scarce parts.",
+      "ranks": {
+        "street": 16
+      }
+    },
+    {
+      "id": "model-24",
+      "name": "SWM Superdual T",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 24
+      }
+    },
+    {
+      "id": "model-25",
+      "name": "Yamaha XT660Z Ténéré",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 23
+      }
+    },
+    {
+      "id": "model-26",
+      "name": "BMW G650GS Sertão",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 26
+      }
+    },
+    {
+      "id": "model-27",
+      "name": "Aprilia Pegaso 650 Trail",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 27
+      }
+    },
+    {
+      "id": "model-28",
+      "name": "Yamaha XSR700",
+      "tags": [
+        "street"
+      ],
+      "note": "Punchy, playful; soft suspension.",
+      "ranks": {
+        "street": 5
+      }
+    },
+    {
+      "id": "model-29",
+      "name": "KTM 690 SM",
+      "tags": [
+        "street"
+      ],
+      "note": "Overlaps enduro.",
+      "ranks": {
+        "street": 17
+      }
+    },
+    {
+      "id": "model-30",
+      "name": "Kawasaki KLR650",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 28
+      }
+    },
+    {
+      "id": "model-31",
+      "name": "Yamaha WR250R",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 21
+      }
+    },
+    {
+      "id": "model-32",
+      "name": "Honda CRF450RL",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 11
+      }
+    },
+    {
+      "id": "model-33",
+      "name": "KTM 500 EXC-F",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 8
+      }
+    },
+    {
+      "id": "model-34",
+      "name": "Husqvarna FE501S",
+      "tags": [
+        "dirt"
+      ],
+      "note": "",
+      "ranks": {
+        "dirt": 9
+      }
+    },
+    {
+      "id": "model-35",
+      "name": "2015-2019 BMW F800R",
+      "tags": [
+        "street"
+      ],
+      "note": "Practical, composed; likely too tame.",
+      "ranks": {
+        "street": 15
+      }
+    },
+    {
+      "id": "model-36",
+      "name": "Suzuki GSX-8S",
+      "tags": [
+        "street"
+      ],
+      "note": "Torquey, composed; less wind protection.",
+      "ranks": {
+        "street": 4
+      }
+    },
+    {
+      "id": "model-37",
+      "name": "Kawasaki Z650",
+      "tags": [
+        "street"
+      ],
+      "note": "Friendly twin; compact, less exciting.",
+      "ranks": {
+        "street": 12
+      }
+    },
+    {
+      "id": "model-38",
+      "name": "Yamaha FJ-09 / Tracer 900",
+      "tags": [
+        "street"
+      ],
+      "note": "Roomy, lively triple, touring versatility.",
+      "ranks": {
+        "street": 3
+      }
+    },
+    {
+      "id": "model-39",
+      "name": "Ducati Hypermotard 821 / Hyperstrada",
+      "tags": [
+        "street"
+      ],
+      "note": "Tall, thrilling; costly upkeep, some overlap.",
+      "ranks": {
+        "street": 6
+      }
+    },
+    {
+      "id": "model-40",
+      "name": "KTM 790 Duke",
+      "tags": [
+        "street"
+      ],
+      "note": "Sharp handling, punchy; cam wear concerns.",
+      "ranks": {
+        "street": 8
+      }
+    },
+    {
+      "id": "model-41",
+      "name": "BMW R1200R",
+      "tags": [
+        "street"
+      ],
+      "note": "Torquey, comfortable, versatile; heavy.",
+      "ranks": {
+        "street": 7
+      }
+    },
+    {
+      "id": "model-42",
+      "name": "VTR1000F Super Hawk",
+      "tags": [
+        "street"
+      ],
+      "note": "V-twin character; thirsty, bulky, crouched.",
+      "ranks": {
+        "street": 14
+      }
+    },
+    {
+      "id": "model-43",
+      "name": "Super Duke",
+      "tags": [
+        "street"
+      ],
+      "note": "Monster torque, sharp; excessive power.",
+      "ranks": {
+        "street": 11
+      }
+    },
+    {
+      "id": "model-sv650",
+      "name": "Suzuki SV650",
+      "tags": [
+        "street"
+      ],
+      "note": "explosive grin, small cockpit",
+      "ranks": {
+        "street": 1
+      }
+    },
+    {
+      "id": "model-versys650",
+      "name": "Kawasaki Versys 650",
+      "tags": [
+        "street"
+      ],
+      "note": "roomy, composed, great two-up",
+      "ranks": {
+        "street": 2
+      }
+    },
+    {
+      "id": "model-hula-klx230s-abs-2023",
+      "name": "Kawasaki KLX230 S ABS (2023)",
+      "tags": [
+        "hula"
+      ],
+      "note": "32.7in; ABS; easy dirt; modest highways",
+      "ranks": {
+        "hula": 1
+      }
+    },
+    {
+      "id": "model-hula-crf300ls",
+      "name": "Honda CRF300LS",
+      "tags": [
+        "hula"
+      ],
+      "note": "32.7in; ABS; BDR-capable; heavier, pricier",
+      "ranks": {
+        "hula": 2
+      }
+    },
+    {
+      "id": "model-hula-xt250",
+      "name": "Yamaha XT250",
+      "tags": [
+        "hula"
+      ],
+      "note": "31.9in; forgiving, lightweight; no ABS",
+      "ranks": {
+        "hula": 3
+      }
+    },
+    {
+      "id": "model-hula-tw200",
+      "name": "Yamaha TW200",
+      "tags": [
+        "hula"
+      ],
+      "note": "31.1in; superb footing; limited speed",
+      "ranks": {
+        "hula": 4
+      }
+    },
+    {
+      "id": "model-hula-dr200s",
+      "name": "Suzuki DR200S",
+      "tags": [
+        "hula"
+      ],
+      "note": "33.3in; light, simple; carbureted; no ABS",
+      "ranks": {
+        "hula": 5
+      }
+    }
+  ]
+}
