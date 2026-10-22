@@ -2,12 +2,12 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 21,
-  "generatedAt": "2026-10-22T04:28:52.308Z",
+  "revision": 39,
+  "generatedAt": "2026-10-22T05:38:34.585Z",
   "counts": {
-    "active": 38,
+    "active": 39,
     "archived": 12,
-    "total": 50,
+    "total": 51,
     "researchModels": 50,
     "categories": {
       "street": {
@@ -19,7 +19,7 @@
         "archived": 2
       },
       "hula": {
-        "active": 23,
+        "active": 24,
         "archived": 3
       }
     }
@@ -520,19 +520,19 @@
     },
     {
       "name": "KTM 390 Adventure",
-      "yr": "Year unlisted",
+      "yr": "2020",
       "role": "hula",
       "price": 3750,
-      "miles": "600 (claimed)",
+      "miles": "600",
       "loc": "Danville",
-      "myRank": 16,
+      "myRank": 17,
       "note": "600 miles, risers, new battery, minor scratches.",
-      "flag": "Year/title and ownership to verify",
+      "flag": "Stuff from SittingMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Preserve current recorded 2020 year and newer sitting-related note; weight and storage concerns remain.",
       "status": "Existing HQ listing; Craigslist checked 2026-10-20",
       "archived": false,
       "archiveReason": "",
       "archiveOriginalRank": null,
-      "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What is the exact model year of this 600-mile KTM?\n• Why did it need a new battery at only 600 miles, and how long did it sit?\n• What caused the scratches, and were steering parts affected?\n• Was the initial service completed despite the low mileage?",
+      "visitNotes": "QUESTIONS FOR THIS BIKE:\nhow long did it sit?\n• What caused the scratches, and were steering parts affected?\n• Was the initial service completed despite the low mileage?",
       "sellerQuestions": [
         "What is the exact model year of this 600-mile KTM?",
         "Why did it need a new battery at only 600 miles, and how long did it sit?",
@@ -582,17 +582,18 @@
     },
     {
       "name": "Yamaha XT250",
-      "yr": 2010,
+      "yr": "2010",
       "role": "hula",
       "price": 3200,
       "miles": "1,850",
       "loc": "Santa Cruz",
       "myRank": 2,
       "note": "Low miles, new tires, claimed mechanic inspection.",
-      "flag": "Top lead — verify cold start",
+      "flag": "Top lead — verify cold startMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Full-sized, low and forgiving; a long-term easy-dirt learner.",
       "status": "Seller: clean title; reg to Jun 2027",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• How often was this 1,850-mile bike ridden, and was the carburetor cleaned after storage?\n• Can you provide the claimed recent mechanic inspection and maintenance records?\n• When were the advertised new tires fitted?",
       "sellerQuestions": [
         "How often was this 1,850-mile bike ridden, and was the carburetor cleaned after storage?",
@@ -603,17 +604,18 @@
     },
     {
       "name": "Yamaha XT250",
-      "yr": 2017,
+      "yr": "2017",
       "role": "hula",
       "price": 4400,
       "miles": "1,990",
       "loc": "Forestville / Santa Rosa",
       "myRank": 7,
       "note": "Fuel injection, handguards, rack, lighting modifications; $4,400 firm.",
-      "flag": "Price firm, near ceiling",
+      "flag": "Price firm, near ceilingMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Good keeper platform; $4,400 asking price near budget ceiling.",
       "status": "Seller: clean CA title in hand",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Who installed the lighting changes, and what was altered?\n• Are the handguards and rack included?",
       "sellerQuestions": [
         "Who installed the lighting changes, and what was altered?",
@@ -623,17 +625,18 @@
     },
     {
       "name": "Yamaha XT250",
-      "yr": 2010,
+      "yr": "2010",
       "role": "hula",
       "price": 3500,
       "miles": "9,500",
       "loc": "Alameda / Oakland",
       "myRank": 8,
       "note": "Nearby carbureted runner; currently registered, 9,500 miles.",
-      "flag": "Convenient; mileage/price tradeoff",
+      "flag": "Convenient; mileage/price tradeoffMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Convenient local option; mileage/price tradeoff.",
       "status": "Seller: clean title; reg Jan 2027",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Would you consider an offer reflecting the lower-mile Santa Cruz XT250 comparison?",
       "sellerQuestions": [
         "Would you consider an offer reflecting the lower-mile Santa Cruz XT250 comparison?"
@@ -642,17 +645,18 @@
     },
     {
       "name": "Yamaha XT250",
-      "yr": 2017,
+      "yr": "2017",
       "role": "hula",
       "price": 3900,
       "miles": "5,000",
       "loc": "Fortuna",
       "myRank": 9,
       "note": "Fuel injection, 5,000 miles; distant second-owner bike.",
-      "flag": "Long trip; sparse service detail",
+      "flag": "Long trip; sparse service detailMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Good platform but long viewing trip and sparse service detail.",
       "status": "Seller: clean title",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Can you send a running video and both-side photos before the long trip to Fortuna?",
       "sellerQuestions": [
         "Can you send a running video and both-side photos before the long trip to Fortuna?"
@@ -661,17 +665,18 @@
     },
     {
       "name": "Yamaha XT225",
-      "yr": 2007,
+      "yr": "2007",
       "role": "hula",
       "price": 2500,
       "miles": "19,400",
       "loc": "Napa",
       "myRank": 10,
       "note": "Rebuilt top end, Utah origin, rejetted carb.",
-      "flag": "Top-end rebuild; verify CA paperwork",
+      "flag": "Top-end rebuild; verify CA paperworkMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Light, dirt-appropriate; rebuilt top end and mileage require explanation.",
       "status": "Seller: clean title; registered Jun 2027",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why did the top end need rebuilding around 18,400 miles, and who did the work?\n• Is it now California-titled rather than still on Utah paperwork?\n• Has its Utah origin or missing California canister caused registration issues?\n• How does it run after the carburetor rejet and exhaust changes?",
       "sellerQuestions": [
         "Why did the top end need rebuilding around 18,400 miles, and who did the work?",
@@ -683,17 +688,18 @@
     },
     {
       "name": "Kawasaki Versys-X 300",
-      "yr": 2022,
+      "yr": "2022",
       "role": "hula",
       "price": 4195,
       "miles": "1,500",
       "loc": "Danville",
-      "myRank": 14,
+      "myRank": 15,
       "note": "ABS, 1,500 miles, windshield; heavier road-oriented ADV.",
-      "flag": "Street-biased; heavier in dirt",
+      "flag": "Street-biased; heavier in dirtMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Road comfort/highway performance no longer compensate for extra weight in beginner dirt use.",
       "status": "Seller: clean title",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Was the 600-mile break-in service completed on this 1,500-mile bike?\n• Are both advertised keys and the windshield included?",
       "sellerQuestions": [
         "Was the 600-mile break-in service completed on this 1,500-mile bike?",
@@ -703,17 +709,18 @@
     },
     {
       "name": "KTM 390 Adventure",
-      "yr": 2020,
+      "yr": "2020",
       "role": "hula",
       "price": 4000,
       "miles": "4,800",
       "loc": "Half Moon Bay",
-      "myRank": 15,
+      "myRank": 16,
       "note": "ABS, aftermarket exhaust and levers, low miles.",
-      "flag": "Test seat width; aftermarket exhaust",
+      "flag": "Test seat width; aftermarket exhaustMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Road-biased weight/size work against novice dirt confidence; highway performance earns little credit.",
       "status": "Seller: clean title",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Was the fueling changed for the aftermarket exhaust, and is the stock exhaust included?\n• Were the replacement levers installed after a drop?",
       "sellerQuestions": [
         "Was the fueling changed for the aftermarket exhaust, and is the stock exhaust included?",
@@ -723,17 +730,18 @@
     },
     {
       "name": "BMW G 310 GS",
-      "yr": 2022,
+      "yr": "2022",
       "role": "hula",
       "price": 4399,
       "miles": "1,200",
       "loc": "Grover Beach",
-      "myRank": 17,
+      "myRank": 18,
       "note": "ABS, low miles, new battery, claimed dealer maintenance.",
-      "flag": "Far away; 386 lb; street-oriented",
+      "flag": "Far away; 386 lb; street-orientedMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Prior poor-fit assessment retained.",
       "status": "Seller: clean title, current registration",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Why did the battery need replacement at 1,200 miles?\n• Can you provide the claimed dealer-maintenance invoices, including break-in service?",
       "sellerQuestions": [
         "Why did the battery need replacement at 1,200 miles?",
@@ -748,9 +756,9 @@
       "price": 3400,
       "miles": "Unknown",
       "loc": "Cutten / Eureka",
-      "myRank": 18,
+      "myRank": 19,
       "note": "Eureka-area BMW; indexed at $3,400.",
-      "flag": "Listing could not be opened; verify",
+      "flag": "Listing could not be opened; verifyMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Prior poor-fit assessment retained.",
       "status": "Price from search listing; details unavailable",
       "archived": false,
       "archiveReason": "",
@@ -761,17 +769,18 @@
     },
     {
       "name": "Kawasaki KLX300SM",
-      "yr": 2024,
+      "yr": "2024",
       "role": "hula",
       "price": 5000,
       "miles": "300",
       "loc": "Danville",
-      "myRank": 19,
+      "myRank": 20,
       "note": "Street-focused supermoto; modified springs, lights; over budget.",
-      "flag": "Over budget; supermoto wheels",
+      "flag": "Over budget; supermoto wheelsMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Prior poor-fit assessment retained.",
       "status": "Title/registration not specified",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What spring rates were fitted, why, and what rider weight were they chosen for?\n• What rear-light and blinker modifications were made?\n• Are the original springs, lighting and other stock parts included?",
       "sellerQuestions": [
         "What spring rates were fitted, why, and what rider weight were they chosen for?",
@@ -782,17 +791,18 @@
     },
     {
       "name": "BMW F650 Funduro",
-      "yr": 1997,
+      "yr": "1997",
       "role": "hula",
       "price": 1800,
       "miles": "72,800",
       "loc": "Novato",
-      "myRank": 20,
+      "myRank": 21,
       "note": "Cheap, heavy, carbureted; 72,800 miles.",
-      "flag": "Very heavy, old, 72,800 miles",
+      "flag": "Very heavy, old, 72,800 milesMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Prior poor-fit assessment retained.",
       "status": "Seller: clean title; reg Jun 2027",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": " At 72,800 miles, which engine, cooling and charging components have been repaired or renewed?\n• Has its carbureted engine needed significant work at this mileage?",
       "sellerQuestions": [
         "At 72,800 miles, which engine, cooling and charging components have been repaired or renewed?",
@@ -802,17 +812,18 @@
     },
     {
       "name": "Suzuki DR-Z400S",
-      "yr": 2002,
+      "yr": "2002",
       "role": "hula",
       "price": 2800,
       "miles": "8,838",
       "loc": "Grass Valley",
-      "myRank": 21,
+      "myRank": 22,
       "note": "Big tank, stock parts; tall for Hula Girl.",
-      "flag": "Stock seat ~36.8in: beyond her limit",
+      "flag": "Stock seat ~36.8in: beyond her limitMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Legitimate dirt dual-sport, but approximately 36.8-in standard seat remains beyond current target.",
       "status": "Seller: clean title",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Are its seat and suspension stock height, or has it been lowered?\n• What is the loaded seat height of this particular setup?\n• Are the advertised original parts included with the big tank?",
       "sellerQuestions": [
         "Are its seat and suspension stock height, or has it been lowered?",
@@ -828,12 +839,13 @@
       "price": 2500,
       "miles": "37,000",
       "loc": "Coquille, OR",
-      "myRank": 22,
+      "myRank": 23,
       "note": "Low-seat road bike; 37k touring miles, Oregon.",
-      "flag": "Street-only; high miles; OR registration",
+      "flag": "Street-only; high miles; OR registrationMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Prior poor-fit assessment retained.",
       "status": "Seller: clean title; OREGON location",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Which year is correct: 2023 or 2024?\n• Does it have an Oregon title, and what California transfer requirements apply to this bike?\n• Can you provide the claimed full touring-service records at approximately 37,000 miles?",
       "sellerQuestions": [
         "Which year is correct: 2023 or 2024?",
@@ -844,17 +856,18 @@
     },
     {
       "name": "Royal Enfield Himalayan 411 (seller: Kathmandu)",
-      "yr": 2022,
+      "yr": "2022",
       "role": "hula",
       "price": 1000,
       "miles": "3,000",
       "loc": "San Rafael",
-      "myRank": 23,
+      "myRank": 24,
       "note": "Nonrunner, theft salvage; advertised as “Kathmandu.”",
-      "flag": "NONRUNNING + SALVAGE — avoid",
+      "flag": "NONRUNNING + SALVAGE — avoidMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Prior nonrunning/salvage poor-fit assessment retained.",
       "status": "Seller: SALVAGE title",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "• Why is it advertised as Kathmandu when the photo resembles a Himalayan?\n• What caused the nonrunning fuel-system problem, and is there a diagnosis?\n• What documents explain the theft/salvage history and eligibility for registration?\n• Were the ignition, locks or keys damaged during the alleged theft?",
       "sellerQuestions": [
         "Why is it advertised as Kathmandu when the photo resembles a Himalayan?",
@@ -866,17 +879,18 @@
     },
     {
       "name": "Kawasaki KLX230S ABS",
-      "yr": 2022,
+      "yr": "2022",
       "role": "hula",
       "price": 2995,
       "miles": "4,202",
       "loc": "Hollister",
       "myRank": 1,
       "note": "Low-seat ABS dual-sport; dealer fees extra.",
-      "flag": "Dealership sale: tax/license/setup extra; confirm OTD",
+      "flag": "Dealership sale: tax/license/setup extra; confirm OTDMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Best conceptual fit; dealer out-the-door price remains decisive.",
       "status": "Dealer advertises clean title (not independently inspected)",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What is the itemized out-the-door price including preparation and every dealer fee?\n• Is dealer stock U1459 still available?",
       "sellerQuestions": [
         "What is the itemized out-the-door price including preparation and every dealer fee?",
@@ -886,17 +900,18 @@
     },
     {
       "name": "Yamaha TW200",
-      "yr": 2021,
+      "yr": "2021",
       "role": "hula",
       "price": 4000,
       "miles": "1,250",
       "loc": "San Francisco / Sunset",
-      "myRank": 6,
+      "myRank": 5,
       "note": "Low-mileage city bike; windshield, gear, charger included.",
-      "flag": "Top fit prospect · no ABS · limited highway",
+      "flag": "Top fit prospect · no ABS · limited highwayMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Newer 2021 example preferred over 2006 at only $200 more; assess real fit and condition.",
       "status": "Seller claims clean title, street legal",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• Are the advertised windshield, helmet, gloves and charger included?\n• Does the claimed city-only history account for all 1,250 miles?",
       "sellerQuestions": [
         "Are the advertised windshield, helmet, gloves and charger included?",
@@ -906,17 +921,18 @@
     },
     {
       "name": "Kawasaki KLX230 (lowered)",
-      "yr": 2022,
+      "yr": "2022",
       "role": "hula",
       "price": 4599,
       "miles": "751",
       "loc": "Sunnyvale",
-      "myRank": 12,
+      "myRank": 11,
       "note": "Lowered 1.5 inches, Seat Concepts seat; over budget.",
-      "flag": "Over budget · lowered suspension · ABS unknown",
+      "flag": "Over budget · lowered suspension · ABS unknownMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Dirt-focused platform earns preference over supermotos; still over budget and lowering quality/remaining travel matter.",
       "status": "Dealer advertises clean California title",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• What is the itemized out-the-door price?\n• Exactly how was the suspension lowered 1.5 inches, and who did it?\n• What is the resulting seat height and suspension travel with the Seat Concepts seat?\n• Is this lowered standard KLX230 an ABS version?\n• Are all original suspension parts included?",
       "sellerQuestions": [
         "What is the itemized out-the-door price?",
@@ -998,8 +1014,8 @@
       "miles": "3,194 (seller claimed)",
       "loc": "Oakley",
       "myRank": 4,
-      "note": "Budget learner, low claimed mileage, price reduced.",
-      "flag": "23-year-old, low-mileage bike: inspect storage-related carb/petcock/tank issues, tire date codes, hoses, seals, brakes and bearings. Verify CA title/VIN/registration, exact year/trim and odometer. No ABS; highway margin limited. Screenshot only; availability unverified.",
+      "note": "31.9-inch seat, $1,800; low claimed miles, storage concerns.",
+      "flag": "2003 DR200SE published seat height: approximately 31.9 inches (810 mm), not the 33.3-inch later DR200S specification. Better beginner footing than previously assumed; supports #4 as a strong budget contender, close to #3 XT250 pending condition. Published height is not a measurement of this particular bike; assess seat/suspension changes and real footing. Model-year reference: https://www.suzukicycles.org/2000-2009/2003f.shtml23-year-old, low-mileage bike: inspect storage-related carb/petcock/tank issues, tire date codes, hoses, seals, brakes and bearings. Verify CA title/VIN/registration, exact year/trim and odometer. No ABS; highway margin limited. Screenshot only; availability unverified.MISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Serious challenger to #3 if sound; this 2003 SE uses approximately 31.9-in published seat height, not later DR200S 33.3-in.",
       "status": "Screenshot only — not contacted; availability/title unverified",
       "archived": false,
       "archiveReason": "",
@@ -1019,9 +1035,9 @@
       "price": 3800,
       "miles": "2,219 (seller claimed)",
       "loc": "Walnut Creek",
-      "myRank": 5,
+      "myRank": 6,
       "note": "Low miles, new battery, cleaned carburetor.",
-      "flag": "20-year-old low-mileage bike: investigate storage history and why carb/battery needed work; inspect tank rust, petcock/carb leaks, tire dates, charging and seals. Verify clean CA street title/VIN/registration, odometer and cold/hot starts. No ABS; limited highway reserve.",
+      "flag": "20-year-old low-mileage bike: investigate storage history and why carb/battery needed work; inspect tank rust, petcock/carb leaks, tire dates, charging and seals. Verify clean CA street title/VIN/registration, odometer and cold/hot starts. No ABS; limited highway reserve.MISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Storage history and age outweigh $200 saving against 2021; highway limitations carry little ranking penalty now.",
       "status": "Screenshot reviewed; live Facebook fetch unavailable; availability/title unverified; not contacted",
       "archived": false,
       "archiveReason": "",
@@ -1041,9 +1057,9 @@
       "price": 3800,
       "miles": "1,400 (seller claimed)",
       "loc": "Modesto",
-      "myRank": 11,
+      "myRank": 14,
       "note": "Road-tired supermoto, claimed ABS, fuel injection.",
-      "flag": "SM supermoto, not KLX230S. Road tires/17-inch wheels compromise beginner dirt confidence. Verify actual ABS model, warning-light operation and rear-ABS behavior; clean CA title/VIN/registration, service records and modifications. No inspection checks cleared from photo.",
+      "flag": "SM supermoto, not KLX230S. Road tires/17-inch wheels compromise beginner dirt confidence. Verify actual ABS model, warning-light operation and rear-ABS behavior; clean CA title/VIN/registration, service records and modifications. No inspection checks cleared from photo.MISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. 17-in supermoto wheels and road tires reduce novice dirt suitability; ABS does not offset terrain/fit compromises.",
       "status": "Screenshot reviewed; not contacted; availability/title/ABS unverified",
       "archived": false,
       "archiveReason": "",
@@ -1066,7 +1082,7 @@
       "loc": "San Jose",
       "myRank": 3,
       "note": "Stored touring setup; windshield, luggage, extras offered.",
-      "flag": "Carbureted 2008 XT250; storage-unit history makes fuel-system condition important. Photo shows loaded touring setup: assess handling without luggage. No ABS. Mileage not supplied; screenshot claims ride-ready, not independently verified. Provisional #3 for low-seat dirt-learning fit and $2,000 asking price, pending condition.",
+      "flag": "Carbureted 2008 XT250; storage-unit history makes fuel-system condition important. Photo shows loaded touring setup: assess handling without luggage. No ABS. Mileage not supplied; screenshot claims ride-ready, not independently verified. Provisional #3 for low-seat dirt-learning fit and $2,000 asking price, pending condition.MISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Excellent potential value; mileage and storage history still unresolved.",
       "status": "Screenshot-sourced; seller claims ride-ready; not contacted or independently verified",
       "archived": false,
       "archiveReason": "",
@@ -1083,8 +1099,8 @@
       "miles": "725 (seller claimed)",
       "loc": "Livermore",
       "myRank": 13,
-      "note": "725 miles, replacement shock, cracked fork guard.",
-      "flag": "Budget wildcard, provisional Hula Girl #13. Manufacturer TT250 references list a 34-in seat and 309-lb weight (weight basis not established here); replacement shock may change actual height and handling. Carbureted, five-speed, no ABS. Seller claims current registration, title in own name, recent oil, handguards, engine guard and upgraded rear suspension after pogo-like OEM behavior. Right fork-guard crack disclosed; $25 replacement estimate is seller claim. Assess real fit and shock suitability before considering BDR use; source is screenshot, not independent inspection.",
+      "note": "34\" TALL seat. Heavy! 725 miles, new shock,",
+      "flag": "Budget wildcard, provisional Hula Girl #13. Manufacturer TT250 references list a 34-in seat and 309-lb weight (weight basis not established here); replacement shock may change actual height and handling. Carbureted, five-speed, no ABS. Seller claims current registration, title in own name, recent oil, handguards, engine guard and upgraded rear suspension after pogo-like OEM behavior. Right fork-guard crack disclosed; $25 replacement estimate is seller claim. Assess real fit and shock suitability before considering BDR use; source is screenshot, not independent inspection.MISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. Dirt-oriented budget wildcard; 34-in nominal seat, weight, replacement shock and storage concerns remain serious. Reported 2026 CSC closure increases long-term parts/support risk; current parts availability not verified.",
       "status": "Screenshot-sourced; seller claims 725 miles, current registration and title in own name; not independently verified",
       "archived": false,
       "archiveReason": "",
@@ -1092,6 +1108,24 @@
       "visitNotes": "• What spring rate, rider weight, damping settings and shock length were selected?\n• Has the replacement changed seat height, suspension travel or steering geometry? What is the measured height now?\n• How much time has this 725-mile bike spent stored since 2017, and was its carburetor serviced afterward?\n• Are the original rear shock, handguards and engine guard included?",
       "sellerQuestions": [],
       "url": "https://www.facebook.com/marketplace/item/1745295410100555"
+    },
+    {
+      "name": "Honda CRF230M",
+      "yr": "2009",
+      "role": "hula",
+      "price": 3300,
+      "miles": "9,966 claimed (header 9,965)",
+      "loc": "Newark",
+      "myRank": 12,
+      "note": "Low-seat Honda; knobbies, risers, handguards, recent oil claimed.",
+      "flag": "Provisional Hula Girl #12 for dirt-first, truck-to-trail learning. Honda factory 2009 specs: 31.7-in seat, 276-lb curb weight, 223cc carbureted single, six-speed, 17-in wheels both ends, 9.0-in front/6.6-in rear travel. No ABS. Low seat and manageable engine support confidence; 17-in front is a rollover/terrain compromise versus a dirt-oriented dual-sport. New knobbies do not change wheel diameter; tire make/model, DOT marking, fit and clearance remain uninspected. Actual modified seat height unmeasured. $3,300 is less compelling than $1,800 DR200SE or $2,000 XT250 leads; no automatic upgrade over them. Seller claims first-try starts, good carburetor, oil under 100 miles ago, registration through Feb 2027 (sticker not applied), manuals, risers and handguards. Premium fuel claim is not proof of maintenance. Screenshot header says 9,965 miles/two owners; text says 9,966. Source: https://hondanews.com/en-US/releases/release-d846d47de079e162923276004c34bc39-2009-honda-crf230m-specificationsMISSION: Full-sized California-street-legal keeper; dirt confidence first, truck transport to trails/easy BDRs. Footing, low-speed control, weight, reliability, parts and value dominate; highway/two-up comfort earns little credit, ABS is a bonus. Provisional shopping order; condition and availability unverified. New listing retained: low 31.7-in factory seat and 276-lb curb weight favor confidence over CSC; 17-in front remains a dirt rollover compromise. Behind the stronger dirt-oriented leads.",
+      "status": "User screenshot and seller text; asking $3,300; not contacted or independently inspected",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• What make, model and sizes are the new knobbies, and are both DOT-marked? Any rubbing at full steering lock or suspension compression?\n• Are both wheels still stock 17-inch, and were sprocket sizes changed for dirt use?\n• Have the seat, suspension or ride height been altered beyond the handlebar risers?\n• At approximately 10,000 miles, when were valve clearances last checked, and what carburetor work has been done?\n• Have the risers required cable rerouting, and does throttle return freely at full lock?\n• What off-road riding or drops has it had since the tire change?\n• Is the unapplied February 2027 registration sticker available with its matching registration card?",
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/1603059574645374/"
     }
   ],
   "researchModels": [
@@ -1596,7 +1630,7 @@
       "tags": [
         "hula"
       ],
-      "note": "32.7in; ABS; easy dirt; modest highways",
+      "note": "32.7in; ABS; easy dirt; modest highways\n\nMission: Dirt confidence first; full-sized CA-street-legal dual-sport, truck to trails/easy BDRs, keep for years. Highway/two-up low priority. Leading full-sized low-seat dirt learner/keeper; judge actual footing, weight and total price. ABS bonus.",
       "ranks": {
         "hula": 1
       }
@@ -1607,9 +1641,9 @@
       "tags": [
         "hula"
       ],
-      "note": "32.7in; ABS; BDR-capable; heavier, pricier",
+      "note": "32.7in; ABS; BDR-capable; heavier, pricier\n\nMission: Dirt confidence first; full-sized CA-street-legal dual-sport, truck to trails/easy BDRs, keep for years. Highway/two-up low priority. Capable keeper for easy BDRs; added performance matters less than actual footing, weight and price versus XT250.",
       "ranks": {
-        "hula": 2
+        "hula": 3
       }
     },
     {
@@ -1618,9 +1652,9 @@
       "tags": [
         "hula"
       ],
-      "note": "31.9in; forgiving, lightweight; no ABS",
+      "note": "31.9in; forgiving, lightweight; no ABS\n\nMission: Dirt confidence first; full-sized CA-street-legal dual-sport, truck to trails/easy BDRs, keep for years. Highway/two-up low priority. Promoted above CRF300LS: manageable weight, low seat, gentle power, simple ownership and affordable used examples favor long-term dirt confidence.",
       "ranks": {
-        "hula": 3
+        "hula": 2
       }
     },
     {
@@ -1629,7 +1663,7 @@
       "tags": [
         "hula"
       ],
-      "note": "31.1in; superb footing; limited speed",
+      "note": "31.1in; superb footing; limited speed\n\nMission: Dirt confidence first; full-sized CA-street-legal dual-sport, truck to trails/easy BDRs, keep for years. Highway/two-up low priority. Forgiving footing and gentle power suit dirt learning; limited highway pace earns little penalty. Assess trail handling and fit for years of use.",
       "ranks": {
         "hula": 4
       }
@@ -1640,7 +1674,7 @@
       "tags": [
         "hula"
       ],
-      "note": "33.3in; light, simple; carbureted; no ABS",
+      "note": "33.3in; light, simple; carbureted; no ABS\n\nMission: Dirt confidence first; full-sized CA-street-legal dual-sport, truck to trails/easy BDRs, keep for years. Highway/two-up low priority. Later DR200S nominal 33.3-in seat must not be applied to the 2003 DR200SE listing, approximately 31.9 in. Simple budget dirt keeper; assess condition and fit.",
       "ranks": {
         "hula": 5
       }
