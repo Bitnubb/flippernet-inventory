@@ -43,8 +43,8 @@ jobs:
               assert bike["role"] in {"street","dirt","hula"}
           for model in models:
               assert set(model) <= model_keys
-          assert not re.search(r"data:[^,\\s]+;base64,", raw.decode(), re.I), "Embedded image"
-          assert not re.search(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,}", raw.decode(), re.I), "Email"
+          assert not re.search(r"data:[^,\s]+;base64,", raw.decode(), re.I), "Embedded image"
+          assert not re.search(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}", raw.decode(), re.I), "Email"
           assert counts["total"] == len(bikes)
           assert counts["active"] == sum(not b["archived"] for b in bikes)
           assert counts["archived"] == sum(b["archived"] for b in bikes)
