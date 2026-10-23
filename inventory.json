@@ -2,16 +2,16 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 72,
-  "generatedAt": "2026-10-23T04:50:06.660Z",
+  "revision": 111,
+  "generatedAt": "2026-10-23T09:38:01.472Z",
   "counts": {
-    "active": 40,
+    "active": 42,
     "archived": 14,
-    "total": 54,
-    "researchModels": 55,
+    "total": 56,
+    "researchModels": 60,
     "categories": {
       "street": {
-        "active": 7,
+        "active": 9,
         "archived": 8
       },
       "dirt": {
@@ -101,7 +101,7 @@
       "price": 2999,
       "miles": "28,000",
       "loc": "Larkspur",
-      "myRank": 6,
+      "myRank": 8,
       "note": "Belts only inspected; valves reportedly adjusted.",
       "flag": "Belt receipt needed",
       "status": "Live Craigslist listing",
@@ -121,7 +121,7 @@
       "price": 3200,
       "miles": "47,819",
       "loc": "San Jose",
-      "myRank": 7,
+      "myRank": 9,
       "note": "Touring twin with luggage; less playful.",
       "flag": "",
       "status": "Facebook screenshot",
@@ -211,7 +211,7 @@
       "price": 3500,
       "miles": "10,300",
       "loc": "San Rafael",
-      "myRank": 2,
+      "myRank": 3,
       "note": "Fresh tires, Power Commander, claimed 10k service.",
       "flag": "Street favorite",
       "status": "Live Craigslist listing",
@@ -277,7 +277,7 @@
       "price": 4000,
       "miles": "15,160",
       "loc": "Bodega Bay",
-      "myRank": 5,
+      "myRank": 7,
       "note": "Akrapovič pipes, Rottweiler intake, steering damper.",
       "flag": "Fast street hooligan · inspect carefully",
       "status": "Live Craigslist listing",
@@ -299,7 +299,7 @@
       "price": 4000,
       "miles": "20,000",
       "loc": "Lodi",
-      "myRank": 1,
+      "myRank": 2,
       "note": "Highway gearing, fresh tires, slip-on, X-ring chain.",
       "flag": "Strong everyday street value · confirm maintenance",
       "status": "Facebook screenshot · seller claims well-maintained",
@@ -503,7 +503,7 @@
       "price": 4300,
       "miles": "~6,000 (claimed)",
       "loc": "Hollister",
-      "myRank": 4,
+      "myRank": 5,
       "note": "Matte-black wildcard; dealer service claimed, belts pivotal.",
       "flag": "Request dated belt-service receipts · 7.5k valve check approaching · short-term owner",
       "status": "Facebook Marketplace · “like new / fully serviced” dealer claim (unverified)",
@@ -548,7 +548,7 @@
       "price": 4500,
       "miles": "22,450",
       "loc": "Sacramento",
-      "myRank": 3,
+      "myRank": 6,
       "note": "Fresh oil, claimed inspection, trunk, crash bars.",
       "flag": "",
       "status": "User-added listing",
@@ -1180,6 +1180,42 @@
       "visitNotes": "• What cash price are you asking versus the displayed $3,500 trade listing?\n• At what rider weight, terrain and jump size did it bottom? Did any hard landing cause leaks, bent parts or changed handling?\n• Have the fork/shock been serviced or adjusted, and is damping consistent?\n• Can you show the engine guard/underside, rims and spokes for any actual impact damage?\n• At roughly 4,000 miles, when were the valve clearance and scheduled services last completed?\n• Are the original pegs, risers/bar setup, screen, tail lighting and other replaced parts included? Does the riser setup leave throttle/cables free at full lock?",
       "sellerQuestions": [],
       "url": "https://www.facebook.com/marketplace/item/1712192433360745/"
+    },
+    {
+      "name": "Ducati Hyperstrada 821",
+      "yr": "2013",
+      "role": "street",
+      "price": 4000,
+      "miles": "11,000 (seller claimed)",
+      "loc": "Petaluma",
+      "myRank": 1,
+      "note": "11k miles; panniers, top box, windscreen, LeoVince exhaust.",
+      "flag": "Street #1 at Skipper’s request. Screenshot lists a 2013 Ducati Hyperstrada 821 in Petaluma for $4,000 with approximately 11,000 miles. Seller says it runs great with no mechanical issues and is selling because another bike leaves no room for two. Photo shows Ducati-branded side luggage, a top box, windscreen and LeoVince exhaust; inclusion and exhaust setup are viewing questions. For shopping rank, assume clean title in the owner’s name, valves in specification, major maintenance completed and good working condition unless the listing states otherwise; these are ranking assumptions, not completed verification. No defect inferred from omitted service details. Full seller description is cut off in the supplied screenshot; no unseen claims added. Availability and condition have not been independently verified.",
+      "status": "Screenshot reviewed; $4,000 ask; seller claims runs great, no mechanical issues; not contacted",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• Are both side cases, the top box, all mounting hardware and their keys included? Any broken latches or loose mounts?\n• Is the LeoVince exhaust a slip-on or a larger system, is its baffle included, and was the fueling changed? Are the original exhaust parts included?\n• When were this Ducati’s timing belts last replaced, and which service receipts accompany it?\n• Can you send the rest of the description cut off in the screenshot?",
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/1276886277556250"
+    },
+    {
+      "name": "Ducati Hypermotard 796",
+      "yr": "2012",
+      "role": "street",
+      "price": 4000,
+      "miles": "Not stated in screenshot",
+      "loc": "Discovery Bay",
+      "myRank": 4,
+      "note": "Black 796; $1,000 reduction, well maintained per seller.",
+      "flag": "Provisional Street #4: good match for Skipper’s upright, responsive, engine-character-focused street riding. Placed above the $4,300 Hollister 2011 796 because this example asks $300 less for the same basic platform; retain the test-ridden SV650 and cheaper 690 Duke ahead provisionally. Screenshot: 2012 Ducati Hypermotard 796, Discovery Bay, current $4,000 ask reduced from $5,000, listed three weeks ago at screenshot time; seller labels it Used - like new, says it has never let them down, is very well maintained and needs garage space for a new bike. These are seller claims. Mileage is not visible in screenshot; request it without treating omission as a mechanical fault. For ranking, assume clean title in owner’s name, valves in specification, major maintenance completed and otherwise good working condition unless disclosed otherwise. Factory model context: 803cc air-cooled Desmodue twin, claimed 81 hp at 8,000 rpm and 55.7 lb-ft at 6,250 rpm, 32.5-inch seat; this is the earlier 796 platform, not the 2013-on liquid-cooled 821. Upright posture and wide bars support the handling brief; actual comfort and throttle feel require a test ride. Screenshot shows black bodywork and twin under-seat exhausts; exact modification status not established. No mechanical defect inferred. Source: https://mediahouse.ducati.com/ducati-hypermotard-796/",
+      "status": "Screenshot reviewed; $4,000 reduced from $5,000; seller claims well maintained; not contacted",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• What is the current odometer reading, and how long have you owned this 796?\n• When were the timing belts replaced, and at what mileage was its most recent desmo valve service? Which receipts accompany the bike?\n• Are the twin under-seat exhausts, intake and ECU mapping stock? Which original parts and keys are included?\n• Has the seat, handlebar position, gearing or suspension setup been changed from standard?",
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/1556816845684784"
     }
   ],
   "researchModels": [
@@ -1400,7 +1436,7 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 10
+        "street": 17
       }
     },
     {
@@ -1411,7 +1447,7 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 9
+        "street": 15
       }
     },
     {
@@ -1422,7 +1458,7 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 13
+        "street": 16
       }
     },
     {
@@ -1433,7 +1469,7 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 16
+        "street": 18
       }
     },
     {
@@ -1486,7 +1522,7 @@
       "tags": [
         "street"
       ],
-      "note": "Punchy, playful; soft suspension.",
+      "note": "Punchy, playful; soft suspension. Balance between GSX-8S torque dropoff and FJ-09 redlining continuous power.",
       "ranks": {
         "street": 5
       }
@@ -1499,7 +1535,7 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 17
+        "street": 19
       }
     },
     {
@@ -1565,7 +1601,7 @@
       ],
       "note": "Practical, composed; likely too tame.",
       "ranks": {
-        "street": 15
+        "street": 12
       }
     },
     {
@@ -1576,7 +1612,7 @@
       ],
       "note": "Torquey, composed; less wind protection.",
       "ranks": {
-        "street": 4
+        "street": 3
       }
     },
     {
@@ -1587,29 +1623,29 @@
       ],
       "note": "Friendly twin; compact, less exciting.",
       "ranks": {
-        "street": 12
+        "street": 11
       }
     },
     {
       "id": "model-38",
-      "name": "Yamaha FJ-09 / Tracer 900",
+      "name": "Yamaha FJ-09 / Tracer 900 / FZ-09 Naked",
       "tags": [
         "street"
       ],
-      "note": "Roomy, lively triple, touring versatility.",
+      "note": "2017 Best Year. Roomy, lively triple, touring versatility.\nFZ-09 is the naked, aggressive version",
       "ranks": {
-        "street": 3
+        "street": 1
       }
     },
     {
       "id": "model-39",
-      "name": "Ducati Hypermotard 821 / Hyperstrada",
+      "name": "Ducati Hyperstrada / Hypermotard 821",
       "tags": [
         "street"
       ],
-      "note": "Tall, thrilling; costly upkeep, some overlap.",
+      "note": "Tall, thrilling; costly upkeep, some overlap. excessively abrupt. \nHyperstrada=touring",
       "ranks": {
-        "street": 6
+        "street": 2
       }
     },
     {
@@ -1620,7 +1656,7 @@
       ],
       "note": "Sharp handling, punchy; cam wear concerns.",
       "ranks": {
-        "street": 8
+        "street": 9
       }
     },
     {
@@ -1631,7 +1667,7 @@
       ],
       "note": "Torquey, comfortable, versatile; heavy.",
       "ranks": {
-        "street": 7
+        "street": 8
       }
     },
     {
@@ -1653,7 +1689,7 @@
       ],
       "note": "Monster torque, sharp; excessive power.",
       "ranks": {
-        "street": 11
+        "street": 13
       }
     },
     {
@@ -1664,7 +1700,7 @@
       ],
       "note": "explosive grin, small cockpit",
       "ranks": {
-        "street": 1
+        "street": 6
       }
     },
     {
@@ -1675,7 +1711,7 @@
       ],
       "note": "roomy, composed, great two-up",
       "ranks": {
-        "street": 2
+        "street": 7
       }
     },
     {
@@ -1786,6 +1822,61 @@
       "note": "30.3in; 282lb; injection, wide seat, limited suspension.",
       "ranks": {
         "hula": 1
+      }
+    },
+    {
+      "id": "model-mvkiox83-4jrc9",
+      "name": "Street Triple 675 R",
+      "tags": [
+        "street"
+      ],
+      "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM.",
+      "ranks": {
+        "street": 10
+      }
+    },
+    {
+      "id": "model-mvkk2ggd-y1hws",
+      "name": "Yamaha FZ-07/MT-07",
+      "tags": [
+        "street"
+      ],
+      "note": "Same bike as xsr700, different packaging.",
+      "ranks": {
+        "street": 4
+      }
+    },
+    {
+      "id": "model-mvklnila-8micn",
+      "name": "Monster 796",
+      "tags": [
+        "street"
+      ],
+      "note": "",
+      "ranks": {
+        "street": 20
+      }
+    },
+    {
+      "id": "model-mvkloe3f-klnsx",
+      "name": "Ducati Hypermotard 796",
+      "tags": [
+        "street"
+      ],
+      "note": "",
+      "ranks": {
+        "street": 21
+      }
+    },
+    {
+      "id": "model-mvklqyu1-afc1h",
+      "name": "Ducati Monster 821",
+      "tags": [
+        "street"
+      ],
+      "note": "",
+      "ranks": {
+        "street": 22
       }
     }
   ]
