@@ -2,16 +2,16 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 111,
-  "generatedAt": "2026-10-23T09:38:01.472Z",
+  "revision": 124,
+  "generatedAt": "2026-10-24T02:50:03.570Z",
   "counts": {
-    "active": 42,
+    "active": 50,
     "archived": 14,
-    "total": 56,
-    "researchModels": 60,
+    "total": 64,
+    "researchModels": 61,
     "categories": {
       "street": {
-        "active": 9,
+        "active": 17,
         "archived": 8
       },
       "dirt": {
@@ -1216,6 +1216,142 @@
       "visitNotes": "• What is the current odometer reading, and how long have you owned this 796?\n• When were the timing belts replaced, and at what mileage was its most recent desmo valve service? Which receipts accompany the bike?\n• Are the twin under-seat exhausts, intake and ECU mapping stock? Which original parts and keys are included?\n• Has the seat, handlebar position, gearing or suspension setup been changed from standard?",
       "sellerQuestions": [],
       "url": "https://www.facebook.com/marketplace/item/1556816845684784"
+    },
+    {
+      "name": "Yamaha FJ-09",
+      "yr": "2017",
+      "role": "street",
+      "price": 5500,
+      "miles": "20,000 (advertised)",
+      "loc": "Vallejo / Benicia",
+      "myRank": 10,
+      "note": "Corbin seat, panniers, heated grips; new tires, chain claimed.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Best new match for roomy comfort, lively engine and longer rides alongside the 690. $5,500 is a budget stretch. Advertised: 20,000 miles, Corbin plus original seat, side bags, heated grips, LED upgrades, new tires and chain/sprockets. Listing page retrieved Oct 23, 2026; claims not independently inspected.\nQuestions: When were the tires and chain/sprockets installed, and which tires? Are the side-bag mounts and original seat included? Which Corbin seat configuration is fitted, and how does its height compare with stock?",
+      "url": "https://www.craigslist.org/view/d/vallejo-yamaha-fj-mint-condition-with/u6sWLE7j7yhiUEAApX7eyo"
+    },
+    {
+      "name": "BMW R1200R",
+      "yr": "",
+      "role": "street",
+      "price": 4500,
+      "miles": "17,000 (advertised)",
+      "loc": "Mill Valley",
+      "myRank": 11,
+      "note": "Wilbers shocks, Russell saddle, fairing, ABS, heated grips.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Interesting $4,500 option for roomy comfort and composed handling, with touring equipment. Year remains unstated in the ad; no mechanical defect inferred. Advertised: 17,000 miles, electronic suspension, Wilbers shocks, Ohlins steering damper, Russell Daylong saddle, bar backs, ABS, heated grips, Parabellum fairing/laminar lip, SW-Motech case mounts and HEX diagnostic computer.\nQuestions: What is the model year? How do the Wilbers shocks integrate with the advertised electronic suspension, and what rider weight were they set for? Is the Russell saddle built for a particular rider height/weight? Are the fairing, case mounts and diagnostic computer included at $4,500?",
+      "url": "https://www.craigslist.org/view/d/mill-valley-bmw-r1200r-plus-tools/riUXkAyVkb7KyT9SyTQhvF"
+    },
+    {
+      "name": "Triumph Street Triple 675R ABS",
+      "yr": "2014",
+      "role": "street",
+      "price": 4999,
+      "miles": "19,000 (advertised)",
+      "loc": "San Francisco",
+      "myRank": 12,
+      "note": "675R ABS; dealer offers one-month/500-mile guarantee.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Convenient local test ride of the exact R variant; $4,999 advertised before dealer taxes/fees. Also present on MotoJava inventory when researched Oct 23, 2026. Claims: 19,000 miles; one-month/500-mile guarantee.\nQuestions: What is the itemized out-the-door price? What does the advertised one-month/500-mile guarantee cover, with what exclusions? What work did MotoJava perform on this specific bike before sale? Are its suspension settings and parts standard or modified?",
+      "url": "https://www.craigslist.org/view/d/san-francisco-2014-triumph-street/74GhmiAMCaFgEAt3jTrq7c"
+    },
+    {
+      "name": "Yamaha MT-07",
+      "yr": "2023",
+      "role": "street",
+      "price": 5750,
+      "miles": "8,382 (advertised)",
+      "loc": "San Rafael",
+      "myRank": 13,
+      "note": "Stock exhaust, Puig screen, CRG mirror, tail tidy.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Fun-per-mph candidate with relatively low advertised mileage, but $5,750 is a budget stretch. Actual knee room and comfort need a sit/test ride given the SV650 felt small. Advertised: stock exhaust, Puig screen, aftermarket levers, CRG bar-end mirror and Hyperpack lighting/tail tidy. Ad updated Oct 22 and retrieved Oct 23, 2026.\nQuestions: Which Puig screen is fitted, and how is wind buffeting at helmet height? Were the lighting changes plug-and-play or was the harness cut? Are original mirrors, levers and rear fender included?",
+      "url": "https://www.craigslist.org/view/d/san-rafael-2023-yamaha-mt07/qK2xrPKqVYbK6ES8ioHGmg"
+    },
+    {
+      "name": "Kawasaki Versys 650",
+      "yr": "2009",
+      "role": "street",
+      "price": 3299,
+      "miles": "25,000 claimed; ad field 250,000",
+      "loc": "San Francisco",
+      "myRank": 14,
+      "note": "25k claimed, fully serviced; familiar comfortable platform.",
+      "flag": "Ad description says 25k miles; odometer field says 250,000.",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Affordable benchmark on the platform Skipper already enjoyed for confidence and cornering. Does not deliver the livelier-engine change being explored. MotoJava listing and dealer website both claim 25,000 miles and fully serviced; Craigslist structured odometer field says 250,000. The discrepancy is unresolved, not assumed corrected.\nQuestions: Please send a current odometer photo to resolve 25,000 versus 250,000 miles. What specific work is included in the advertised full service? What is the itemized out-the-door price?",
+      "url": "https://www.craigslist.org/view/d/san-francisco-2009-kawasaki-versys-650/6b9WDZYD3zuxXPEMhrK7Lt"
+    },
+    {
+      "name": "Suzuki SV650",
+      "yr": "2007",
+      "role": "street",
+      "price": 3999,
+      "miles": "15,000 (advertised)",
+      "loc": "San Francisco",
+      "myRank": 15,
+      "note": "15k miles, aftermarket pipe, dealer service claimed.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Useful local comparison at $3,999 before dealer taxes/fees. Existing $4,[phone omitted] Lodi SV650 is stronger on paper; assess fit and actual condition before paying similar money for this older example. Claims: 15,000 miles, fully serviced, aftermarket pipe. Sale price $3,999, reduced from $4,299. Also listed on MotoJava website during Oct 23, 2026 research.\nQuestions: Which exhaust is installed, and are the original exhaust and any fueling changes included? What work did the advertised full service include on this particular bike? Are the seat, handlebars or footpegs modified? What is the itemized out-the-door price?",
+      "url": "https://www.craigslist.org/view/d/san-francisco-2007-suzuki-sv650-very/6z5jx86Sx1FEsULrcHSHyC"
+    },
+    {
+      "name": "Triumph Street Triple 675R",
+      "yr": "2017",
+      "role": "street",
+      "price": 5200,
+      "miles": "11,201 (advertised)",
+      "loc": "Clearlake Oaks / Lake County",
+      "myRank": 16,
+      "note": "Second owner, 11k miles, upgraded springs, covers, sliders.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Strong private-party alternative to the SF 2014 675R, at $5,200 and lower advertised mileage. Upgrades do not by themselves establish abuse. Advertised: second owner, 11,201 miles, .95 front springs, aftermarket seat cover, levers, covers, sliders and spools. Ad says no leaks or oil consumption. Seller requests calls, not texts; cash and M1 for test ride.\nQuestions: What rider weight and riding style were the .95 springs chosen for, and what rear suspension setup accompanies them? Has the bike been used on track, and which protective parts or levers were fitted for that use? Is the original seat foam retained beneath the custom cover?",
+      "url": "https://www.craigslist.org/view/d/clearlake-oaks-2017-triumph-675-street/cUe9y5dQMtyNgNs9V9afoq"
+    },
+    {
+      "name": "KTM 790 Duke",
+      "yr": "2019",
+      "role": "street",
+      "price": 5499,
+      "miles": "5,245 (advertised)",
+      "loc": "Bradley / Bryson-Hesperia",
+      "myRank": 17,
+      "note": "5,245 miles, Puig screen, lithium battery, case guards.",
+      "flag": "",
+      "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Assessment: Low-advertised-mileage, lively handling candidate, but $5,499 and travel to the Bradley area make it a stretch. Street naked despite the seller calling it a dual-sport. Advertised: 5,245 miles, garaged, never down, registration March 2027, lithium battery, Puig screen/lower fairing, KTM case guards/spools/seat cowl, cover, stand and manual.\nMap limitation: pin is a coarse southern-edge approximation because Bradley lies beyond the selectable base-map area; use Bradley / Bryson-Hesperia and the original listing for travel planning.\nQuestions: Is the asking price inclusive of the stand, manual and all listed accessories? How effective is this specific Puig screen for a taller rider? Are original passenger-seat and bodywork parts included, and are there any fueling or exhaust modifications?",
+      "url": "https://www.craigslist.org/view/d/bradley-nice-2019-ktm-790-duke/8h7BzZ8JkBQL86i1DAocFd"
     }
   ],
   "researchModels": [
@@ -1436,7 +1572,7 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 17
+        "street": 21
       }
     },
     {
@@ -1447,7 +1583,7 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 15
+        "street": 19
       }
     },
     {
@@ -1458,7 +1594,7 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 16
+        "street": 20
       }
     },
     {
@@ -1469,7 +1605,7 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 18
+        "street": 22
       }
     },
     {
@@ -1535,7 +1671,7 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 19
+        "street": 23
       }
     },
     {
@@ -1678,7 +1814,7 @@
       ],
       "note": "V-twin character; thirsty, bulky, crouched.",
       "ranks": {
-        "street": 14
+        "street": 18
       }
     },
     {
@@ -1854,7 +1990,7 @@
       ],
       "note": "",
       "ranks": {
-        "street": 20
+        "street": 16
       }
     },
     {
@@ -1865,7 +2001,7 @@
       ],
       "note": "",
       "ranks": {
-        "street": 21
+        "street": 15
       }
     },
     {
@@ -1876,7 +2012,18 @@
       ],
       "note": "",
       "ranks": {
-        "street": 22
+        "street": 14
+      }
+    },
+    {
+      "id": "model-mvloolzb-0gw85",
+      "name": "Suzuki V-Strom 1000 (2014+)",
+      "tags": [
+        "street"
+      ],
+      "note": "Strong torque peaking at 4000 rpm, good corning, 500 lbs though :/",
+      "ranks": {
+        "street": 17
       }
     }
   ]
