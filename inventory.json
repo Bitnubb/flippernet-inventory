@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 186,
-  "generatedAt": "2026-10-26T05:28:06.435Z",
+  "revision": 189,
+  "generatedAt": "2026-10-26T06:11:33.297Z",
   "counts": {
     "active": 52,
     "archived": 15,
@@ -1825,7 +1825,7 @@
       ],
       "note": "Torquey, composed; less wind protection.",
       "ranks": {
-        "street": 4,
+        "street": 10,
         "dreamers": 16
       }
     },
@@ -1852,7 +1852,7 @@
       "note": "2017 preferred; roomy, lively triple; FZ naked, FJ tours.",
       "ranks": {
         "street": 1,
-        "dreamers": 6
+        "dreamers": 3
       }
     },
     {
@@ -1865,7 +1865,7 @@
       "note": "Tall, thrilling; abrupt throttle, costly upkeep; Hyperstrada tours.",
       "ranks": {
         "street": 2,
-        "dreamers": 13
+        "dreamers": 8
       }
     },
     {
@@ -1877,7 +1877,7 @@
       ],
       "note": "Sharp handling, punchy; cam wear concerns.",
       "ranks": {
-        "street": 12,
+        "street": 13,
         "dreamers": 28
       }
     },
@@ -1890,7 +1890,7 @@
       ],
       "note": "Torquey, comfortable, versatile; heavy.",
       "ranks": {
-        "street": 11,
+        "street": 12,
         "dreamers": 25
       }
     },
@@ -1943,7 +1943,7 @@
       "note": "Proven cornering confidence; roomy, composed, great two-up.",
       "ranks": {
         "street": 9,
-        "dreamers": 11
+        "dreamers": 12
       }
     },
     {
@@ -2065,7 +2065,7 @@
       ],
       "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM.",
       "ranks": {
-        "street": 13,
+        "street": 14,
         "dreamers": 27
       }
     },
@@ -2131,7 +2131,7 @@
       "note": "4,000-rpm torque peak; composed, roomy; roughly 500 pounds.",
       "ranks": {
         "street": 3,
-        "dreamers": 10
+        "dreamers": 11
       }
     },
     {
@@ -2143,7 +2143,7 @@
       ],
       "note": "Roomy touring V-twin; slower steering than Versys.",
       "ranks": {
-        "street": 10,
+        "street": 11,
         "dreamers": 29
       }
     },
@@ -2183,7 +2183,7 @@
       "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive.",
       "ranks": {
         "street": 34,
-        "dreamers": 3
+        "dreamers": 4
       }
     },
     {
@@ -2195,8 +2195,8 @@
       ],
       "note": "More midrange than 821; nimble, touring-equipped, costly upkeep.",
       "ranks": {
-        "street": 14,
-        "dreamers": 5
+        "street": 4,
+        "dreamers": 6
       }
     },
     {
@@ -2209,7 +2209,7 @@
       "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation.",
       "ranks": {
         "street": 35,
-        "dreamers": 4
+        "dreamers": 5
       }
     },
     {
@@ -2235,7 +2235,7 @@
       "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach.",
       "ranks": {
         "street": 36,
-        "dreamers": 8
+        "dreamers": 9
       }
     },
     {
@@ -2248,7 +2248,7 @@
       "note": "CP2 punch, fairing; Tracer 7 newer; non-US availability.",
       "ranks": {
         "street": 32,
-        "dreamers": 9
+        "dreamers": 10
       }
     },
     {
@@ -2261,7 +2261,7 @@
       "note": "Raw V-twin punch, agile touring; occasional budget fit.",
       "ranks": {
         "street": 5,
-        "dreamers": 12
+        "dreamers": 13
       }
     },
     {
