@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 156,
-  "generatedAt": "2026-10-26T04:01:23.199Z",
+  "revision": 172,
+  "generatedAt": "2026-10-26T04:26:42.480Z",
   "counts": {
     "active": 52,
     "archived": 15,
@@ -1720,7 +1720,7 @@
       "tags": [
         "street"
       ],
-      "note": "Punchy, playful; soft suspension. Balance between GSX-8S torque dropoff and FJ-09 redlining continuous power.\n\nVALUE CANDIDATE / ENGINE BENCHMARK\nCP2 twin shares the MT-07 family and its useful midrange; retro cockpit/seat can change fit. Keep this as an alternative packaging test, with the prior engine-curve comparison preserved as subjective research context. Wind exposure and suspension support at 225 lb limit touring convenience versus FJ/Versys, not mechanical condition.",
+      "note": "Punchy, playful; soft suspension; MT-07 alternative packaging.",
       "ranks": {
         "street": 7
       }
@@ -1808,7 +1808,7 @@
       "tags": [
         "street"
       ],
-      "note": "Torquey, composed; less wind protection.\n\nENGINE BENCHMARK / DREAM CANDIDATE\nBroad 776cc 270-degree-twin midrange is the engine-delivery benchmark that appealed to Skipper. Keep its research prominence without pretending ordinary sound used examples are routinely $3,000–$4,500. Naked cockpit/wind exposure add less touring separation from the 690 than a faired target. GSX-8R is a separate related record; Dream Fit #13 belongs to 8R, not 8S. Assess ordinary-speed response and long-leg room rather than peak horsepower alone.",
+      "note": "Torquey, composed; less wind protection.",
       "ranks": {
         "street": 4
       }
@@ -1830,7 +1830,7 @@
       "tags": [
         "street"
       ],
-      "note": "2017 Best Year. Roomy, lively triple, touring versatility.\nFZ-09 is the naked, aggressive version\n\nSPORT-TOURER TARGET / VALUE CANDIDATE\nStreet priority remains #1: CP3 triple character, upright road handling and useful screen/luggage complement the 690. FJ-09/Tracer 900 are the touring branch; naked FZ-09 has materially different wind protection and suspension/ergonomics. Keep the existing 2017 preference as research context, not a claim every later or earlier example is inferior. Fit predictions require riding at ordinary rpm and checking screen wake/suspension support at 6ft1/225 lb.\nRANKING METHOD: 30% intuitive handling/confidence; 30% immediate response and low/midrange character; 20% tall-rider touring fit; 20% realistic $3,000–$4,500 value, occasionally $5,000. Ordinal shopping priorities, not measured numerical scores. Dream Fit ranks ignore purchase price and remain separate. Used bikes assumed sound, clean owner-held title and maintained unless evidence says otherwise. Value tiers are estimates, not verified offers.",
+      "note": "2017 preferred; roomy, lively triple; FZ naked, FJ tours.",
       "ranks": {
         "street": 1
       }
@@ -1839,9 +1839,10 @@
       "id": "model-39",
       "name": "Ducati Hyperstrada / Hypermotard 821",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "Tall, thrilling; costly upkeep, some overlap. excessively abrupt. \nHyperstrada=touring\n\nSPORT-TOURER TARGET / VALUE CANDIDATE\nDream Fit Rank #11 applies to Hyperstrada 821, not automatically naked Hypermotard. Preserve top practical status because an actual $4,000 Hyperstrada is already in the hunt. Characterful 821 twin, quick 17-inch steering and upright stance promise fun; Hyperstrada screen/luggage adds a touring role beyond 690. Keep prior abrupt-response concern as a riding question, not a confirmed fault on a particular listing. Assess heat, knee space and gentle throttle pickup. Belt/Desmo complexity is an ownership cost, not evidence of neglected service. Provisional fit prediction.",
+      "note": "Tall, thrilling; abrupt throttle, costly upkeep; Hyperstrada tours.",
       "ranks": {
         "street": 2
       }
@@ -1896,7 +1897,7 @@
       "tags": [
         "street"
       ],
-      "note": "explosive grin, small cockpit\n\nVALUE CANDIDATE / ENGINE BENCHMARK\nActual test ride felt excellent: preserve that evidence above specification-sheet predictions. Lively 645cc V-twin, intuitive steering and fun at useful road speeds are strong positives. Long-leg cockpit fit felt small and remains the main rider-specific question; naked wind exposure is the touring tradeoff. Common older/newer used examples can fit the budget; do not penalize missing service prose. Assess seat/peg options without assuming ergonomics can always be fixed.",
+      "note": "Explosive grin, small cockpit.",
       "ranks": {
         "street": 8
       }
@@ -1907,7 +1908,7 @@
       "tags": [
         "street"
       ],
-      "note": "roomy, composed, great two-up\n\nSPORT-TOURER TARGET / VALUE CANDIDATE\nKNOWN RIDER EVIDENCE: Skipper previously owned and loved this platform, especially its intuitive cornering and confidence leaning. That established fit outweighs another model winning on peak torque or electronics. Usable parallel-twin midrange, upright long-leg room, screen and road-focused chassis make it a genuine complementary touring motorcycle to 690. Less dramatic engine character is a tradeoff, not grounds for automatic demotion. Older sound examples are realistic budget targets; generation-specific screen/seat/suspension should be assessed.",
+      "note": "Proven cornering confidence; roomy, composed, great two-up.",
       "ranks": {
         "street": 9
       }
@@ -2039,7 +2040,7 @@
       "tags": [
         "street"
       ],
-      "note": "Same bike as xsr700, different packaging.\n\nVALUE CANDIDATE / ENGINE BENCHMARK\nAccessible CP2 twin punch and light steering remain practical anchors; engine character matters more here than top-speed potential. Older examples are plausible in-budget targets. Upright naked packaging offers less wind protection and touring distinction from the 690; suspension support for 225 lb and cockpit room warrant a test ride, not a presumption of failure. XSR700 shares the engine family, with different seating/styling; do not assume identical fit.",
+      "note": "Punchy CP2; XSR700 engine, different packaging.",
       "ranks": {
         "street": 6
       }
@@ -2081,9 +2082,10 @@
       "id": "model-mvloolzb-0gw85",
       "name": "Suzuki V-Strom 1000 (2014+)",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "Strong torque peaking at 4000 rpm, good corning, 500 lbs though :/\n\nSPORT-TOURER TARGET / VALUE CANDIDATE\nPromote to practical #3; Dream Fit Rank #9 remains separate. The 2014-generation 1,037cc V-twin has manufacturer-rated peak torque at 4,000 rpm: promising low/midrange roll-on without chasing redline. Peak torque rpm alone does not prove throttle response or rear-wheel shove; gearing, fueling and actual riding matter. Stable 19-inch-front chassis and roomy upright cockpit/screen suit long legs and touring beyond the 690; roughly 500-lb scale is a real low-speed/steering tradeoff, not a defect. Older examples are plausible $3,000–$5,000 targets; later 1050 is not automatically included in these engine/year assumptions. Provisional fit prediction. Source: https://www.globalsuzuki.com/corporate/environmental/report/pdf/2015_enve_all.pdf",
+      "note": "4,000-rpm torque peak; composed, roomy; roughly 500 pounds.",
       "ranks": {
         "street": 3
       }
@@ -2092,9 +2094,10 @@
       "id": "model-mvojyt59-5tpxe",
       "name": "Suzuki DL650 VStrom",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "Better Touring, better engine, slower handling than Versys\n\nSPORT-TOURER TARGET / VALUE CANDIDATE\nExisting family record also covers V-Strom 650 / XT: retain this ID and name rather than create a duplicate. 645cc V-twin offers usable low/midrange plus upper-rpm extension and characteristic rumble; broad delivery may feel calmer than SV650/MT-07. Stable 19-inch-front touring chassis trades steering immediacy against Versys; that is a prediction to test, not a settled ranking of confidence. Upright cockpit, screen and luggage add distance utility beyond 690; assess long-leg room and buffeting. XT wheel/equipment and generation differences matter, not a fundamentally different engine. Older examples are realistically within budget; the $3,200 San Jose listing deserves a test ride. Source: https://suzukicycles.com/adventure/2024/v-strom-650",
+      "note": "Roomy touring V-twin; slower steering than Versys.",
       "ranks": {
         "street": 10
       }
@@ -2103,9 +2106,10 @@
       "id": "model-mvoq4x7h-wrj3h",
       "name": "Ducati Multistrada 950 / 950 S",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: 937cc Testastretta V-twin; broad, characterful midrange with a stronger top end than a 650 twin; some low-rpm pulse. Handling: 19-inch front trades supermoto immediacy for composed road manners; heavier than the 690. Touring/fit: roomy upright cockpit, screen and luggage suit long legs and a separate pavement/touring role; check buffeting at 6ft1. 950 S adds electronic suspension and equipment; do not assume every 950 has it. Value: normally beyond $3,000–$5,000; exceptional older bargains require individual assessment, not an assumption of faults. Dream Fit Rank #1. Provisional fit prediction, not a test-ride finding. Source: https://www.ducati.com/us/en/bikes/multistrada/multistrada-950",
+      "note": "Characterful midrange, roomy touring; S suspension; expensive.",
       "ranks": {
         "street": 27
       }
@@ -2114,9 +2118,10 @@
       "id": "model-mvoq4yry-vxgak",
       "name": "KTM 890 SMT",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: 889cc parallel twin tuned for strong low/midrange response, pulsing character and 100 Nm claimed torque; more flexible than a single. Handling: 17-inch wheels, sporty suspension and tall stance promise quick, controlled cornering, with more mass than the 690. Touring/fit: upright, long-legged cockpit and screen add distance capability; assess seat comfort and wind turbulence. Value: modern model usually well outside $5,000; research aspiration rather than a current-budget default. Adds pavement touring without abandoning playful handling. Dream Fit Rank #2; provisional. Source: https://press.ktm.com/news-king-of-the-comebacks-hail-the-new-ktm-890-smt-?id=176868&l=international&menueid=3050",
+      "note": "Punchy, agile, upright sport-tourer; expensive.",
       "ranks": {
         "street": 33
       }
@@ -2125,9 +2130,10 @@
       "id": "model-mvoq50cg-80b1m",
       "name": "Moto Guzzi V100 Mandello / S",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: liquid-cooled transverse V-twin, 105 Nm claimed with 82% available at 3,500 rpm; distinctive pulses/sound without needing redline. Handling: substantial shaft-drive tourer; predict stable confidence rather than 690-like flickability. Touring/fit: screen, road-focused fairing and relaxed cockpit offer a distinct long-distance role; check knee clearance and screen wake at 6ft1. S equipment varies by year; earlier S uses semi-active Ohlins. Value: normally well beyond $5,000, not a practical-budget target. Dream Fit Rank #3; predicted fit only. Source: https://press.piaggiogroup.com/en_EN/post/show/251199/moto-guzzi-v100-mandello.html",
+      "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive.",
       "ranks": {
         "street": 34
       }
@@ -2136,9 +2142,10 @@
       "id": "model-mvoq51x0-6leo7",
       "name": "Ducati Hyperstrada 939",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / DREAM CANDIDATE\nEngine: 937cc Testastretta V-twin, increased torque over the 821; stronger midrange with lively upper revs and characteristic pulse. Handling: quick 17-inch steering and upright leverage; still some 690-role overlap. Touring/fit: Hyperstrada screen/luggage and cockpit improve distance usefulness versus Hypermotard; assess knee room, heat and small-opening throttle response. Value: occasional older examples may approach $5,000, but $3,000–$4,500 availability is limited; allow for Ducati belt/Desmo service costs as ownership characteristics, not presumed neglect. Separate from existing 821 record. Dream Fit Rank #5; provisional. Source: https://static.nhtsa.gov/odi/tsbs/2016/MC-10206706-9999.pdf",
+      "note": "More midrange than 821; nimble, touring-equipped, costly upkeep.",
       "ranks": {
         "street": 14
       }
@@ -2147,9 +2154,10 @@
       "id": "model-mvoq53hn-0wyih",
       "name": "Ducati Multistrada V2 / V2 S",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nGeneration distinction: 2022–2024 uses the 937cc Testastretta 11-degree desmodromic twin; 2025 onward is a redesigned, lighter motorcycle with an 890cc V2, intake variable timing and conventional valve springs. Do not transfer the old engine, weight or service assumptions to the new model. Both promise useful midrange, upright touring space and composed cornering; newer bike emphasizes reduced mass and easier handling. V2 S suspension/equipment differs from base. Adds wind protection, luggage and sustained pavement comfort beyond the 690; check tall-rider fit. Value: both generally above $5,000, especially the new generation. Dream Fit Rank #4 for family, generation-specific test rides required; provisional. Sources: https://www.ducati.com/us/en/bikes/multistrada/multistrada-v2-my24 ; https://www.ducati.com/us/en/bikes/multistrada/multistrada-v2",
+      "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation.",
       "ranks": {
         "street": 35
       }
@@ -2158,9 +2166,10 @@
       "id": "model-mvoq5adn-zisuq",
       "name": "BMW F900XR",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: 895cc parallel twin, 92 Nm claimed at 6,500 rpm; useful broad midrange and rhythmic twin character, though immediate subjective punch must be ridden, not inferred from the peak. Handling: road wheels and upright leverage suggest neutral sporty cornering; more substantial than a naked 650. Touring/fit: screen, luggage options and upright cockpit complement the 690; try seat variants and knee angle. Options and suspension vary by year; 2025 updates are not universal. Value: usually above $5,000; an occasional early bargain is a stretch target. Dream Fit Rank #6; provisional. Source: https://www.press.bmwgroup.com/new-zealand/article/detail/T0302407EN/the-new-bmw-f-900-r-and-f-900-xr?language=en",
+      "note": "Broad midrange, upright cockpit, wind protection; above budget.",
       "ranks": {
         "street": 28
       }
@@ -2169,9 +2178,10 @@
       "id": "model-mvoq5by0-ihed2",
       "name": "BMW R1250RS",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: 1,254cc ShiftCam boxer gives muscular low/midrange roll-on and characteristic boxer pulses, with little need for extreme rpm. Handling: low engine mass placement can aid balance, but total weight and length favor stable arcs over supermoto flickability. Touring/fit: fairing, shaft drive and luggage give a distinct distance role beyond the 690; sportier forward reach/knee bend than Versys warrants a sit test. Seats and optional tubular bars can change fit; equipment varies. Value: normally far above $5,000. Dream Fit Rank #7; predicted fit, not a test ride. Source: https://www.press.bmwgroup.com/global/article/detail/T0405325EN/the-new-bmw-r-1250-rs",
+      "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach.",
       "ranks": {
         "street": 36
       }
@@ -2180,9 +2190,10 @@
       "id": "model-mvoq5dif-6vgnu",
       "name": "Yamaha Tracer 700 / Tracer 7 / Tracer 7 GT",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / ENGINE BENCHMARK / DREAM CANDIDATE\nEngine: CP2 689cc 270-degree twin brings MT-07-like accessible midrange and pulsing sound, rather than FZ6-style high-rpm dependence. Handling: road-focused, relatively manageable sport-tourer; confidence and suspension support still need a ride at 225 lb. Touring/fit: fairing and upright cockpit add a clearer touring role than MT-07; GT adds touring equipment, varying by year. Tracer 700 is the earlier designation, not the FJ-09/Tracer 900 triple; later Tracer 7 generations have meaningful equipment changes. Value: primarily non-US models, not routine California $3,000–$5,000 purchases; do not assume import/CA registration is straightforward. Dream Fit Rank #8 Tracer 7/GT, #17 Tracer 700; provisional. Source: https://www.yamaha-motor.eu/fr/fr/b2b/forces-de-l-ordre-et-secours/forces-de-l-ordre/tracer-7/",
+      "note": "CP2 punch, fairing; Tracer 7 newer; non-US availability.",
       "ranks": {
         "street": 32
       }
@@ -2191,9 +2202,10 @@
       "id": "model-mvoq5f2z-ab3ma",
       "name": "KTM 990 SM-T",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / VALUE CANDIDATE\nEngine: 999cc LC8 V-twin offers strong, raw low/midrange character, exhaust presence and vibration; test small-opening fueling rather than assuming smooth response. Handling: 17-inch road wheels, upright leverage and quality adjustable suspension make this an especially promising playful-but-composed road partner. Touring/fit: taller cockpit, screen and luggage capability suit long legs and add distance usefulness beyond the 690, though comfort/wind protection remain less cocooning than a dedicated tourer. Value estimate: occasional older examples can approach $4,000–$5,000; limited supply and specialist maintenance costs matter. Sound/maintained assumed; no individual defect inferred. Dream Fit Rank #10; provisional. Family distinct from 950 Supermoto R and 1290 GT.",
+      "note": "Raw V-twin punch, agile touring; occasional budget fit.",
       "ranks": {
         "street": 5
       }
@@ -2202,9 +2214,10 @@
       "id": "model-mvoq5gng-z454c",
       "name": "Suzuki GSX-8R",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "ENGINE BENCHMARK / SPORT-TOURER TARGET / DREAM CANDIDATE\nEngine: 776cc 270-degree parallel twin shares the GSX-8S platform; broad low/midrange delivery and twin pulse are the attraction, not chasing redline. Handling: road-biased chassis and sport-oriented suspension offer a useful steering/stability comparison with the 8S; fairing does not make it mechanically identical. Touring/fit: relatively accessible sportbike posture and wind protection, but long-leg knee angle and wrist load need a sit/ride test; less roomy than Versys. Could add a planted faired road role beyond the 690. Value: generally above $5,000 in sound used condition; track bargains individually. Dream Fit Rank #13; provisional. Source: https://suzukicycles.com/news/2024/03/suzuki-expands-2024-national-demo-tour",
+      "note": "GSX-8S midrange, fairing, sporty posture; usually above budget.",
       "ranks": {
         "street": 26
       }
@@ -2213,9 +2226,10 @@
       "id": "model-mvoq5i84-h6oms",
       "name": "BMW R1200RS",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / DREAM CANDIDATE\nEngine: liquid-cooled 1,170cc boxer gives substantial low/midrange roll-on and boxer pulse; distinct from older air/oil-cooled R1200R engines. Handling: stable, road-focused cornering and low-mounted engine, with appreciable total mass. Touring/fit: fairing, shaft drive and luggage separate its mission from the 690; forward reach and knee angle are sportier than Versys, so tall-rider comfort is not guaranteed by displacement. Earlier bikes can be better value than R1250RS, but sound $3,000–$5,000 examples are opportunities rather than normal supply. Electronics/options vary by year. Dream Fit Rank #14; provisional, not a verified ride.",
+      "note": "Torquey boxer, stable touring; forward reach, substantial weight.",
       "ranks": {
         "street": 29
       }
@@ -2224,9 +2238,10 @@
       "id": "model-mvoq5jsc-vdpru",
       "name": "Ducati SuperSport / S / SuperSport 950 / 950 S",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / DREAM CANDIDATE\nBoth generations use a 937cc Testastretta twin: muscular midrange and characterful pulse with useful upper-rpm extension, not a Panigale engine. 2017–2020 SuperSport/S and 2021-on 950/950 S remain distinct: 950 brings Euro 5, revised fairing/heat management, TFT and IMU-based electronics. S primarily adds Ohlins suspension/equipment, not a larger engine. Handling: 17-inch sporty road chassis promises precise, stable cornering. Touring/fit: fairing and less extreme posture than a race replica; long legs and wrist comfort need testing. Complements 690 with faired road use but is less roomy than Versys. Value: early examples may stretch near $5,000; 950 usually above. Dream Fit Rank #15 950/S; #16 2017–2020/S; provisional. Source: https://www.ducati.com/ww/en/news/new-supersport-950-production-starts-in-borgo-panigale",
+      "note": "Punchy 937; 950 adds IMU; S adds Öhlins.",
       "ranks": {
         "street": 30
       }
@@ -2235,9 +2250,10 @@
       "id": "model-mvoq5zg3-fmy4k",
       "name": "Suzuki V-Strom 800 / 800 Touring",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / ENGINE BENCHMARK / DREAM CANDIDATE\nEngine: 776cc 270-degree parallel twin shares the GSX-8 platform, offering accessible midrange torque, pulsing sound and balance-shaft smoothness; response at ordinary rpm is the key test. Handling: road-biased 800/Touring uses a 19-inch front and differs from taller 21-inch-front 800DE; stable steering with more mass than a 650 naked. Touring/fit: upright cockpit, screen and luggage capability add practical distance use beyond 690; Touring adds luggage/equipment rather than a different engine. Check long-leg fit and buffeting. Value: generally above $5,000; watch depreciation rather than treating MSRP as used value. No assigned Dream Fit Rank in supplied top 20. Source: https://cycles-cd1.aws-prod.suzuki.com/adventure/2025/v-strom-800",
+      "note": "GSX-8 twin character, upright touring; heavier, above budget.",
       "ranks": {
         "street": 31
       }
@@ -2246,9 +2262,10 @@
       "id": "model-mvoq610l-2f9k1",
       "name": "BMW F800GT",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "VALUE CANDIDATE / SPORT-TOURER TARGET\nEngine: 798cc parallel twin with a broad, usable midrange and more even delivery than an LC8; high-rpm buzz and restrained character may matter after the Tiger experience. Handling: 17-inch road wheels, low fuel placement and stable geometry support predictable road cornering; not as playful as a light naked. Touring/fit: fairing, luggage and belt final drive add a distinct practical role beyond the 690; low seat can fold long legs, so try a taller seat and cockpit fit. GT succeeds ST with revised protection/chassis and more touring emphasis; 2017 brings electronic-throttle/mode changes. Value estimate: older examples plausibly $3,000–$5,000; verify current offers. No supplied Dream Fit Rank. Source: https://www.press.bmwgroup.com/usa/article/detail/T0134354EN_US/the-new-bmw-f-800-gt",
+      "note": "Affordable belt-drive tourer; composed, restrained engine, tight knees.",
       "ranks": {
         "street": 15
       }
@@ -2257,9 +2274,10 @@
       "id": "model-mvoq62l5-53mfk",
       "name": "Ducati Multistrada 1200 / 1200 S / 1260 / 1260 S",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "SPORT-TOURER TARGET / DREAM CANDIDATE / VALUE CANDIDATE\nGeneration distinctions: 2010–2014 1,198cc Testastretta 11-degree is non-DVT; 2015–2017 1200 adopts DVT; 2018-on 1260 uses 1,262cc DVT with stronger low/midrange emphasis and revised chassis. S suspension/electronics vary: early Ohlins and later Skyhook are not interchangeable assumptions. Engine: abundant V-twin character and acceleration, potentially more speed/power than needed. Handling: stable sporty 17-inch-road-wheel tourer, appreciably heavier than 690. Touring/fit: roomy upright cockpit, fairing and luggage suit long legs and distance; test heat/buffeting. Value: some early 1200s can approach $3,000–$5,000; 1260 normally above, ownership service costs significant. Dream Fit Rank #18 1260/S; #19 1200/S; provisional. Source: https://www.ducati.com/in/en/bikes/multistrada/multistrada-dynasty",
+      "note": "1200 non-DVT/DVT; 1260 stronger midrange; roomy, heavy.",
       "ranks": {
         "street": 24
       }
@@ -2268,9 +2286,10 @@
       "id": "model-mvoq645j-we680",
       "name": "Aprilia Caponord 1200 / Travel Pack / Rally",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "VALUE CANDIDATE / SPORT-TOURER TARGET\nEngine: large 1,197cc V-twin gives muscular roll-on, pulse and sound; assess small-throttle delivery and heat rather than assuming refinement. Handling: substantial mass favors planted road cornering over 690-style agility. Base/Travel Pack road models use 17-inch front; Rally uses 19-inch spoked front and different equipment, so do not merge their handling assumptions. Travel Pack adds ADD semi-active suspension, cruise and luggage; verify exact fitted equipment. Touring/fit: roomy cockpit, screen and luggage provide a genuine long-distance complement; check reach and low-speed balance. Value estimate: occasional older examples near $4,000–$5,000, with scarcer specialist/parts support than Japanese choices; no defect presumed. No supplied Dream Fit Rank. Source: https://www.piaggiogroup.com/en/archive/press-releases/piaggio-group-new-moto-guzzi-and-aprilia-bikes-intermot-2014",
+      "note": "Muscular touring twin; heavy; Rally changes front wheel.",
       "ranks": {
         "street": 25
       }
@@ -2279,9 +2298,10 @@
       "id": "model-mvoq65q3-hja5v",
       "name": "KTM 1290 Super Duke GT",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: 1,301cc LC8 V-twin delivers enormous low/midrange shove and visceral sound/pulse, with far more high-rpm performance than this mission needs. Handling: sporty road wheels and sophisticated suspension combine stability with fast steering, but size and performance demand restraint. Touring/fit: screen, luggage and more accommodating cockpit than naked Super Duke add a real distance role beyond 690; check knee angle and wind wake. GT is distinct from the existing naked Super Duke record; suspension/electronics vary by year. Value: normally beyond $5,000; research aspiration rather than practical priority. Dream Fit Rank #20; provisional prediction, not a test ride.",
+      "note": "Huge V-twin shove, sporty touring; excessive power, expensive.",
       "ranks": {
         "street": 37
       }
@@ -2290,9 +2310,10 @@
       "id": "model-mvoq67ah-pnxxa",
       "name": "BMW R1300RS",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "DREAM CANDIDATE / SPORT-TOURER TARGET\nEngine: new-generation 1,300cc boxer gives abundant low/midrange roll-on and distinctive boxer character without needing high rpm. Handling: redesigned chassis emphasizes dynamic, planted sport-touring, yet remains a substantial motorcycle compared with the 690. Touring/fit: fairing, shaft drive and luggage supply a separate long-distance role; BMW explicitly moves to a sportier, more active posture, so tall-rider knee/wrist comfort needs testing rather than assuming newer means better. Options and seat packages matter. Value: recent premium model far outside $3,000–$5,000. Dream Fit Rank #12 as supplied; provisional fit prediction. Source: https://www.press.bmwgroup.com/global/article/detail/T0449763EN/bmw-motorrad-presents-the-new-bmw-r-1300-rs",
+      "note": "Muscular boxer, planted touring; sportier posture, dream pricing.",
       "ranks": {
         "street": 38
       }
@@ -2301,9 +2322,10 @@
       "id": "model-mvoq68uy-3mo10",
       "name": "BMW F800ST",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
-      "note": "VALUE CANDIDATE / SPORT-TOURER TARGET\nEngine: 798cc parallel twin supplies accessible midrange, even delivery and some upper-rpm vibration; potentially less entertaining than the SV/CP2/LC8, so test ordinary-speed punch. Handling: road wheels and stable chassis suit confidence-building cornering, with less leverage/immediacy than Versys. Touring/fit: fairing, belt drive and luggage support distance use beyond 690; low seat and sportier reach can cramp long legs. Keep distinct from later F800GT, which revises protection/chassis and touring emphasis. Value estimate: older sound examples plausibly within $3,000–$4,500, sometimes less; age alone is not a mechanical fault. No supplied Dream Fit Rank. Source: https://www.press.bmwgroup.com/south-africa/article/detail/T0129470EN/the-new-bmw-f-800-s/st?language=en",
+      "note": "Affordable belt-drive tourer; mild character, compact cockpit.",
       "ranks": {
         "street": 16
       }
