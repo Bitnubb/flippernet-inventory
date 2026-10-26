@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 172,
-  "generatedAt": "2026-10-26T04:26:42.480Z",
+  "revision": 186,
+  "generatedAt": "2026-10-26T04:55:41.415Z",
   "counts": {
     "active": 52,
     "archived": 15,
@@ -1630,7 +1630,8 @@
       "id": "model-20",
       "name": "KTM 690 SMC R",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
@@ -1641,7 +1642,8 @@
       "id": "model-21",
       "name": "Husqvarna 701 Supermoto",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
@@ -1652,7 +1654,8 @@
       "id": "model-22",
       "name": "Husqvarna SM630",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
@@ -1663,7 +1666,8 @@
       "id": "model-23",
       "name": "Husqvarna SM610",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
@@ -1718,7 +1722,8 @@
       "id": "model-28",
       "name": "Yamaha XSR700",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Punchy, playful; soft suspension; MT-07 alternative packaging.",
       "ranks": {
@@ -1729,7 +1734,8 @@
       "id": "model-29",
       "name": "KTM 690 SM",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Overlaps enduro.",
       "ranks": {
@@ -1795,7 +1801,8 @@
       "id": "model-35",
       "name": "2015-2019 BMW F800R",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Practical, composed; likely too tame.",
       "ranks": {
@@ -1806,7 +1813,8 @@
       "id": "model-36",
       "name": "Suzuki GSX-8S",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Torquey, composed; less wind protection.",
       "ranks": {
@@ -1817,7 +1825,8 @@
       "id": "model-37",
       "name": "Kawasaki Z650",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Friendly twin; compact, less exciting.",
       "ranks": {
@@ -1828,7 +1837,8 @@
       "id": "model-38",
       "name": "Yamaha FJ-09 / Tracer 900 / FZ-09 Naked",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "2017 preferred; roomy, lively triple; FZ naked, FJ tours.",
       "ranks": {
@@ -1851,7 +1861,8 @@
       "id": "model-40",
       "name": "KTM 790 Duke",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Sharp handling, punchy; cam wear concerns.",
       "ranks": {
@@ -1862,7 +1873,8 @@
       "id": "model-41",
       "name": "BMW R1200R",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Torquey, comfortable, versatile; heavy.",
       "ranks": {
@@ -1873,7 +1885,8 @@
       "id": "model-42",
       "name": "VTR1000F Super Hawk",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "V-twin character; thirsty, bulky, crouched.",
       "ranks": {
@@ -1884,7 +1897,8 @@
       "id": "model-43",
       "name": "Super Duke",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Monster torque, sharp; excessive power.",
       "ranks": {
@@ -1895,7 +1909,8 @@
       "id": "model-sv650",
       "name": "Suzuki SV650",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Explosive grin, small cockpit.",
       "ranks": {
@@ -1906,7 +1921,8 @@
       "id": "model-versys650",
       "name": "Kawasaki Versys 650",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Proven cornering confidence; roomy, composed, great two-up.",
       "ranks": {
@@ -2027,7 +2043,8 @@
       "id": "model-mvkiox83-4jrc9",
       "name": "Street Triple 675 R",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM.",
       "ranks": {
@@ -2038,7 +2055,8 @@
       "id": "model-mvkk2ggd-y1hws",
       "name": "Yamaha FZ-07/MT-07",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "Punchy CP2; XSR700 engine, different packaging.",
       "ranks": {
@@ -2049,7 +2067,8 @@
       "id": "model-mvklnila-8micn",
       "name": "Monster 796",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "",
       "ranks": {
@@ -2060,7 +2079,8 @@
       "id": "model-mvkloe3f-klnsx",
       "name": "Ducati Hypermotard 796",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "",
       "ranks": {
@@ -2071,7 +2091,8 @@
       "id": "model-mvklqyu1-afc1h",
       "name": "Ducati Monster 821",
       "tags": [
-        "street"
+        "street",
+        "dreamers"
       ],
       "note": "",
       "ranks": {
