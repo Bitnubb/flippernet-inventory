@@ -2,16 +2,16 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 198,
-  "generatedAt": "2026-10-27T06:42:42.542Z",
+  "revision": 205,
+  "generatedAt": "2026-10-27T07:03:31.306Z",
   "counts": {
-    "active": 55,
+    "active": 56,
     "archived": 15,
-    "total": 70,
-    "researchModels": 82,
+    "total": 71,
+    "researchModels": 84,
     "categories": {
       "street": {
-        "active": 22,
+        "active": 23,
         "archived": 8
       },
       "dirt": {
@@ -121,7 +121,7 @@
       "price": 3200,
       "miles": "47,819",
       "loc": "San Jose",
-      "myRank": 15,
+      "myRank": 16,
       "note": "Touring twin with luggage; less playful.",
       "flag": "",
       "status": "Facebook screenshot",
@@ -1242,7 +1242,7 @@
       "price": 4500,
       "miles": "17,000 (advertised)",
       "loc": "Mill Valley",
-      "myRank": 17,
+      "myRank": 18,
       "note": "Wilbers shocks, Russell saddle, fairing, ABS, heated grips.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1260,7 +1260,7 @@
       "price": 4999,
       "miles": "19,000 (advertised)",
       "loc": "San Francisco",
-      "myRank": 19,
+      "myRank": 20,
       "note": "675R ABS; dealer offers one-month/500-mile guarantee.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1296,7 +1296,7 @@
       "price": 3299,
       "miles": "25,000 claimed; ad field 250,000",
       "loc": "San Francisco",
-      "myRank": 20,
+      "myRank": 21,
       "note": "25k claimed, fully serviced; familiar comfortable platform.",
       "flag": "Ad description says 25k miles; odometer field says 250,000.",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1314,7 +1314,7 @@
       "price": 3999,
       "miles": "15,000 (advertised)",
       "loc": "San Francisco",
-      "myRank": 21,
+      "myRank": 22,
       "note": "15k miles, aftermarket pipe, dealer service claimed.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1332,7 +1332,7 @@
       "price": 5200,
       "miles": "11,201 (advertised)",
       "loc": "Clearlake Oaks / Lake County",
-      "myRank": 22,
+      "myRank": 23,
       "note": "Second owner, 11k miles, upgraded springs, covers, sliders.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1350,7 +1350,7 @@
       "price": 5499,
       "miles": "5,245 (advertised)",
       "loc": "Bradley / Bryson-Hesperia",
-      "myRank": 18,
+      "myRank": 19,
       "note": "5,245 miles, Puig screen, lithium battery, case guards.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1422,7 +1422,7 @@
       "price": 4100,
       "miles": "Not listed",
       "loc": "Antelope, CA",
-      "myRank": 16,
+      "myRank": 17,
       "note": "Early F800R; $1,100 reduction, naked parallel twin.",
       "flag": "Provisional Street #14. $4,100 reduced from $5,200 per supplied screenshot; 2011 BMW F800R, Antelope CA per Skipper, mileage unlisted. Rank assumes sound mechanical condition, clean title in owner’s name and completed major maintenance; these are shopping assumptions, not inspection results. No penalty for omitted mileage or service claims. Earlier F800R generation, not the 2015-on chassis/gearing update. A balanced pavement roadster within budget, but limited wind protection and tall-rider knee room need a ride; higher-ranked options better match touring, engine character or known Versys confidence. Photo is a representative studio image matching the screenshot, not verification of the actual sale bike or its equipment. Live Facebook page unavailable to retrieval; no unseen seller claims added. Model context: https://www.press.bmwgroup.com/usa/article/detail/T0196338EN_US/bmw-motorrad-usa-introduces-the-2015-bmw-f-800-r",
       "status": "Screenshot reviewed; seller availability and equipment unverified",
@@ -1448,6 +1448,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "• Can you send an odometer photo confirming whether 100,900 is the actual mileage?\n• What was changed beyond the original S-model suspension: springs, valving, controller or complete units, and for what rider weight?\n• Does custom clip on mean the Arrow exhaust or a handlebar change? Was fueling altered, and are original parts included?\n• Which dated timing-belt/desmo service receipts accompany this high-mileage example?\n• Are the top box, mounts and keys included? Can you send the full description after Registration?",
+      "sellerQuestions": [],
       "url": "https://www.facebook.com/marketplace/item/1131615946105839"
     },
     {
@@ -1465,7 +1466,25 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "• Which tall windscreen and upper deflector are fitted, and how is helmet buffeting for a rider around 6ft1?\n• Is the Akrapovic a slip-on only, with stock headers/catalyst and fueling? Are original exhaust parts included?\n• Which factory options are fitted: cruise control, Dynamic ESA and shift assist?\n• Are cases included with the pictured luggage mounts, with matching keys?\n• Which seat height is fitted, and are the bars or footpegs altered? What rider weight is the suspension set for?",
-      "url": ""
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/1461596719176976/"
+    },
+    {
+      "name": "Aprilia Caponord 1200 Rally ABS",
+      "yr": "2016",
+      "role": "street",
+      "price": 5300,
+      "miles": "23,070 (advertised)",
+      "loc": "San Francisco",
+      "myRank": 15,
+      "note": "23k miles; green Rally, tall screen, pannier racks.",
+      "flag": "Provisional Street #15, behind the Moraga R1200RS: strong V-twin character and upright touring comfort could complement the 690, but a large adventure-tourer with a 19-inch front wheel is less directly pavement-focused than the FJ-09s. $5,300 is $300 above the usual $5,000 stretch ceiling. Rank assumes sound mechanical condition, clean owner-held title and completed major maintenance unless disclosed otherwise; no defect inferred from missing service details or the age of the advertisement. Screenshot lists 2016 Caponord 1200 Rally ABS, green, 23,070 miles, San Francisco, listed 25 weeks ago at screenshot time. Visible description is mostly manufacturer brochure text, not this example’s service history. Supplied photo shows tall screen, handguards, crash bars and pannier racks; case inclusion unconfirmed. Factory Rally context: ADD semi-active suspension, cruise control, ABS and traction control; actual operation/equipment require demonstration. Facebook live availability not independently verified; no seller contacted. Source: https://wide.piaggiogroup.com/archive/wide5_14/moto/index_en_m.html",
+      "status": "Screenshot and supplied photo reviewed; availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• Are both original hard panniers, mounts and keys included at $5,300?\n• Which windscreen is fitted, and how is helmet buffeting for a rider around 6ft1?\n• Can you demonstrate the ADD suspension/preload modes and cruise control on this Rally?\n• Are the ECU maps, exhaust and final gearing stock? How does it behave at small throttle openings in Sport versus Touring?\n• Which receipts accompany its latest scheduled valve-clearance service and any suspension work?\n• Can you send the remainder of the seller description beyond the brochure text, and confirm this 25-week-old posting is still current?",
+      "url": "https://www.facebook.com/marketplace/item/1266968085425018/"
     }
   ],
   "researchModels": [
@@ -2401,7 +2420,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular touring twin; heavy; Rally changes front wheel.",
+      "note": "Muscular touring twin; heavy; Rally changes front wheel.\n5-6K Used",
       "ranks": {
         "street": 26,
         "dreamers": 25
@@ -2457,6 +2476,32 @@
       "ranks": {
         "street": 14,
         "dreamers": 18
+      }
+    },
+    {
+      "id": "model-mvqbscch-l0csx",
+      "name": "BMW F750GS",
+      "tags": [
+        "street",
+        "dreamers"
+      ],
+      "note": "Snappier version of the F800GS",
+      "ranks": {
+        "street": 45,
+        "dreamers": 45
+      }
+    },
+    {
+      "id": "model-mvqbu73b-5kx4d",
+      "name": "BMW F800GS",
+      "tags": [
+        "street",
+        "dreamers"
+      ],
+      "note": "Adventure bike. Similar engine characteristics to the Tiger.",
+      "ranks": {
+        "street": 46,
+        "dreamers": 46
       }
     }
   ]
