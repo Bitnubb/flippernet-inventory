@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "lastCheckedAt": "2026-10-27T03:54:36.051608Z",
-  "revision": 191,
-  "inventoryGeneratedAt": "2026-10-27T03:42:49.633Z",
-  "inventorySha": "a707cffdfa938c7925de63f9c69e74f205fbc3f0",
+  "lastCheckedAt": "2026-10-27T03:59:25.180528Z",
+  "revision": 195,
+  "inventoryGeneratedAt": "2026-10-27T03:59:22.781Z",
+  "inventorySha": "ba38e778d6ba68c3975748fb7ebaf6cc39cfe60e",
   "counts": {
     "active": 53,
     "archived": 15,
     "total": 68,
-    "researchModels": 81,
+    "researchModels": 82,
     "categories": {
       "street": {
         "active": 20,
