@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "lastCheckedAt": "2026-10-27T03:54:36.051608Z",
+  "revision": 191,
+  "inventoryGeneratedAt": "2026-10-27T03:42:49.633Z",
+  "inventorySha": "a707cffdfa938c7925de63f9c69e74f205fbc3f0",
+  "counts": {
+    "active": 53,
+    "archived": 15,
+    "total": 68,
+    "researchModels": 81,
+    "categories": {
+      "street": {
+        "active": 20,
+        "archived": 8
+      },
+      "dirt": {
+        "active": 7,
+        "archived": 2
+      },
+      "hula": {
+        "active": 26,
+        "archived": 5
+      }
+    }
+  },
+  "workflowRunUrl": "https://github.com/Bitnubb/flippernet-inventory/actions/runs/40446761015"
+}
