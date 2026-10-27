@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 217,
-  "generatedAt": "2026-10-27T10:40:16.967Z",
+  "revision": 219,
+  "generatedAt": "2026-10-27T20:29:38.284Z",
   "counts": {
     "active": 57,
     "archived": 15,
@@ -1725,7 +1725,7 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 44,
+        "street": 46,
         "dreamers": 43
       }
     },
@@ -1738,7 +1738,7 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 42,
+        "street": 44,
         "dreamers": 42
       }
     },
@@ -1751,7 +1751,7 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 43,
+        "street": 45,
         "dreamers": 44
       }
     },
@@ -1764,7 +1764,7 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 45,
+        "street": 47,
         "dreamers": 45
       }
     },
@@ -1834,7 +1834,7 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 46,
+        "street": 48,
         "dreamers": 46
       }
     },
@@ -2506,7 +2506,7 @@
       ],
       "note": "Snappier version of the F800GS",
       "ranks": {
-        "street": 47,
+        "street": 42,
         "dreamers": 47
       }
     },
@@ -2519,7 +2519,7 @@
       ],
       "note": "Adventure bike. Similar engine characteristics to the Tiger.",
       "ranks": {
-        "street": 48,
+        "street": 41,
         "dreamers": 48
       }
     },
@@ -2532,7 +2532,7 @@
       ],
       "note": "33.9in, 450lb; lively twin; dirt focus overlaps 690.",
       "ranks": {
-        "street": 41,
+        "street": 43,
         "dreamers": 30
       }
     },
