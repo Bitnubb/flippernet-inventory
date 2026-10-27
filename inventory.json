@@ -2,13 +2,13 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 191,
-  "generatedAt": "2026-10-27T03:42:49.633Z",
+  "revision": 195,
+  "generatedAt": "2026-10-27T03:59:22.781Z",
   "counts": {
     "active": 53,
     "archived": 15,
     "total": 68,
-    "researchModels": 81,
+    "researchModels": 82,
     "categories": {
       "street": {
         "active": 20,
@@ -1653,8 +1653,8 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 41,
-        "dreamers": 40
+        "street": 42,
+        "dreamers": 41
       }
     },
     {
@@ -1666,8 +1666,8 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 39,
-        "dreamers": 39
+        "street": 40,
+        "dreamers": 40
       }
     },
     {
@@ -1679,8 +1679,8 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 40,
-        "dreamers": 41
+        "street": 41,
+        "dreamers": 42
       }
     },
     {
@@ -1692,8 +1692,8 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 42,
-        "dreamers": 42
+        "street": 43,
+        "dreamers": 43
       }
     },
     {
@@ -1749,8 +1749,8 @@
       ],
       "note": "Punchy, playful; soft suspension; MT-07 alternative packaging.",
       "ranks": {
-        "street": 7,
-        "dreamers": 18
+        "street": 8,
+        "dreamers": 19
       }
     },
     {
@@ -1762,8 +1762,8 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 43,
-        "dreamers": 43
+        "street": 44,
+        "dreamers": 44
       }
     },
     {
@@ -1830,8 +1830,8 @@
       ],
       "note": "Practical, composed; likely too tame.",
       "ranks": {
-        "street": 18,
-        "dreamers": 38
+        "street": 19,
+        "dreamers": 39
       }
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "note": "Torquey, composed; less wind protection.",
       "ranks": {
-        "street": 10,
+        "street": 11,
         "dreamers": 16
       }
     },
@@ -1856,18 +1856,18 @@
       ],
       "note": "Friendly twin; compact, less exciting.",
       "ranks": {
-        "street": 17,
-        "dreamers": 37
+        "street": 18,
+        "dreamers": 38
       }
     },
     {
       "id": "model-38",
-      "name": "Yamaha FJ-09 / Tracer 900 / FZ-09 Naked",
+      "name": "Yamaha FJ-09 / Tracer 900",
       "tags": [
         "street",
         "dreamers"
       ],
-      "note": "2017 preferred; roomy, lively triple; FZ naked, FJ tours.",
+      "note": "2017 preferred; roomy, lively triple; wind protection, touring comfort.",
       "ranks": {
         "street": 1,
         "dreamers": 3
@@ -1883,7 +1883,7 @@
       "note": "Tall, thrilling; abrupt throttle, costly upkeep; Hyperstrada tours.",
       "ranks": {
         "street": 2,
-        "dreamers": 8
+        "dreamers": 7
       }
     },
     {
@@ -1896,7 +1896,7 @@
       "note": "Sharp handling, punchy; cam wear concerns.",
       "ranks": {
         "street": 13,
-        "dreamers": 28
+        "dreamers": 29
       }
     },
     {
@@ -1909,7 +1909,7 @@
       "note": "Torquey, comfortable, versatile; heavy.",
       "ranks": {
         "street": 12,
-        "dreamers": 25
+        "dreamers": 26
       }
     },
     {
@@ -1921,8 +1921,8 @@
       ],
       "note": "V-twin character; thirsty, bulky, crouched.",
       "ranks": {
-        "street": 23,
-        "dreamers": 36
+        "street": 24,
+        "dreamers": 37
       }
     },
     {
@@ -1934,8 +1934,8 @@
       ],
       "note": "Monster torque, sharp; excessive power.",
       "ranks": {
-        "street": 19,
-        "dreamers": 32
+        "street": 20,
+        "dreamers": 33
       }
     },
     {
@@ -1947,8 +1947,8 @@
       ],
       "note": "Explosive grin, small cockpit.",
       "ranks": {
-        "street": 8,
-        "dreamers": 26
+        "street": 10,
+        "dreamers": 27
       }
     },
     {
@@ -1960,8 +1960,8 @@
       ],
       "note": "Proven cornering confidence; roomy, composed, great two-up.",
       "ranks": {
-        "street": 9,
-        "dreamers": 12
+        "street": 6,
+        "dreamers": 14
       }
     },
     {
@@ -2083,8 +2083,8 @@
       ],
       "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM.",
       "ranks": {
-        "street": 14,
-        "dreamers": 27
+        "street": 15,
+        "dreamers": 28
       }
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "note": "Punchy CP2; XSR700 engine, different packaging.",
       "ranks": {
-        "street": 6,
+        "street": 5,
         "dreamers": 17
       }
     },
@@ -2109,8 +2109,8 @@
       ],
       "note": "",
       "ranks": {
-        "street": 22,
-        "dreamers": 35
+        "street": 23,
+        "dreamers": 36
       }
     },
     {
@@ -2122,8 +2122,8 @@
       ],
       "note": "",
       "ranks": {
-        "street": 21,
-        "dreamers": 34
+        "street": 22,
+        "dreamers": 35
       }
     },
     {
@@ -2135,8 +2135,8 @@
       ],
       "note": "",
       "ranks": {
-        "street": 20,
-        "dreamers": 33
+        "street": 21,
+        "dreamers": 34
       }
     },
     {
@@ -2161,8 +2161,8 @@
       ],
       "note": "Roomy touring V-twin; slower steering than Versys.",
       "ranks": {
-        "street": 11,
-        "dreamers": 29
+        "street": 9,
+        "dreamers": 30
       }
     },
     {
@@ -2174,7 +2174,7 @@
       ],
       "note": "Characterful midrange, roomy touring; S suspension; expensive.",
       "ranks": {
-        "street": 27,
+        "street": 28,
         "dreamers": 1
       }
     },
@@ -2187,7 +2187,7 @@
       ],
       "note": "Punchy, agile, upright sport-tourer; expensive.",
       "ranks": {
-        "street": 33,
+        "street": 34,
         "dreamers": 2
       }
     },
@@ -2200,7 +2200,7 @@
       ],
       "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive.",
       "ranks": {
-        "street": 34,
+        "street": 35,
         "dreamers": 4
       }
     },
@@ -2213,7 +2213,7 @@
       ],
       "note": "More midrange than 821; nimble, touring-equipped, costly upkeep.",
       "ranks": {
-        "street": 4,
+        "street": 7,
         "dreamers": 6
       }
     },
@@ -2226,7 +2226,7 @@
       ],
       "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation.",
       "ranks": {
-        "street": 35,
+        "street": 36,
         "dreamers": 5
       }
     },
@@ -2239,8 +2239,8 @@
       ],
       "note": "Broad midrange, upright cockpit, wind protection; above budget.",
       "ranks": {
-        "street": 28,
-        "dreamers": 7
+        "street": 29,
+        "dreamers": 12
       }
     },
     {
@@ -2252,8 +2252,8 @@
       ],
       "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach.",
       "ranks": {
-        "street": 36,
-        "dreamers": 9
+        "street": 37,
+        "dreamers": 8
       }
     },
     {
@@ -2265,7 +2265,7 @@
       ],
       "note": "CP2 punch, fairing; Tracer 7 newer; non-US availability.",
       "ranks": {
-        "street": 32,
+        "street": 33,
         "dreamers": 10
       }
     },
@@ -2278,8 +2278,8 @@
       ],
       "note": "Raw V-twin punch, agile touring; occasional budget fit.",
       "ranks": {
-        "street": 5,
-        "dreamers": 13
+        "street": 4,
+        "dreamers": 9
       }
     },
     {
@@ -2291,8 +2291,8 @@
       ],
       "note": "GSX-8S midrange, fairing, sporty posture; usually above budget.",
       "ranks": {
-        "street": 26,
-        "dreamers": 15
+        "street": 27,
+        "dreamers": 13
       }
     },
     {
@@ -2304,8 +2304,8 @@
       ],
       "note": "Torquey boxer, stable touring; forward reach, substantial weight.",
       "ranks": {
-        "street": 29,
-        "dreamers": 19
+        "street": 30,
+        "dreamers": 20
       }
     },
     {
@@ -2317,8 +2317,8 @@
       ],
       "note": "Punchy 937; 950 adds IMU; S adds Öhlins.",
       "ranks": {
-        "street": 30,
-        "dreamers": 20
+        "street": 31,
+        "dreamers": 21
       }
     },
     {
@@ -2330,8 +2330,8 @@
       ],
       "note": "GSX-8 twin character, upright touring; heavier, above budget.",
       "ranks": {
-        "street": 31,
-        "dreamers": 23
+        "street": 32,
+        "dreamers": 24
       }
     },
     {
@@ -2343,8 +2343,8 @@
       ],
       "note": "Affordable belt-drive tourer; composed, restrained engine, tight knees.",
       "ranks": {
-        "street": 15,
-        "dreamers": 30
+        "street": 16,
+        "dreamers": 31
       }
     },
     {
@@ -2356,8 +2356,8 @@
       ],
       "note": "1200 non-DVT/DVT; 1260 stronger midrange; roomy, heavy.",
       "ranks": {
-        "street": 24,
-        "dreamers": 21
+        "street": 25,
+        "dreamers": 22
       }
     },
     {
@@ -2369,8 +2369,8 @@
       ],
       "note": "Muscular touring twin; heavy; Rally changes front wheel.",
       "ranks": {
-        "street": 25,
-        "dreamers": 24
+        "street": 26,
+        "dreamers": 25
       }
     },
     {
@@ -2382,8 +2382,8 @@
       ],
       "note": "Huge V-twin shove, sporty touring; excessive power, expensive.",
       "ranks": {
-        "street": 37,
-        "dreamers": 22
+        "street": 38,
+        "dreamers": 23
       }
     },
     {
@@ -2395,8 +2395,8 @@
       ],
       "note": "Muscular boxer, planted touring; sportier posture, dream pricing.",
       "ranks": {
-        "street": 38,
-        "dreamers": 14
+        "street": 39,
+        "dreamers": 15
       }
     },
     {
@@ -2408,8 +2408,21 @@
       ],
       "note": "Affordable belt-drive tourer; mild character, compact cockpit.",
       "ranks": {
-        "street": 16,
-        "dreamers": 31
+        "street": 17,
+        "dreamers": 32
+      }
+    },
+    {
+      "id": "model-mvq5nciw-q2mj3",
+      "name": "Yamaha FZ-09 / MT-09 (naked)",
+      "tags": [
+        "street",
+        "dreamers"
+      ],
+      "note": "2017 preferred; lively naked triple; less touring comfort.",
+      "ranks": {
+        "street": 14,
+        "dreamers": 18
       }
     }
   ]
