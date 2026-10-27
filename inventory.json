@@ -2,13 +2,13 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 210,
-  "generatedAt": "2026-10-27T07:11:24.753Z",
+  "revision": 217,
+  "generatedAt": "2026-10-27T10:40:16.967Z",
   "counts": {
     "active": 57,
     "archived": 15,
     "total": 72,
-    "researchModels": 85,
+    "researchModels": 86,
     "categories": {
       "street": {
         "active": 24,
@@ -1725,8 +1725,8 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 43,
-        "dreamers": 42
+        "street": 44,
+        "dreamers": 43
       }
     },
     {
@@ -1738,8 +1738,8 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 41,
-        "dreamers": 41
+        "street": 42,
+        "dreamers": 42
       }
     },
     {
@@ -1751,8 +1751,8 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 42,
-        "dreamers": 43
+        "street": 43,
+        "dreamers": 44
       }
     },
     {
@@ -1764,8 +1764,8 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 44,
-        "dreamers": 44
+        "street": 45,
+        "dreamers": 45
       }
     },
     {
@@ -1834,8 +1834,8 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 45,
-        "dreamers": 45
+        "street": 46,
+        "dreamers": 46
       }
     },
     {
@@ -1903,7 +1903,7 @@
       "note": "Practical, composed; likely too tame.",
       "ranks": {
         "street": 19,
-        "dreamers": 40
+        "dreamers": 41
       }
     },
     {
@@ -1929,7 +1929,7 @@
       "note": "Friendly twin; compact, less exciting.",
       "ranks": {
         "street": 18,
-        "dreamers": 39
+        "dreamers": 40
       }
     },
     {
@@ -1968,7 +1968,7 @@
       "note": "Sharp handling, punchy; cam wear concerns.",
       "ranks": {
         "street": 13,
-        "dreamers": 29
+        "dreamers": 28
       }
     },
     {
@@ -1994,7 +1994,7 @@
       "note": "V-twin character; thirsty, bulky, crouched.",
       "ranks": {
         "street": 24,
-        "dreamers": 38
+        "dreamers": 39
       }
     },
     {
@@ -2155,8 +2155,8 @@
       ],
       "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM.",
       "ranks": {
-        "street": 15,
-        "dreamers": 28
+        "street": 33,
+        "dreamers": 38
       }
     },
     {
@@ -2234,7 +2234,7 @@
       "note": "Roomy touring V-twin; slower steering than Versys.",
       "ranks": {
         "street": 9,
-        "dreamers": 30
+        "dreamers": 29
       }
     },
     {
@@ -2259,7 +2259,7 @@
       ],
       "note": "Punchy, agile, upright sport-tourer; expensive.",
       "ranks": {
-        "street": 34,
+        "street": 35,
         "dreamers": 2
       }
     },
@@ -2272,7 +2272,7 @@
       ],
       "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive.",
       "ranks": {
-        "street": 35,
+        "street": 36,
         "dreamers": 4
       }
     },
@@ -2298,7 +2298,7 @@
       ],
       "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation.",
       "ranks": {
-        "street": 36,
+        "street": 37,
         "dreamers": 5
       }
     },
@@ -2324,7 +2324,7 @@
       ],
       "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach.",
       "ranks": {
-        "street": 37,
+        "street": 38,
         "dreamers": 8
       }
     },
@@ -2337,7 +2337,7 @@
       ],
       "note": "CP2 punch, fairing; Tracer 7 newer; non-US availability.",
       "ranks": {
-        "street": 33,
+        "street": 34,
         "dreamers": 10
       }
     },
@@ -2454,7 +2454,7 @@
       ],
       "note": "Huge V-twin shove, sporty touring; excessive power, expensive.",
       "ranks": {
-        "street": 38,
+        "street": 39,
         "dreamers": 23
       }
     },
@@ -2467,7 +2467,7 @@
       ],
       "note": "Muscular boxer, planted touring; sportier posture, dream pricing.",
       "ranks": {
-        "street": 39,
+        "street": 40,
         "dreamers": 15
       }
     },
@@ -2506,8 +2506,8 @@
       ],
       "note": "Snappier version of the F800GS",
       "ranks": {
-        "street": 46,
-        "dreamers": 46
+        "street": 47,
+        "dreamers": 47
       }
     },
     {
@@ -2519,8 +2519,8 @@
       ],
       "note": "Adventure bike. Similar engine characteristics to the Tiger.",
       "ranks": {
-        "street": 47,
-        "dreamers": 47
+        "street": 48,
+        "dreamers": 48
       }
     },
     {
@@ -2532,7 +2532,20 @@
       ],
       "note": "33.9in, 450lb; lively twin; dirt focus overlaps 690.",
       "ranks": {
-        "street": 40,
+        "street": 41,
+        "dreamers": 30
+      }
+    },
+    {
+      "id": "model-mvqcpg56-v5cdp",
+      "name": "Aprilia Shiver 900 / 750 GT",
+      "tags": [
+        "street",
+        "dreamers"
+      ],
+      "note": "Heavier, 900 has heaps more torque but same hp as 750. ",
+      "ranks": {
+        "street": 15,
         "dreamers": 31
       }
     }
