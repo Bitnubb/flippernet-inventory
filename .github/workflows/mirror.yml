@@ -65,16 +65,22 @@ jobs:
                   "counts": snapshot["counts"],
                   "workflowRunUrl": "https://github.com/" + os.environ["GH_REPOSITORY"] + "/actions/runs/" + os.environ["GITHUB_RUN_ID"],
               }
-              status_payload = {"message": "Check HQ mirror revision " + str(status["revision"]), "content": base64.b64encode((json.dumps(status, indent=2)+"\n").encode()).decode(), "branch": "main"}
-              try:
-                  with urllib.request.urlopen(urllib.request.Request(status_api, headers=headers), timeout=30) as response:
-                      status_payload["sha"] = json.load(response)["sha"]
-              except urllib.error.HTTPError as error:
-                  if error.code != 404:
-                      raise
-              request = urllib.request.Request(status_api, data=json.dumps(status_payload).encode(), headers={**headers, "Content-Type":"application/json"}, method="PUT")
-              with urllib.request.urlopen(request, timeout=30) as response:
-                  assert response.status in (200, 201)
+              for attempt in range(3):
+                  status_payload = {"message": "Check HQ mirror revision " + str(status["revision"]), "content": base64.b64encode((json.dumps(status, indent=2)+"\n").encode()).decode(), "branch": "main"}
+                  try:
+                      with urllib.request.urlopen(urllib.request.Request(status_api, headers=headers), timeout=30) as response:
+                          status_payload["sha"] = json.load(response)["sha"]
+                  except urllib.error.HTTPError as error:
+                      if error.code != 404:
+                          raise
+                  request = urllib.request.Request(status_api, data=json.dumps(status_payload).encode(), headers={**headers, "Content-Type":"application/json"}, method="PUT")
+                  try:
+                      with urllib.request.urlopen(request, timeout=30) as response:
+                          assert response.status in (200, 201)
+                      break
+                  except urllib.error.HTTPError as error:
+                      if error.code != 409 or attempt == 2:
+                          raise
               print("Checked revision", status["revision"], "at", status["lastCheckedAt"])
           existing = None
           try:
