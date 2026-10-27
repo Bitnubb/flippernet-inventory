@@ -54,6 +54,28 @@ jobs:
               assert counts["categories"][role]["archived"] == sum(b["role"]==role and b["archived"] for b in bikes)
           api = "https://api.github.com/repos/" + os.environ["GH_REPOSITORY"] + "/contents/inventory.json"
           headers = {"Authorization":"Bearer " + os.environ["GH_TOKEN"], "Accept":"application/vnd.github+json", "X-GitHub-Api-Version":"2022-11-28", "User-Agent":"Flippernet-Inventory-Mirror"}
+          def write_status(snapshot, inventory_sha):
+              status_api = api.rsplit("/", 1)[0] + "/status.json"
+              status = {
+                  "ok": True,
+                  "lastCheckedAt": __import__("datetime").datetime.now(__import__("datetime").timezone.utc).isoformat().replace("+00:00", "Z"),
+                  "revision": snapshot["revision"],
+                  "inventoryGeneratedAt": snapshot["generatedAt"],
+                  "inventorySha": inventory_sha,
+                  "counts": snapshot["counts"],
+                  "workflowRunUrl": "https://github.com/" + os.environ["GH_REPOSITORY"] + "/actions/runs/" + os.environ["GITHUB_RUN_ID"],
+              }
+              status_payload = {"message": "Check HQ mirror revision " + str(status["revision"]), "content": base64.b64encode((json.dumps(status, indent=2)+"\n").encode()).decode(), "branch": "main"}
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(status_api, headers=headers), timeout=30) as response:
+                      status_payload["sha"] = json.load(response)["sha"]
+              except urllib.error.HTTPError as error:
+                  if error.code != 404:
+                      raise
+              request = urllib.request.Request(status_api, data=json.dumps(status_payload).encode(), headers={**headers, "Content-Type":"application/json"}, method="PUT")
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  assert response.status in (200, 201)
+              print("Checked revision", status["revision"], "at", status["lastCheckedAt"])
           existing = None
           try:
               with urllib.request.urlopen(urllib.request.Request(api,headers=headers),timeout=30) as response:
@@ -67,6 +89,7 @@ jobs:
               comparable = lambda d: {k:v for k,v in d.items() if k != "generatedAt"}
               if comparable(data) == comparable(previous):
                   print("Unchanged revision", data["revision"], json.dumps(counts))
+                  write_status(previous, existing["sha"])
                   raise SystemExit(0)
           payload = {"message":"Mirror HQ revision " + str(data["revision"]), "content":base64.b64encode((json.dumps(data,ensure_ascii=False,indent=2)+"\n").encode()).decode(), "branch":"main"}
           if existing:
@@ -74,5 +97,7 @@ jobs:
           request = urllib.request.Request(api,data=json.dumps(payload).encode(),headers={**headers,"Content-Type":"application/json"},method="PUT")
           with urllib.request.urlopen(request,timeout=30) as response:
               assert response.status in (200,201)
+              published = json.load(response)
+          write_status(data, published["content"]["sha"])
           print("Published revision",data["revision"],json.dumps(counts))
           PY
