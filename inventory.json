@@ -2,16 +2,16 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 205,
-  "generatedAt": "2026-10-27T07:03:31.306Z",
+  "revision": 210,
+  "generatedAt": "2026-10-27T07:11:24.753Z",
   "counts": {
-    "active": 56,
+    "active": 57,
     "archived": 15,
-    "total": 71,
-    "researchModels": 84,
+    "total": 72,
+    "researchModels": 85,
     "categories": {
       "street": {
-        "active": 23,
+        "active": 24,
         "archived": 8
       },
       "dirt": {
@@ -1477,14 +1477,33 @@
       "miles": "23,070 (advertised)",
       "loc": "San Francisco",
       "myRank": 15,
-      "note": "23k miles; green Rally, tall screen, pannier racks.",
+      "note": "606 lbs; green Rally, tall screen, pannier racks.",
       "flag": "Provisional Street #15, behind the Moraga R1200RS: strong V-twin character and upright touring comfort could complement the 690, but a large adventure-tourer with a 19-inch front wheel is less directly pavement-focused than the FJ-09s. $5,300 is $300 above the usual $5,000 stretch ceiling. Rank assumes sound mechanical condition, clean owner-held title and completed major maintenance unless disclosed otherwise; no defect inferred from missing service details or the age of the advertisement. Screenshot lists 2016 Caponord 1200 Rally ABS, green, 23,070 miles, San Francisco, listed 25 weeks ago at screenshot time. Visible description is mostly manufacturer brochure text, not this example’s service history. Supplied photo shows tall screen, handguards, crash bars and pannier racks; case inclusion unconfirmed. Factory Rally context: ADD semi-active suspension, cruise control, ABS and traction control; actual operation/equipment require demonstration. Facebook live availability not independently verified; no seller contacted. Source: https://wide.piaggiogroup.com/archive/wide5_14/moto/index_en_m.html",
       "status": "Screenshot and supplied photo reviewed; availability unconfirmed",
       "archived": false,
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "• Are both original hard panniers, mounts and keys included at $5,300?\n• Which windscreen is fitted, and how is helmet buffeting for a rider around 6ft1?\n• Can you demonstrate the ADD suspension/preload modes and cruise control on this Rally?\n• Are the ECU maps, exhaust and final gearing stock? How does it behave at small throttle openings in Sport versus Touring?\n• Which receipts accompany its latest scheduled valve-clearance service and any suspension work?\n• Can you send the remainder of the seller description beyond the brochure text, and confirm this 25-week-old posting is still current?",
+      "sellerQuestions": [],
       "url": "https://www.facebook.com/marketplace/item/1266968085425018/"
+    },
+    {
+      "name": "Aprilia Tuareg 660",
+      "yr": "2022",
+      "role": "street",
+      "price": 6995,
+      "miles": "30,738 (advertised)",
+      "loc": "Oakland",
+      "myRank": 24,
+      "note": "Claimed 24k major service; new seat/grips, SW-Motech parts.",
+      "flag": "Provisional Street #24: capable twin-cylinder adventure bike, but $6,995 is $1,995 above the usual $5,000 stretch ceiling and its dirt-oriented 21/18-inch wheels/long-travel suspension overlap the existing 690 more than the leading pavement tourers. This is a purchase-fit/value ranking, not a claim of poor condition. Assume clean owner-held title, sound mechanical condition and completed major maintenance unless specifically disclosed otherwise. Screenshot: 2022 Tuareg 660, Oakland, 30,738 miles; seller claims new grips, new seat, major service at 24k and recent service completed by us. SW Motech lower is ambiguous; do not assume suspension lowering. Supplied photo shows red/black/white bodywork, handguards and a substantial skid plate; exact parts/inclusion unconfirmed. Screenshot color field says Black. Description cuts off; no unseen claims inferred. Live availability not independently verified. Factory context: 80 hp, 204 kg kerb weight, 21/18-inch wheels. Source: https://wlassets.aprilia.com/wlassets/aprilia/master/tech_spec/E5/Tuareg660_Technical_specification_EN/original/Tuareg660_Technical_specification_EN.pdf",
+      "status": "Screenshot/photo reviewed; service claims unverified; availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "• What did the advertised 24k major service include, at what mileage/date, and is its invoice available?\n• What work was included in the more recent service completed by us?\n• Which SW-Motech component does lower refer to: footpegs, protective bars or a lowering change? If the suspension was lowered, how and by how much?\n• Which replacement seat is fitted, and how does its height/foam compare with stock? Are the original seat and grips included?\n• Which skid plate and handguards are fitted, and are they included at $6,995?\n• Can you send the remaining description, including any additional modifications or equipment?",
+      "sellerQuestions": [],
+      "url": "https://www.facebook.com/marketplace/item/2076469302995534/"
     }
   ],
   "researchModels": [
@@ -1706,8 +1725,8 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 42,
-        "dreamers": 41
+        "street": 43,
+        "dreamers": 42
       }
     },
     {
@@ -1719,8 +1738,8 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 40,
-        "dreamers": 40
+        "street": 41,
+        "dreamers": 41
       }
     },
     {
@@ -1732,8 +1751,8 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 41,
-        "dreamers": 42
+        "street": 42,
+        "dreamers": 43
       }
     },
     {
@@ -1745,8 +1764,8 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 43,
-        "dreamers": 43
+        "street": 44,
+        "dreamers": 44
       }
     },
     {
@@ -1815,8 +1834,8 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 44,
-        "dreamers": 44
+        "street": 45,
+        "dreamers": 45
       }
     },
     {
@@ -1884,7 +1903,7 @@
       "note": "Practical, composed; likely too tame.",
       "ranks": {
         "street": 19,
-        "dreamers": 39
+        "dreamers": 40
       }
     },
     {
@@ -1910,7 +1929,7 @@
       "note": "Friendly twin; compact, less exciting.",
       "ranks": {
         "street": 18,
-        "dreamers": 38
+        "dreamers": 39
       }
     },
     {
@@ -1975,7 +1994,7 @@
       "note": "V-twin character; thirsty, bulky, crouched.",
       "ranks": {
         "street": 24,
-        "dreamers": 37
+        "dreamers": 38
       }
     },
     {
@@ -1988,7 +2007,7 @@
       "note": "Monster torque, sharp; excessive power.",
       "ranks": {
         "street": 20,
-        "dreamers": 33
+        "dreamers": 34
       }
     },
     {
@@ -2163,7 +2182,7 @@
       "note": "",
       "ranks": {
         "street": 23,
-        "dreamers": 36
+        "dreamers": 37
       }
     },
     {
@@ -2176,7 +2195,7 @@
       "note": "",
       "ranks": {
         "street": 22,
-        "dreamers": 35
+        "dreamers": 36
       }
     },
     {
@@ -2189,7 +2208,7 @@
       "note": "",
       "ranks": {
         "street": 21,
-        "dreamers": 34
+        "dreamers": 35
       }
     },
     {
@@ -2397,7 +2416,7 @@
       "note": "Affordable belt-drive tourer; composed, restrained engine, tight knees.",
       "ranks": {
         "street": 16,
-        "dreamers": 31
+        "dreamers": 32
       }
     },
     {
@@ -2420,7 +2439,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular touring twin; heavy; Rally changes front wheel.\n5-6K Used",
+      "note": "Muscular twin; Rally 606 lbs, 19in front; $5–6k used.",
       "ranks": {
         "street": 26,
         "dreamers": 25
@@ -2462,7 +2481,7 @@
       "note": "Affordable belt-drive tourer; mild character, compact cockpit.",
       "ranks": {
         "street": 17,
-        "dreamers": 32
+        "dreamers": 33
       }
     },
     {
@@ -2487,8 +2506,8 @@
       ],
       "note": "Snappier version of the F800GS",
       "ranks": {
-        "street": 45,
-        "dreamers": 45
+        "street": 46,
+        "dreamers": 46
       }
     },
     {
@@ -2500,8 +2519,21 @@
       ],
       "note": "Adventure bike. Similar engine characteristics to the Tiger.",
       "ranks": {
-        "street": 46,
-        "dreamers": 46
+        "street": 47,
+        "dreamers": 47
+      }
+    },
+    {
+      "id": "model-mvqcgjkf-28xii",
+      "name": "Aprilia Tuareg 660",
+      "tags": [
+        "street",
+        "dreamers"
+      ],
+      "note": "33.9in, 450lb; lively twin; dirt focus overlaps 690.",
+      "ranks": {
+        "street": 40,
+        "dreamers": 31
       }
     }
   ]
