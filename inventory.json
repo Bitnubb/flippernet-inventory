@@ -2,13 +2,13 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 232,
-  "generatedAt": "2026-10-29T00:19:55.599Z",
+  "revision": 235,
+  "generatedAt": "2026-10-29T05:58:30.229Z",
   "counts": {
     "active": 57,
     "archived": 15,
     "total": 72,
-    "researchModels": 86,
+    "researchModels": 87,
     "categories": {
       "street": {
         "active": 24,
@@ -2547,6 +2547,17 @@
       "ranks": {
         "street": 19,
         "dreamers": 31
+      }
+    },
+    {
+      "id": "model-mvst1c2e-00zto",
+      "name": "Yamaha Wr125r",
+      "tags": [
+        "hula"
+      ],
+      "note": " 34.4 Too high without boots",
+      "ranks": {
+        "hula": 11
       }
     }
   ]
