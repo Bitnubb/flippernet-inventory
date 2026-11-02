@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "lastCheckedAt": "2026-11-02T04:28:08.009096Z",
-  "revision": 246,
-  "inventoryGeneratedAt": "2026-11-02T04:28:05.544Z",
-  "inventorySha": "1553c4051b493e29b41ded628d44b3359c36283f",
+  "lastCheckedAt": "2026-11-02T08:11:36.116051Z",
+  "revision": 249,
+  "inventoryGeneratedAt": "2026-11-02T08:11:33.580Z",
+  "inventorySha": "cc7736521c4077fc0361c9c803db0148a1f4315d",
   "counts": {
     "active": 59,
     "archived": 14,
     "total": 73,
-    "researchModels": 87,
+    "researchModels": 88,
     "categories": {
       "street": {
         "active": 25,
@@ -24,5 +24,5 @@
       }
     }
   },
-  "workflowRunUrl": "https://github.com/Bitnubb/flippernet-inventory/actions/runs/41373155493"
+  "workflowRunUrl": "https://github.com/Bitnubb/flippernet-inventory/actions/runs/41411204041"
 }
