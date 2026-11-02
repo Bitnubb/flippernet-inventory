@@ -2,13 +2,13 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 246,
-  "generatedAt": "2026-11-02T04:28:05.544Z",
+  "revision": 249,
+  "generatedAt": "2026-11-02T08:11:33.580Z",
   "counts": {
     "active": 59,
     "archived": 14,
     "total": 73,
-    "researchModels": 87,
+    "researchModels": 88,
     "categories": {
       "street": {
         "active": 25,
@@ -1520,6 +1520,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "What exactly was included in the recent $800 service, and at what mileage?\nWhich upgrades are fitted, including exhaust, ECU mapping, gearing and suspension changes?\nCan we review the advertised 14-year receipt file to understand work already completed and upcoming intervals?\nAre the luggage, mounts and original parts included in the $4,000 price?\nFor a test ride, assess low-speed throttle pickup, tall-rider knee room and windscreen buffeting; does the current setup suit a 225 lb rider?",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/reno-beautiful-2012-ktm-smt-990/5ckAJP6MMibybRYXRCRw6N"
     }
   ],
@@ -1743,7 +1744,7 @@
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
         "street": 46,
-        "dreamers": 43
+        "dreamers": 44
       }
     },
     {
@@ -1756,7 +1757,7 @@
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
         "street": 44,
-        "dreamers": 42
+        "dreamers": 43
       }
     },
     {
@@ -1769,7 +1770,7 @@
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
         "street": 45,
-        "dreamers": 44
+        "dreamers": 45
       }
     },
     {
@@ -1782,7 +1783,7 @@
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
         "street": 47,
-        "dreamers": 45
+        "dreamers": 46
       }
     },
     {
@@ -1852,7 +1853,7 @@
       "note": "Overlaps enduro.",
       "ranks": {
         "street": 48,
-        "dreamers": 46
+        "dreamers": 47
       }
     },
     {
@@ -1920,7 +1921,7 @@
       "note": "Practical, composed; likely too tame.",
       "ranks": {
         "street": 23,
-        "dreamers": 41
+        "dreamers": 42
       }
     },
     {
@@ -2365,7 +2366,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Raw V-twin punch, agile touring; occasional budget fit.",
+      "note": "Raw V-twin punch, agile touring; occasional budget fit. Older meatier version of the 890 smt",
       "ranks": {
         "street": 6,
         "dreamers": 9
@@ -2524,7 +2525,7 @@
       "note": "Snappier version of the F800GS",
       "ranks": {
         "street": 42,
-        "dreamers": 47
+        "dreamers": 48
       }
     },
     {
@@ -2537,7 +2538,7 @@
       "note": "Adventure bike. Similar engine characteristics to the Tiger.",
       "ranks": {
         "street": 41,
-        "dreamers": 48
+        "dreamers": 49
       }
     },
     {
@@ -2575,6 +2576,19 @@
       "note": " 34.4 Too high without boots",
       "ranks": {
         "hula": 11
+      }
+    },
+    {
+      "id": "model-mvyslifq-gvnbt",
+      "name": "KTM 890 Adventure",
+      "tags": [
+        "street",
+        "dreamers"
+      ],
+      "note": "Adventure version of the SMT",
+      "ranks": {
+        "street": 49,
+        "dreamers": 41
       }
     }
   ]
