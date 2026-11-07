@@ -2,17 +2,17 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 321,
-  "generatedAt": "2026-11-07T07:31:41.760Z",
+  "revision": 325,
+  "generatedAt": "2026-11-07T08:01:00.856Z",
   "counts": {
-    "active": 81,
-    "archived": 14,
+    "active": 80,
+    "archived": 15,
     "total": 95,
     "researchModels": 94,
     "categories": {
       "street": {
-        "active": 47,
-        "archived": 7
+        "active": 46,
+        "archived": 8
       },
       "dirt": {
         "active": 8,
@@ -1505,9 +1505,9 @@
       "note": "24k major service; new seat/grips, SW-Motech parts.",
       "flag": "Provisional Street #24: capable twin-cylinder adventure bike, but $6,995 is $1,995 above the usual $5,000 stretch ceiling and its dirt-oriented 21/18-inch wheels/long-travel suspension overlap the existing 690 more than the leading pavement tourers. This is a purchase-fit/value ranking, not a claim of poor condition. Assume clean owner-held title, sound mechanical condition and completed major maintenance unless specifically disclosed otherwise. Screenshot: 2022 Tuareg 660, Oakland, 30,738 miles; seller claims new grips, new seat, major service at 24k and recent service completed by us. SW Motech lower is ambiguous; do not assume suspension lowering. Supplied photo shows red/black/white bodywork, handguards and a substantial skid plate; exact parts/inclusion unconfirmed. Screenshot color field says Black. Description cuts off; no unseen claims inferred. Live availability not independently verified. Factory context: 80 hp, 204 kg kerb weight, 21/18-inch wheels. Source: https://wlassets.aprilia.com/wlassets/aprilia/master/tech_spec/E5/Tuareg660_Technical_specification_EN/original/Tuareg660_Technical_specification_EN.pdf",
       "status": "Screenshot/photo reviewed; service claims unverified; availability unconfirmed",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
+      "archived": true,
+      "archiveReason": "gone",
+      "archiveOriginalRank": 25,
       "visitNotes": "• What did the 24k major service include, at what mileage/date, and is its invoice available?\n• What work was included in the more recent service completed by us?\n• Which SW-Motech component does lower refer to: footpegs, protective bars or a lowering change? If the suspension was lowered, how and by how much?\n• Which replacement seat is fitted, and how does its height/foam compare with stock? Are the original seat and grips included?\n• Which skid plate and handguards are fitted, and are they included at $6,995?\n• Can you send the remaining description, including any additional modifications or equipment?",
       "sellerQuestions": [],
       "url": "https://www.facebook.com/marketplace/item/2076469302995534/"
@@ -1537,7 +1537,7 @@
       "price": 3000,
       "miles": "5,517",
       "loc": "Folsom / Represa",
-      "myRank": 26,
+      "myRank": 25,
       "note": "5.5k miles; crash bars, yellow; cosmetic scrapes.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Folsom-area private seller. Listing says clean CA title in seller’s name, no lien; garage kept. Left front cowl scrape and left engine-cover scuffs disclosed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1555,7 +1555,7 @@
       "price": 5250,
       "miles": "7,700",
       "loc": "Davis",
-      "myRank": 27,
+      "myRank": 26,
       "note": "One owner; ABS, 7.7k miles.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private listing; one owner and clean title.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1573,7 +1573,7 @@
       "price": 5499,
       "miles": "20,243",
       "loc": "Millbrae",
-      "myRank": 28,
+      "myRank": 27,
       "note": "ABS; 20k miles, Nor-Cal Cycles dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Same motorcycle cross-posted on Craigslist at $5,500: https://www.craigslist.org/view/d/millbrae-2019-kawasaki-versys-650-abs/tTurRk7oiPgKNAN8juoNTV . OfferUp asks $5,499. Dealer is in Millbrae although Craigslist search area says inner Sunset. Dealer advertises no dealer fees; taxes/registration not verified as included.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1591,7 +1591,7 @@
       "price": 4499,
       "miles": "56,278",
       "loc": "Sunnyvale",
-      "myRank": 29,
+      "myRank": 28,
       "note": "ABS, luggage, Seat Concepts saddle; 56k miles.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Santa Clara Cycle dealer stock 2247; side/top cases, hand guards and clean CA title. Asking price is before any unconfirmed taxes/fees.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1609,7 +1609,7 @@
       "price": 4200,
       "miles": "30,000 (approximately)",
       "loc": "Walnut Creek",
-      "myRank": 30,
+      "myRank": 29,
       "note": "Heated grips; recent valves, oil, air filter.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. OfferUp private listing advertises clean title, maintenance log and recent valve/oil/filter work.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1627,7 +1627,7 @@
       "price": 5495,
       "miles": "1,021",
       "loc": "Arcadia",
-      "myRank": 31,
+      "myRank": 30,
       "note": "One owner, ABS; 1,021 miles, dealer service.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Arcadia Motorcycle Company stock LDA40240. One owner/clean title; dealer lists recent service and no ADM. Taxes, license and government fees extra; delivery offered in California. Map pin is an approximate southern-edge marker outside the drawn map; use Arcadia for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1645,7 +1645,7 @@
       "price": 2500,
       "miles": "45,000",
       "loc": "Marina",
-      "myRank": 32,
+      "myRank": 31,
       "note": "Salvage title; 45k miles, seller says runs well.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. SALVAGE TITLE explicitly disclosed. Seller says it runs well and is ready to ride. No condition or suitability analysis performed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1663,7 +1663,7 @@
       "price": 4500,
       "miles": "23,188 field / 23,139 description",
       "loc": "Grass Valley",
-      "myRank": 33,
+      "myRank": 32,
       "note": "Side cases, crash bars, lights; fresh chain.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Grass Valley/Nevada City private listing. Mileage differs slightly between structured field and description. Seller lists new chain/sprockets, oil change, USB and auxiliary lights.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1681,7 +1681,7 @@
       "price": 2000,
       "miles": "55,341",
       "loc": "Guerneville / Russian River",
-      "myRank": 34,
+      "myRank": 33,
       "note": "Records since 2008; Givi case, windscreen, gel seat.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private listing advertises garage storage, newer battery, under 1,000 miles on Shinko 705s, recent oil/filter and spare consumables. Riding gear costs $200 extra.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1699,7 +1699,7 @@
       "price": 4500,
       "miles": "17,000",
       "loc": "Belmont",
-      "myRank": 35,
+      "myRank": 34,
       "note": "Lowered; fresh tires, Givi box, centerstand.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Heading/body say 2008; structured model-year field says 2009. $4,500 firm. Seller advertises lowering links, DL1000 seat, protection bars, recent service and new battery/Bridgestones; optional Corbin seat $250 extra. Year preserved as heading with discrepancy noted.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1717,7 +1717,7 @@
       "price": 2800,
       "miles": "30,711",
       "loc": "Sacramento",
-      "myRank": 36,
+      "myRank": 35,
       "note": "Race Tech forks, upgraded brakes, Sargent seat, heated grips.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private seller advertises new tires/wheel bearings, radiator hose/coolant work, 16T front sprocket, fork brace and stock intake/exhaust. Fork setup described for 170 lb rider. Seller claims clean title/current registration.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1735,7 +1735,7 @@
       "price": 3900,
       "miles": "32,500 km / approximately 20,000 mi",
       "loc": "San Pablo",
-      "myRank": 37,
+      "myRank": 36,
       "note": "Canadian spec; matching luggage, crash bars, fresh fluids.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Third-owner Canadian-spec motorcycle with km speedometer. Seller advertises clean CA title, registration through October 2027 and valve check at 14,500 miles.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1753,7 +1753,7 @@
       "price": 5000,
       "miles": "40,000",
       "loc": "Bishop",
-      "myRank": 38,
+      "myRank": 37,
       "note": "One owner; Givi luggage, Sargent seat, new tires.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Bishop. Seller lists Motech bars/centerstand, Baja lights, skid plate, new wheel bearings and maintenance records. Map pin is a coarse eastern-edge marker outside the drawn map; use Bishop for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1771,7 +1771,7 @@
       "price": 4000,
       "miles": "21,880",
       "loc": "Orcutt / Santa Maria",
-      "myRank": 39,
+      "myRank": 38,
       "note": "Original owner; Russell saddle, luggage, recent service.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Orcutt/Santa Maria. Seller advertises garage kept, recent brake/fluid/plug/filter work and includes Russell Day Long saddle not shown in photo. Map pin is a coarse southern-edge marker outside the drawn map; use Orcutt for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1789,7 +1789,7 @@
       "price": 3900,
       "miles": "45,584",
       "loc": "Arroyo Grande",
-      "myRank": 40,
+      "myRank": 39,
       "note": "Original owner; luggage, comfort seat, heated grips, taller screen.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Arroyo Grande. Live search price $3,900; fetched detail showed earlier $4,200. Original owner; BMW side cases, Givi top box, ABS, TPM, comfort seat, Z Technik screen and recent battery/fluids. Map pin is a coarse southern-edge marker outside the drawn map; use Arroyo Grande for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1807,7 +1807,7 @@
       "price": 4799,
       "miles": "32,000",
       "loc": "San Francisco",
-      "myRank": 41,
+      "myRank": 40,
       "note": "ABS; 32k miles, MotoJava dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. MotoJava dealer listing. Advertises one-month/500-mile guarantee; terms and government fees not confirmed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1825,7 +1825,7 @@
       "price": 4500,
       "miles": "Under 14,000",
       "loc": "Sonoma",
-      "myRank": 42,
+      "myRank": 41,
       "note": "Under 14k miles; gray ST, multi-bike seller.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Multi-bike advertisement: $3,800 headline is for F800R. The 2008 F800ST is specifically $4,[street address omitted]",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1843,7 +1843,7 @@
       "price": 800,
       "miles": "Approximately 28,000",
       "loc": "San Francisco",
-      "myRank": 43,
+      "myRank": 42,
       "note": "Nonrunning project; six-year storage, truck pickup required.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. NONRUNNING as explicitly disclosed; seller has not attempted start after six-year storage. Advertises clean duplicate title, PNO since 2020/no back fees; includes bags, cover and manual. Added only as model/budget match, not a ride-ready recommendation.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1861,7 +1861,7 @@
       "price": 4000,
       "miles": "Not listed",
       "loc": "Palo Alto",
-      "myRank": 44,
+      "myRank": 43,
       "note": "2017 SV650; seller describes condition as excellent.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. OfferUp listing gives year/model/price/city; description is only Excellent. No additional condition findings inferred.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1879,7 +1879,7 @@
       "price": 4100,
       "miles": "4,400 field / 4,000 description",
       "loc": "Union City",
-      "myRank": 45,
+      "myRank": 44,
       "note": "Low miles; needs front brakes and registration.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Seller explicitly lists front brakes and current registration as needed. Clean title; mileage differs slightly between description and field. No other problems presumed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1897,7 +1897,7 @@
       "price": 4995,
       "miles": "21,563",
       "loc": "Sacramento",
-      "myRank": 46,
+      "myRank": 45,
       "note": "Pearl white; 21.6k miles, Specialty Motorsports dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. MotoHunt dealer listing remains readable; stock YAM001842. Dealer’s direct page returned an access error, so inventory is verified on the aggregator only; seller stock not confirmed directly. Taxes/fees may be additional.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1915,7 +1915,7 @@
       "price": 4500,
       "miles": "21,000 field / 19,900 description",
       "loc": "Anaheim",
-      "myRank": 47,
+      "myRank": 46,
       "note": "SC-Project exhaust, braided lines, Michelin Road 6 tires.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Anaheim. Clean title. Mileage field 21,000 versus body 19,900. Original seat/exhaust/tail tidy and tuning device at extra cost. Map pin is a coarse southern-edge marker outside the drawn map; use the stated city for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -2336,7 +2336,7 @@
       ],
       "note": "Torquey, composed; less wind protection.",
       "ranks": {
-        "street": 17,
+        "street": 15,
         "dreamers": 16
       }
     },
@@ -2745,7 +2745,7 @@
       ],
       "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach.",
       "ranks": {
-        "street": 16,
+        "street": 18,
         "dreamers": 8
       }
     },
@@ -2797,7 +2797,7 @@
       ],
       "note": "Torquey boxer, stable touring; forward reach, substantial weight.",
       "ranks": {
-        "street": 14,
+        "street": 16,
         "dreamers": 21
       }
     },
@@ -2888,7 +2888,7 @@
       ],
       "note": "Muscular boxer, planted touring; sportier posture, dream pricing.",
       "ranks": {
-        "street": 15,
+        "street": 17,
         "dreamers": 15
       }
     },
@@ -3001,7 +3001,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Huge low-end torque; comfortable, heavy; budget-friendly.",
+      "note": "Low-rpm shove, used value; ~560lb, composed rather than flickable.",
       "ranks": {
         "street": 11,
         "dreamers": 23
@@ -3014,7 +3014,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Faired Bandit; torque-rich tourer, heavy.",
+      "note": "Smooth low-rpm torque, touring value; 567lb, less flickable.",
       "ranks": {
         "street": 12,
         "dreamers": 22
@@ -3027,9 +3027,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Superb cornering, V4 character; likes revs.",
+      "note": "V4 character, planted corners; revvier, sportier riding position.",
       "ranks": {
-        "street": 18,
+        "street": 14,
         "dreamers": 29
       }
     },
@@ -3040,7 +3040,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Agile tourer; smooth triple, modest low-end punch.",
+      "note": "Agile upright triple; 2022–25 smooth, 2026 gains top-end.",
       "ranks": {
         "street": 24,
         "dreamers": 30
@@ -3053,7 +3053,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular V-twin, excellent touring; substantial ADV feel.",
+      "note": "V-twin touring comfort; 520–545lb, tall ADV stance.",
       "ranks": {
         "street": 35,
         "dreamers": 18
@@ -3066,7 +3066,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Comfortable two-up tourer; heavy, DCT-only in US.",
+      "note": "547lb, US DCT-only; strong touring comfort, beyond budget.",
       "ranks": {
         "street": 42,
         "dreamers": 31
