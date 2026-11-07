@@ -2,16 +2,16 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 278,
-  "generatedAt": "2026-11-07T06:29:47.585Z",
+  "revision": 286,
+  "generatedAt": "2026-11-07T07:14:55.546Z",
   "counts": {
-    "active": 90,
+    "active": 81,
     "archived": 14,
-    "total": 104,
+    "total": 95,
     "researchModels": 88,
     "categories": {
       "street": {
-        "active": 56,
+        "active": 47,
         "archived": 7
       },
       "dirt": {
@@ -1538,6 +1538,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/represa-2012-kawasaki-versys-miles/h6bknswvznQxjw2w4ehiJF"
     },
     {
@@ -1555,6 +1556,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/davis-2018-kawasaki-versys-650-abs/usbHRrB5Er3NUrDc7o61PR"
     },
     {
@@ -1572,24 +1574,8 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://offerup.com/item/detail/29f80468-eeb9-3933-bcce-77872f6292e2"
-    },
-    {
-      "name": "Kawasaki Versys 650",
-      "yr": "2009",
-      "role": "street",
-      "price": 3984,
-      "miles": "12,131",
-      "loc": "Fremont",
-      "myRank": 29,
-      "note": "12k miles; dealer claims fresh service.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Fremont Honda Kawasaki Suzuki stock U39345. Advertised price includes $85 documentation fee; government charges may be additional.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://www.craigslist.org/view/d/fremont-2009-kawasaki-versys-sport/mNcdlqvJ8RGluuqEGnzXuA"
     },
     {
       "name": "Kawasaki Versys 650 LT ABS",
@@ -1598,7 +1584,7 @@
       "price": 4499,
       "miles": "56,278",
       "loc": "Sunnyvale",
-      "myRank": 30,
+      "myRank": 29,
       "note": "ABS, luggage, Seat Concepts saddle; 56k miles.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Santa Clara Cycle dealer stock 2247; side/top cases, hand guards and clean CA title advertised. Asking price is before any unconfirmed taxes/fees.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1606,6 +1592,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/sunnyvale-2015-kawasaki-versys-650/b291YwbY91zeYGM7c6CaTZ"
     },
     {
@@ -1615,7 +1602,7 @@
       "price": 4200,
       "miles": "30,000 (advertised approximately)",
       "loc": "Walnut Creek",
-      "myRank": 31,
+      "myRank": 30,
       "note": "Heated grips; claimed recent valves, oil, air filter.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. OfferUp private listing advertises clean title, maintenance log and recent valve/oil/filter work.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1623,6 +1610,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://offerup.com/item/detail/fe9230a1-c546-3256-b6b2-8540f2d4fee1"
     },
     {
@@ -1632,7 +1620,7 @@
       "price": 5495,
       "miles": "1,021",
       "loc": "Arcadia",
-      "myRank": 32,
+      "myRank": 31,
       "note": "One owner, ABS; 1,021 miles, dealer service claimed.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Arcadia Motorcycle Company stock LDA40240. Advertised one owner/clean title; dealer lists recent service and no ADM. Taxes, license and government fees extra; delivery offered in California. Map pin is an approximate southern-edge marker outside the drawn map; use Arcadia for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1640,6 +1628,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/arcadia-2020-kawasaki-versys-lt/ctSnMTCw1VUr7chAoVrt6H"
     },
     {
@@ -1649,7 +1638,7 @@
       "price": 2500,
       "miles": "45,000",
       "loc": "Marina",
-      "myRank": 33,
+      "myRank": 32,
       "note": "Salvage title; 45k miles, seller says runs well.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. SALVAGE TITLE explicitly disclosed. Seller says it runs well and is ready to ride. No condition or suitability analysis performed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1657,6 +1646,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/marina-2014-suzuki-strom-1000dl/6px6Yk2hsYWc66ryRHLrJv"
     },
     {
@@ -1666,7 +1656,7 @@
       "price": 4500,
       "miles": "23,188 field / 23,139 description",
       "loc": "Grass Valley",
-      "myRank": 34,
+      "myRank": 33,
       "note": "Side cases, crash bars, lights; fresh chain claimed.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Grass Valley/Nevada City private listing. Mileage differs slightly between structured field and description. Seller lists new chain/sprockets, oil change, USB and auxiliary lights.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1674,6 +1664,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/cedar-ridge-2016-strom-650-with-only/5GdEywLMMjh5qD4m1yhbvV"
     },
     {
@@ -1683,7 +1674,7 @@
       "price": 2000,
       "miles": "55,341",
       "loc": "Guerneville / Russian River",
-      "myRank": 35,
+      "myRank": 34,
       "note": "Records since 2008; Givi case, windscreen, gel seat.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private listing advertises garage storage, newer battery, under 1,000 miles on Shinko 705s, recent oil/filter and spare consumables. Riding gear costs $200 extra.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1691,6 +1682,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/guerneville-2006-suzuki-strom-650/1hg8NmMq1mQC2uBxyNC1ZH"
     },
     {
@@ -1700,7 +1692,7 @@
       "price": 4500,
       "miles": "17,000",
       "loc": "Belmont",
-      "myRank": 36,
+      "myRank": 35,
       "note": "Lowered; fresh tires claimed, Givi box, centerstand.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Heading/body say 2008; structured model-year field says 2009. $4,500 firm. Seller advertises lowering links, DL1000 seat, protection bars, recent service and new battery/Bridgestones; optional Corbin seat $250 extra. Year preserved as advertised heading with discrepancy noted.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1708,6 +1700,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/belmont-cleanimmaculatesurgically/8H5mzS2CBKxJFWb4vDtRoG"
     },
     {
@@ -1717,7 +1710,7 @@
       "price": 2800,
       "miles": "30,711",
       "loc": "Sacramento",
-      "myRank": 37,
+      "myRank": 36,
       "note": "Race Tech forks, upgraded brakes, Sargent seat, heated grips.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private seller advertises new tires/wheel bearings, radiator hose/coolant work, 16T front sprocket, fork brace and stock intake/exhaust. Fork setup described for 170 lb rider. Seller claims clean title/current registration.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1725,6 +1718,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/sacramento-2008-suzuki-strom-650/rjhsJFwbbtPhrURFvC3ZyW"
     },
     {
@@ -1734,7 +1728,7 @@
       "price": 3900,
       "miles": "32,500 km / approximately 20,000 mi",
       "loc": "San Pablo",
-      "myRank": 38,
+      "myRank": 37,
       "note": "Canadian spec; matching luggage, crash bars, fresh fluids claimed.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Third-owner Canadian-spec motorcycle with km speedometer. Seller advertises clean CA title, registration through October 2027 and valve check at 14,500 miles.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1742,6 +1736,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/san-pablo-suzuki-vstrom-dl-abs/8hm4y7ZS22Vpf3nZhs2JFz"
     },
     {
@@ -1751,7 +1746,7 @@
       "price": 5000,
       "miles": "40,000",
       "loc": "Bishop",
-      "myRank": 39,
+      "myRank": 38,
       "note": "One owner; Givi luggage, Sargent seat, new tires claimed.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Bishop. Seller lists Motech bars/centerstand, Baja lights, skid plate, new wheel bearings and maintenance records. Map pin is a coarse eastern-edge marker outside the drawn map; use Bishop for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1759,6 +1754,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/bishop-13-dl650/afzDzhSMfudKbtEQ1tU31G"
     },
     {
@@ -1768,7 +1764,7 @@
       "price": 4000,
       "miles": "21,880",
       "loc": "Orcutt / Santa Maria",
-      "myRank": 40,
+      "myRank": 39,
       "note": "Original owner; Russell saddle, luggage, recent service claimed.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Orcutt/Santa Maria. Seller advertises garage kept, recent brake/fluid/plug/filter work and includes Russell Day Long saddle not shown in photo. Map pin is a coarse southern-edge marker outside the drawn map; use Orcutt for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1776,6 +1772,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/santa-maria-strom-650-abs/bgrc8YdBAtzW1aJqKosYDy"
     },
     {
@@ -1785,7 +1782,7 @@
       "price": 3900,
       "miles": "45,584",
       "loc": "Arroyo Grande",
-      "myRank": 41,
+      "myRank": 40,
       "note": "Original owner; luggage, comfort seat, heated grips, taller screen.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Arroyo Grande. Live search price $3,900; fetched detail showed earlier $4,200. Original owner; BMW side cases, Givi top box, ABS, TPM, comfort seat, Z Technik screen and recent battery/fluids advertised. Map pin is a coarse southern-edge marker outside the drawn map; use Arroyo Grande for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1793,6 +1790,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/arroyo-grande-2013-black-bmw-f800-gt/dCdVSLSeijYyhJiT4bijUh"
     },
     {
@@ -1802,7 +1800,7 @@
       "price": 4799,
       "miles": "32,000",
       "loc": "San Francisco",
-      "myRank": 42,
+      "myRank": 41,
       "note": "ABS; 32k miles, MotoJava dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. MotoJava dealer listing. Advertises one-month/500-mile guarantee; terms and government fees not confirmed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1810,24 +1808,8 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/san-francisco-2016-bmw-f800gt-sport/akTc2mCdt6WXKbhKUaFXJb"
-    },
-    {
-      "name": "BMW F800ST",
-      "yr": "2012",
-      "role": "street",
-      "price": 2300,
-      "miles": "122,000",
-      "loc": "Emeryville",
-      "myRank": 43,
-      "note": "122k miles; factory luggage, heated grips, sun-damaged seat.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private seller accepts cash sale or scooter trade. Seller says runs well; oil change needed, minor seat sun damage. Clean title/current registration advertised.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://www.craigslist.org/view/d/emeryville-fs-ft-2012-bmw-f800st/mvLK39WvrPkJJzq43FybRX"
     },
     {
       "name": "BMW F800ST",
@@ -1836,7 +1818,7 @@
       "price": 4500,
       "miles": "Under 14,000 (advertised)",
       "loc": "Sonoma",
-      "myRank": 44,
+      "myRank": 42,
       "note": "Under 14k miles; gray ST, multi-bike seller.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Multi-bike advertisement: $3,800 headline is for F800R. The 2008 F800ST is specifically $4,[street address omitted]",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1844,75 +1826,8 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/el-verano-bmws-for-sale/htvUooVA1wNPRpQg5eSjk7"
-    },
-    {
-      "name": "Ducati Hyperstrada 821",
-      "yr": "2013",
-      "role": "street",
-      "price": 2999,
-      "miles": "53,000",
-      "loc": "Los Angeles / Beverly Hills",
-      "myRank": 45,
-      "note": "53k miles; dealer grades fair, says runs great.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Beverly Hills Motorcycles. Dealer page explicitly says In Stock, condition Fair, 53,000 original miles. Advertised price includes dealer freight/setup/documentation; taxes/government charges extra. Map pin is a coarse southern-edge marker outside the drawn map; use the stated city for travel planning.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://www.bhducati.com/inventory/2013-ducati-hyperstrada-los-angeles-ca-90048-14624363i"
-    },
-    {
-      "name": "Suzuki SV650",
-      "yr": "2000",
-      "role": "street",
-      "price": 3000,
-      "miles": "42,000",
-      "loc": "Westlake Village",
-      "myRank": 46,
-      "note": "Traxxion forks, Penske shock, Yoshimura exhaust; rebuilt carbs claimed.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California. Seller lists carb/jetting work, K&N filter, braided lines, new tires/brakes and clean title/current registration. Map pin is a coarse southern-edge marker outside the drawn map; use the stated city for travel planning.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://www.craigslist.org/view/d/westlake-village-2000-suzuki-sv650/qR8qqum3f3TYcPZhXXyy51"
-    },
-    {
-      "name": "Suzuki SV650",
-      "yr": "2017",
-      "role": "street",
-      "price": 4500,
-      "miles": "4,500",
-      "loc": "Vista / North San Diego",
-      "myRank": 47,
-      "note": "Öhlins springs, Penske shock; upgraded front brakes, low miles.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Vista/north San Diego County. Seller lists Brembo master cylinder and Honda F4i calipers with brackets; clean title. Old showing date in ad is not treated as a current appointment. Map pin is a coarse southern-edge marker outside the drawn map; use the stated city for travel planning.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://www.craigslist.org/view/d/vista-2017-suzuki-sv650/gzPcBwRXke5khuWncHqqQN"
-    },
-    {
-      "name": "Suzuki SV650 (full fairing)",
-      "yr": "2002",
-      "role": "street",
-      "price": 2000,
-      "miles": "28,014",
-      "loc": "San Diego",
-      "myRank": 48,
-      "note": "Full fairing; GSXR forks, ZX10R shock, rebuilt carbs claimed.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California. Seller says plated, clean title; Armour Bodies kit, Two Brothers exhaust, GSXR front-end/master cylinder and ZX10R shock. Recent fluids, plugs and carb work advertised. Map pin is a coarse southern-edge marker outside the drawn map; use the stated city for travel planning.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://www.craigslist.org/view/d/san-diego-2002-suzuki-sv650-full/nutYhh4sMvhizvLRShmSaM"
     },
     {
       "name": "Suzuki SV650 (nonrunning project)",
@@ -1921,7 +1836,7 @@
       "price": 800,
       "miles": "Approximately 28,000",
       "loc": "San Francisco",
-      "myRank": 49,
+      "myRank": 43,
       "note": "Nonrunning project; six-year storage, truck pickup required.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. NONRUNNING as explicitly disclosed; seller has not attempted start after six-year storage. Advertises clean duplicate title, PNO since 2020/no back fees; includes bags, cover and manual. Added only as model/budget match, not a ride-ready recommendation.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1929,6 +1844,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/san-francisco-2000-suzuki-sv650-non/jdPAnsED3xFm7j2HJeTPfb"
     },
     {
@@ -1938,7 +1854,7 @@
       "price": 4000,
       "miles": "Not listed",
       "loc": "Palo Alto",
-      "myRank": 50,
+      "myRank": 44,
       "note": "2017 SV650; seller describes condition as excellent.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. OfferUp listing gives year/model/price/city; description is only Excellent. No additional condition findings inferred.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1946,6 +1862,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://offerup.com/item/detail/7aa2cd1b-f6b1-3e5b-a5af-02a77a87489b"
     },
     {
@@ -1955,7 +1872,7 @@
       "price": 4100,
       "miles": "4,400 field / 4,000 description",
       "loc": "Union City",
-      "myRank": 51,
+      "myRank": 45,
       "note": "Low miles claimed; needs front brakes and registration.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Seller explicitly lists front brakes and current registration as needed. Clean title advertised; mileage differs slightly between description and field. No other problems presumed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1963,58 +1880,8 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://offerup.com/item/detail/b44cdb50-5c10-3ae2-a23a-88dff5081c34"
-    },
-    {
-      "name": "Suzuki SV650",
-      "yr": "2000",
-      "role": "street",
-      "price": 500,
-      "miles": "Not listed",
-      "loc": "Redwood City",
-      "myRank": 52,
-      "note": "2000 SV650; seller describes condition as good.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Detail page currently $500 versus $550 search snippet. Description only Good; no mechanical findings inferred. Added as model/price match for Skipper to inspect.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://offerup.com/item/detail/b18cf9dd-5aed-3f72-b8ca-7331e01c2740"
-    },
-    {
-      "name": "Suzuki SV650 (needs work)",
-      "yr": "2002",
-      "role": "street",
-      "price": 1000,
-      "miles": "50,000",
-      "loc": "Hayward",
-      "myRank": 53,
-      "note": "Needs chain, battery, oil change; seller moving.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Seller explicitly says it needs chain, battery, oil change and TLC to get going. Clean title advertised. Added as model/budget match with disclosed work retained.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://offerup.com/item/detail/663012c1-f0b7-3532-81f6-1002d29547df"
-    },
-    {
-      "name": "Yamaha FZ-07 (stunt setup)",
-      "yr": "2017",
-      "role": "street",
-      "price": 4500,
-      "miles": "22,131",
-      "loc": "Concord",
-      "myRank": 54,
-      "note": "Stunt cage, wheelie bar, dual rear calipers; large sprocket.",
-      "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Seller explicitly calls it a stunt bike; Yoshimura exhaust, Impaktech cage/subcage, one-finger clutch, dual rear calipers and large sprocket. Clean title and sound running claimed. $4,500 firm; no suitability ranking applied.",
-      "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
-      "archived": false,
-      "archiveReason": "",
-      "archiveOriginalRank": null,
-      "visitNotes": "",
-      "url": "https://offerup.com/item/detail/dda73a01-38bb-34ad-8857-5a266bd14397"
     },
     {
       "name": "Yamaha FZ-07",
@@ -2023,7 +1890,7 @@
       "price": 4995,
       "miles": "21,563",
       "loc": "Sacramento",
-      "myRank": 55,
+      "myRank": 46,
       "note": "Pearl white; 21.6k miles, Specialty Motorsports dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. MotoHunt dealer listing remains readable; stock YAM001842. Dealer’s direct page returned an access error, so inventory is verified on the aggregator only; seller stock not confirmed directly. Taxes/fees may be additional.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -2031,6 +1898,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://motohunt.com/l/13973159/2015-Yamaha-Motor-Corp-USA-FZ-07"
     },
     {
@@ -2040,7 +1908,7 @@
       "price": 4500,
       "miles": "21,000 field / 19,900 description",
       "loc": "Anaheim",
-      "myRank": 56,
+      "myRank": 47,
       "note": "SC-Project exhaust, braided lines, Michelin Road 6 tires.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Anaheim. Clean title advertised. Mileage field 21,000 versus body 19,900. Original seat/exhaust/tail tidy and tuning device advertised at extra cost. Map pin is a coarse southern-edge marker outside the drawn map; use the stated city for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -2048,6 +1916,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "url": "https://www.craigslist.org/view/d/anaheim-yamaha-xsr/fFGmVeEmv82z4MbnwkApNs"
     }
   ],
