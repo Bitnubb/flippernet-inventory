@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 325,
-  "generatedAt": "2026-11-07T08:01:00.856Z",
+  "revision": 384,
+  "generatedAt": "2026-11-07T22:14:46.151Z",
   "counts": {
     "active": 80,
     "archived": 15,
@@ -71,6 +71,8 @@
         "What else does the bike need to ride reliably? Any parts removed, stripped threads, or known engine noise?",
         "Is the California title current, clean, and street-legal in your name?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: A $2,000 project with a disclosed coolant leak offers limited repair margin.",
       "url": "https://www.facebook.com/marketplace/item/1338455571401599/"
     },
     {
@@ -108,16 +110,19 @@
       "status": "Live Craigslist listing",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• When were the timing belts replaced, rather than merely checked? Is there a dated receipt?\n• Who performed the reported desmodromic valve adjustment, and at what mileage?",
       "sellerQuestions": [
         "When were the timing belts replaced, rather than merely checked? Is there a dated receipt?",
         "Who performed the reported desmodromic valve adjustment, and at what mileage?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: Comparable Monster 620 examples can cost less.",
       "url": "https://www.craigslist.org/view/d/novato-2005-ducati-monster-m620-valves/rkN2yQsPSGPXr4Ce1r7CR8"
     },
     {
       "name": "Suzuki V-Strom DL650 ABS",
-      "yr": 2011,
+      "yr": "2011",
       "role": "street",
       "price": 3200,
       "miles": "47,819",
@@ -128,11 +133,14 @@
       "status": "Facebook screenshot",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS FOR THIS BIKE:\n• At nearly 48,000 miles, which scheduled valve inspections are documented?\n• Are the pictured luggage and mounts included?",
       "sellerQuestions": [
         "At nearly 48,000 miles, which scheduled valve inspections are documented?",
         "Are the pictured luggage and mounts included?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Affordable touring with luggage, accounting for 48k miles.",
       "url": "https://www.facebook.com/marketplace/item/2401934166900285/"
     },
     {
@@ -181,11 +189,13 @@
         "When were the valves checked, piston/top end serviced, and oil changed? Is there an auxiliary oil reservoir?",
         "What suspension work and supermoto-conversion parts are installed? Any engine or gearbox problems?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Plausible $3,500 conversion price; assess included equipment rather than assume defects.",
       "url": "https://www.facebook.com/marketplace/item/2968378016840565/"
     },
     {
       "name": "KTM 625 SXC",
-      "yr": null,
+      "yr": "",
       "role": "dirt",
       "price": 3500,
       "miles": "18,000",
@@ -196,6 +206,7 @@
       "status": "Live Craigslist listing",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• What exact year is this KTM 625 SXC? Could you confirm the VIN/model year?\n• Is it legally street-registered in California with a clean title in your name?\n• At 18,000 miles, what engine/top-end, rocker-bearing and valve-clearance work has been done?\n• What is the recent oil/filter change history? Has the carburetor been cleaned or tuned?\n• Any hard starting, smoke, coolant/oil leaks, cracked rims, or worn suspension/linkage bearings?",
       "sellerQuestions": [
         "What exact year is this KTM 625 SXC? Could you confirm the VIN/model year?",
@@ -204,6 +215,8 @@
         "What is the recent oil/filter change history? Has the carburetor been cleaned or tuned?",
         "Any hard starting, smoke, coolant/oil leaks, cracked rims, or worn suspension/linkage bearings?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Plausible $3,500 LC4 price with 18,000 miles.",
       "url": "https://www.craigslist.org/view/d/truckee-ktm-625-sxc/5Unhh9m5jsFgFV7zPkcN3X"
     },
     {
@@ -227,11 +240,13 @@
         "Who tuned the Power Commander, and are the original fueling parts included?",
         "Does the modified fueling surge or stall at low rpm?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Good price, but similar market examples exist.",
       "url": "https://www.craigslist.org/view/d/san-rafael-2013-ktm-690-duke/b5HMraR28KCwodedgKwRYH"
     },
     {
       "name": "Suzuki DR-Z400S (FCR)",
-      "yr": 2000,
+      "yr": "2000",
       "role": "dirt",
       "price": 3500,
       "miles": "17,000",
@@ -242,6 +257,7 @@
       "status": "Live Craigslist listing",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "QUESTIONS TO ASK THE SELLER:\n• Who fitted and jetted the FCR carb, exhaust and 3×3 airbox mod? Does it start easily hot and cold?\n• At 17,000 miles, any top-end, valve-clearance or cam-chain work? Any oil burning?\n• Why are the front turn signals not working? What parts are needed to restore street legality?\n• Is the California street title clean/current and does the VIN match?\n• What ADV accessories are included, and when were tires, chain, bearings and suspension last serviced?",
       "sellerQuestions": [
         "Who fitted and jetted the FCR carb, exhaust and 3×3 airbox mod? Does it start easily hot and cold?",
@@ -250,6 +266,8 @@
         "Is the California street title clean/current and does the VIN match?",
         "What ADV accessories are included, and when were tires, chain, bearings and suspension last serviced?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: FCR upgrade adds value; $3,500 remains ordinary asking money.",
       "url": "https://www.craigslist.org/view/d/shingletown-2000-suzuki-drz400/wWN9YbmkZ52rtV9xTKyWG8"
     },
     {
@@ -293,11 +311,13 @@
         "Was the carburetor jetting matched to the Akrapovič pipes and Rottweiler intake?",
         "Can you document the claimed recent oil, chain/sprocket and rear-tire work?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Rare, desirable, reasonably priced.",
       "url": "https://www.craigslist.org/view/d/bodega-bay-2007-ktm-950-smr/dd3MCphbEDeAPftsm31vuH"
     },
     {
       "name": "Suzuki SV650",
-      "yr": 2022,
+      "yr": "2022",
       "role": "street",
       "price": 4000,
       "miles": "20,000",
@@ -308,12 +328,15 @@
       "status": "Facebook screenshot · seller claims well-maintained",
       "archived": false,
       "archiveReason": "",
+      "archiveOriginalRank": null,
       "visitNotes": "budget roughly $300–$600 for a valve inspection\noffer $3,400–$3,500, citing the overdue valve inspection\n\nThere's something I'd especially like you to pay attention to during the ride: how naturally the motorcycle holds a line through a corner while you're progressively adding throttle.\nNot just how quickly it tips in. Not just whether it accelerates hard. Does the whole motorcycle feel composed and communicative as you load the chassis?\n\nQUESTIONS FOR THIS BIKE:\n• Were valve clearances inspected at 15,000 miles, with measurements or a receipt?\n• What sprocket tooth counts produce the highway gearing, and are stock sprockets included?\n• Were both sprockets replaced with the X-ring chain?",
       "sellerQuestions": [
         "Were valve clearances inspected at 15,000 miles, with measurements or a receipt?",
         "What sprocket tooth counts produce the highway gearing, and are stock sprockets included?",
         "Were both sprockets replaced with the X-ring chain?"
       ],
+      "valueRating": "Excellent",
+      "valueNote": "Field analyst audit, 2026-11-07: Unusually cheap for its year; about $900 below a similar-mile dealer example.",
       "url": "https://www.facebook.com/marketplace/item/1237946278453520/"
     },
     {
@@ -338,6 +361,8 @@
         "Any carburetor/fueling mods, jetting issues, cold/hot starting problems, or oil use?",
         "Are any 21/18-inch dirt wheels included, or is it sold only with 17-inch supermoto wheels?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Under 8,000 miles supports a conventional $4,500 DR-Z400SM price.",
       "url": "https://www.craigslist.org/view/d/berkeley-drz400sm/mokigVetcoVdtToxsLQo57"
     },
     {
@@ -405,6 +430,8 @@
         "Is the HT Racing auxiliary oil reservoir installed and leak-free? What is its total oil capacity?",
         "Is it legally California street-plated with a clean on-highway title? What rider weight is the Aftershocks suspension sprung for?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Rebuilt top end adds context; $5,000 is full asking money.",
       "url": "https://www.craigslist.org/view/d/san-jose-street-legal-2007-ktm-525-exc/v5QojYNkR2BnBDTyu64NVU"
     },
     {
@@ -452,6 +479,8 @@
         "Does it overheat, burn oil, smoke, leak, or make cam-chain noises? When were oil and valve clearances last checked?",
         "Are the supermoto wheels straight, tires/brakes good, and original dirt wheels included? Any other parts with the bike?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low $2,500 asking price leaves room for the disclosed carburetor work.",
       "url": "https://www.facebook.com/marketplace/item/2997580303922952/"
     },
     {
@@ -500,6 +529,8 @@
         "Can I inspect the removed rocker arms and other old parts?",
         "Has the hydraulic clutch slave been replaced?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Plausible $4,300 price for a 2012 690 with 20,000 miles.",
       "url": "https://www.facebook.com/marketplace/item/3368038673367123"
     },
     {
@@ -523,6 +554,8 @@
         "Why take it in trade and resell after only a handful of rides?",
         "How long did it sit before the trade?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Low mileage supports asking price.",
       "url": ""
     },
     {
@@ -546,6 +579,8 @@
         "What caused the scratches, and were steering parts affected?",
         "Was the initial service completed despite the low mileage?"
       ],
+      "valueRating": "Excellent",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Only 600 miles at $3,750 makes this a standout asking price.",
       "url": "https://www.craigslist.org/view/d/danville-ktm-390-adventure/h9vLvh8G7vGmHSr5xoeVkS"
     },
     {
@@ -567,6 +602,8 @@
         "Who performed the advertised full inspection, and can you provide its report?",
         "Are the rear trunk and crash bars included?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Reasonable price, not especially cheap.",
       "url": "https://www.facebook.com/marketplace/item/1718998236314490/"
     },
     {
@@ -607,6 +644,8 @@
         "Can you provide the claimed recent mechanic inspection and maintenance records?",
         "When were the advertised new tires fitted?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low mileage supports $3,200; ordinary value for an older XT250.",
       "url": "https://www.craigslist.org/view/d/santa-cruz-2010-yamaha-xt-250/fRk1BmeALmTW3gVa43Q5Eb"
     },
     {
@@ -628,6 +667,8 @@
         "Who installed the lighting changes, and what was altered?",
         "Are the handguards and rack included?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Near-budget-ceiling $4,400 price is high beside cheaper XT250s.",
       "url": "https://www.craigslist.org/view/d/forestville-2017-yamaha-xt-250/vkgZoy9pF6vwzdHxfuNNKt"
     },
     {
@@ -648,6 +689,8 @@
       "sellerQuestions": [
         "Would you consider an offer reflecting the lower-mile Santa Cruz XT250 comparison?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Higher mileage and $3,500 price compare poorly with the Santa Cruz XT250.",
       "url": "https://www.craigslist.org/view/d/oakland-2010-yamaha-xt250-dual-sport/mZHdrw5sh1BoS9chpArdqs"
     },
     {
@@ -668,6 +711,8 @@
       "sellerQuestions": [
         "Can you send a running video and both-side photos before the long trip to Fortuna?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Plausible fuel-injected XT250 price; no condition penalty inferred.",
       "url": "https://www.craigslist.org/view/d/fortuna-2017-yamaha-xt250/xaGPNTn7QtgKtVidqvnRBC"
     },
     {
@@ -691,6 +736,8 @@
         "Has its Utah origin or missing California canister caused registration issues?",
         "How does it run after the carburetor rejet and exhaust changes?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Affordable $2,500 XT225; rebuilt top end and mileage are part of the valuation.",
       "url": "https://www.craigslist.org/view/d/napa-2007-yamaha-xt225/kDqRMobPKcKnRrFyEsz8PN"
     },
     {
@@ -712,6 +759,8 @@
         "Was the 600-mile break-in service completed on this 1,500-mile bike?",
         "Are both advertised keys and the windshield included?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low-mileage recent Versys-X at $4,195 is competitive.",
       "url": "https://www.craigslist.org/view/d/danville-2022-kawasaki-versys-x300/evR6nzw6LKLji4n1uak2CR"
     },
     {
@@ -733,6 +782,8 @@
         "Was the fueling changed for the aftermarket exhaust, and is the stock exhaust included?",
         "Were the replacement levers installed after a drop?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low-mileage 390 Adventure at $4,000 offers strong equipment for the money.",
       "url": "https://www.craigslist.org/view/d/half-moon-bay-ktm-390-adventure/bNQdJtpyDq7VAPXCJ9EPFM"
     },
     {
@@ -754,6 +805,8 @@
         "Why did the battery need replacement at 1,200 miles?",
         "Can you provide the claimed dealer-maintenance invoices, including break-in service?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low mileage supports $4,399; ordinary dealer-level value.",
       "url": "https://www.craigslist.org/view/d/grover-beach-2022-bmw-310-gs-motorcycle/rxqiHXhJLDvexi9hqAwqFH"
     },
     {
@@ -772,6 +825,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Plausible $3,400 G310GS price; no defect assumed from missing mileage.",
       "url": "https://www.craigslist.org/view/d/cutten-2018-bmw-g310-gs-sale-or-trade/6yHXGFQJWyfdLbpa6fT7kx"
     },
     {
@@ -794,6 +849,8 @@
         "What rear-light and blinker modifications were made?",
         "Are the original springs, lighting and other stock parts included?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Only 300 miles supports the $5,000 price; dirt fit is a separate question.",
       "url": "https://www.craigslist.org/view/d/danville-klx-sm-with-extras/aAv1YWpEzzk8UHG3c9HnP4"
     },
     {
@@ -815,6 +872,8 @@
         "At 72,800 miles, which engine, cooling and charging components have been repaired or renewed?",
         "Has its carbureted engine needed significant work at this mileage?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low $1,800 price appropriately reflects 72,800 miles.",
       "url": "https://www.craigslist.org/view/d/novato-1997-bmw-f650-funduro/uzB2AoPa4pJhYmb4cnk9hD"
     },
     {
@@ -837,6 +896,8 @@
         "What is the loaded seat height of this particular setup?",
         "Are the advertised original parts included with the big tank?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low-mileage street-legal DR-Z at $2,800 offers strong value.",
       "url": "https://www.craigslist.org/view/d/grass-valley-suzuki-drz-400s/gh5qK2zmc2o2ftQVBUnL4L"
     },
     {
@@ -859,6 +920,8 @@
         "Does it have an Oregon title, and what California transfer requirements apply to this bike?",
         "Can you provide the claimed full touring-service records at approximately 37,000 miles?"
       ],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: A $2,500 price reflects substantial 37,000-mile use.",
       "url": "https://www.craigslist.org/view/d/coquille-royal-enfield-hunter-350/nkiXBh9DXxU3eBPB5ZR3ot"
     },
     {
@@ -882,6 +945,8 @@
         "What documents explain the theft/salvage history and eligibility for registration?",
         "Were the ignition, locks or keys damaged during the alleged theft?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Nonrunning theft-salvage project: $1,000 leaves little margin against running alternatives.",
       "url": "https://www.craigslist.org/view/d/san-rafael-royal-enfield-kathmandu/mMtsrSGqS4aPHKuqDXw2wd"
     },
     {
@@ -903,6 +968,8 @@
         "What is the itemized out-the-door price including preparation and every dealer fee?",
         "Is dealer stock U1459 still available?"
       ],
+      "valueRating": "Excellent",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Strong $2,995 ABS low-seat price; dealer fees determine total value.",
       "url": "https://www.craigslist.org/view/d/hollister-2022-kawasaki-klx-230s-abs/bGn6jrnB8RGNueWjeAiLUA"
     },
     {
@@ -948,6 +1015,8 @@
         "Is this lowered standard KLX230 an ABS version?",
         "Are all original suspension parts included?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: High $4,599 asking price relative to lower-priced KLX230 options.",
       "url": "https://www.craigslist.org/view/d/sunnyvale-2022-kawasaki-klx230-selow/4zVJAfesA2UCxqBNpYgghF"
     },
     {
@@ -1033,6 +1102,8 @@
         "Is 3,194 the original mileage, and what records support it?",
         "What prompted the reduction from $2,000 to $1,800?"
       ],
+      "valueRating": "Excellent",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low-mileage full-sized dual-sport at $1,800 is unusually affordable.",
       "url": "https://www.facebook.com/marketplace/item/880893688176798/"
     },
     {
@@ -1055,6 +1126,8 @@
         "Who cleaned the carburetor, what parts were replaced, and is jetting stock?",
         "Does the claimed 2,219 miles cover both owners’ use?"
       ],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: A $3,800 asking price is high for a 2006 TW200.",
       "url": "https://www.facebook.com/marketplace/item/1080216004807277"
     },
     {
@@ -1078,6 +1151,8 @@
         "What is in the remainder of the cut-off seller description?",
         "Is the pictured luggage included, and how is it mounted near the exhaust?"
       ],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Recent low-mileage ABS KLX at $3,800 offers competitive value.",
       "url": "https://www.facebook.com/marketplace/item/1120889460500908"
     },
     {
@@ -1114,6 +1189,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• What spring rate, rider weight, damping settings and shock length were selected?\n• Has the replacement changed seat height, suspension travel or steering geometry? What is the measured height now?\n• How much time has this 725-mile bike spent stored since 2017, and was its carburetor serviced afterward?\n• Are the original rear shock, handguards and engine guard included?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low $1,600 entry price balanced against modest resale and parts support.",
       "url": "https://www.facebook.com/marketplace/item/1745295410100555"
     },
     {
@@ -1132,6 +1209,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• What make, model and sizes are the new knobbies, and are both DOT-marked? Any rubbing at full steering lock or suspension compression?\n• Are both wheels still stock 17-inch, and were sprocket sizes changed for dirt use?\n• Have the seat, suspension or ride height been altered beyond the handlebar risers?\n• At approximately 10,000 miles, when were valve clearances last checked, and what carburetor work has been done?\n• Have the risers required cable rerouting, and does throttle return freely at full lock?\n• What off-road riding or drops has it had since the tire change?\n• Is the unapplied February 2027 registration sticker available with its matching registration card?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Plausible $3,300 street-legal CRF230M price; suitability is separate.",
       "url": "https://www.facebook.com/marketplace/item/1603059574645374/"
     },
     {
@@ -1150,6 +1229,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• Can you send the full description hidden after “Very…” in the screenshot?\n• At 4,789 miles, which scheduled valve checks and carburetor services have been completed?\n• How much dirt riding has it had, and are its gearing, intake and exhaust stock?\n• Has the seat or suspension been changed, and can she assess loaded footing?\n• What tires are fitted, and how worn are they for upcoming dirt practice?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Reasonable used XR150L price; compare dealer out-the-door totals.",
       "url": "https://www.facebook.com/marketplace/item/1099208919491179"
     },
     {
@@ -1168,6 +1249,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• What is the complete modification list after the cut-off “thoughtfully…” description?\n• Are the windshield, top box, side cases and mounts included and readily removable?\n• Were suspension, seat height, gearing, intake or exhaust altered?\n• Has the luggage setup caused rack/frame damage, loose mounts or loaded-handling problems?\n• How much dirt use and storage has this low-mileage bike had, and what service has it needed?",
       "sellerQuestions": [],
+      "valueRating": "Excellent",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Low-mileage VanVan at $2,900 is especially competitive.",
       "url": "https://www.facebook.com/marketplace/item/4570484009900850/"
     },
     {
@@ -1186,6 +1269,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• What cash price are you asking versus the displayed $3,500 trade listing?\n• At what rider weight, terrain and jump size did it bottom? Did any hard landing cause leaks, bent parts or changed handling?\n• Have the fork/shock been serviced or adjusted, and is damping consistent?\n• Can you show the engine guard/underside, rims and spokes for any actual impact damage?\n• At roughly 4,000 miles, when were the valve clearance and scheduled services last completed?\n• Are the original pegs, risers/bar setup, screen, tail lighting and other replaced parts included? Does the riser setup leave throttle/cables free at full lock?",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: At the displayed $3,500 price, weaker value than the $3,000 XR; reassess a lower cash offer.",
       "url": "https://www.facebook.com/marketplace/item/1712192433360745/"
     },
     {
@@ -1204,6 +1289,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• Are both side cases, the top box, all mounting hardware and their keys included? Any broken latches or loose mounts?\n• Is the LeoVince exhaust a slip-on or a larger system, is its baffle included, and was the fueling changed? Are the original exhaust parts included?\n• When were this Ducati’s timing belts last replaced, and which service receipts accompany it?\n• Can you send the rest of the description cut off in the screenshot?",
       "sellerQuestions": [],
+      "valueRating": "Excellent",
+      "valueNote": "Field analyst audit, 2026-11-07: Low miles, touring equipment, below market.",
       "url": "https://www.facebook.com/marketplace/item/1276886277556250"
     },
     {
@@ -1222,6 +1309,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• What is the current odometer reading, and how long have you owned this 796?\n• When were the timing belts replaced, and at what mileage was its most recent desmo valve service? Which receipts accompany the bike?\n• Are the twin under-seat exhausts, intake and ECU mapping stock? Which original parts and keys are included?\n• Has the seat, handlebar position, gearing or suspension setup been changed from standard?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Slightly below retail benchmark; mileage is unstated, without implying a defect.",
       "url": "https://www.facebook.com/marketplace/item/1556816845684784"
     },
     {
@@ -1240,6 +1329,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Best new match for roomy comfort, lively engine and longer rides alongside the 690. $5,500 is a budget stretch. Listing details: 20,000 miles, Corbin plus original seat, side bags, heated grips, LED upgrades, new tires and chain/sprockets. Listing page retrieved Oct 23, 2026; claims not independently inspected.\nQuestions: When were the tires and chain/sprockets installed, and which tires? Are the side-bag mounts and original seat included? Which Corbin seat configuration is fitted, and how does its height compare with stock?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Desirable year, comfort seat and touring extras.",
       "url": "https://www.craigslist.org/view/d/vallejo-yamaha-fj-mint-condition-with/u6sWLE7j7yhiUEAApX7eyo"
     },
     {
@@ -1258,6 +1349,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Interesting $4,500 option for roomy comfort and composed handling, with touring equipment. Year remains unstated in the ad; no mechanical defect inferred. Listing details: 17,000 miles, electronic suspension, Wilbers shocks, Ohlins steering damper, Russell Daylong saddle, bar backs, ABS, heated grips, Parabellum fairing/laminar lip, SW-Motech case mounts and HEX diagnostic computer.\nQuestions: What is the model year? How do the Wilbers shocks integrate with the electronic suspension, and what rider weight were they set for? Is the Russell saddle built for a particular rider height/weight? Are the fairing, case mounts and diagnostic computer included at $4,500?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Year-dependent valuation; $4,500 is plausible with the touring equipment.",
       "url": "https://www.craigslist.org/view/d/mill-valley-bmw-r1200r-plus-tools/riUXkAyVkb7KyT9SyTQhvF"
     },
     {
@@ -1276,6 +1369,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Convenient local test ride of the exact R variant; $4,999 before dealer taxes/fees. Also present on MotoJava inventory when researched Oct 23, 2026. Claims: 19,000 miles; one-month/500-mile guarantee.\nQuestions: What is the itemized out-the-door price? What does the one-month/500-mile guarantee cover, with what exclusions? What work did MotoJava perform on this specific bike before sale? Are its suspension settings and parts standard or modified?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Reasonable dealer asking price for year and mileage.",
       "url": "https://www.craigslist.org/view/d/san-francisco-2014-triumph-street/74GhmiAMCaFgEAt3jTrq7c"
     },
     {
@@ -1294,6 +1389,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Fun-per-mph candidate with relatively low mileage, but $5,750 is a budget stretch. Actual knee room and comfort need a sit/test ride given the SV650 felt small. Listing details: stock exhaust, Puig screen, aftermarket levers, CRG bar-end mirror and Hyperpack lighting/tail tidy. Ad updated Oct 22 and retrieved Oct 23, 2026.\nQuestions: Which Puig screen is fitted, and how is wind buffeting at helmet height? Were the lighting changes plug-and-play or was the harness cut? Are original mirrors, levers and rear fender included?",
       "sellerQuestions": [],
+      "valueRating": "Excellent",
+      "valueNote": "Field analyst audit, 2026-11-07: Priced well below comparable dealer asks, despite exceeding our purchase target.",
       "url": "https://www.craigslist.org/view/d/san-rafael-2023-yamaha-mt07/qK2xrPKqVYbK6ES8ioHGmg"
     },
     {
@@ -1312,6 +1409,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Affordable benchmark on the platform Skipper already enjoyed for confidence and cornering. Does not deliver the livelier-engine change being explored. MotoJava listing and dealer website both claim 25,000 miles and fully serviced; Craigslist structured odometer field says 250,000. The discrepancy is unresolved, not assumed corrected.\nQuestions: Please send a current odometer photo to resolve 25,000 versus 250,000 miles. What specific work is included in the full service? What is the itemized out-the-door price?",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: Newer, cheaper Versys alternatives exist in HQ.",
       "url": "https://www.craigslist.org/view/d/san-francisco-2009-kawasaki-versys-650/6b9WDZYD3zuxXPEMhrK7Lt"
     },
     {
@@ -1330,6 +1429,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Useful local comparison at $3,999 before dealer taxes/fees. Existing $4,[phone omitted] Lodi SV650 is stronger on paper; assess fit and actual condition before paying similar money for this older example. Claims: 15,000 miles, fully serviced, aftermarket pipe. Sale price $3,999, reduced from $4,299. Also listed on MotoJava website during Oct 23, 2026 research.\nQuestions: Which exhaust is installed, and are the original exhaust and any fueling changes included? What work did the full service include on this particular bike? Are the seat, handlebars or footpegs modified? What is the itemized out-the-door price?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Fair market price, but the 2022 SV offers better value.",
       "url": "https://www.craigslist.org/view/d/san-francisco-2007-suzuki-sv650-very/6z5jx86Sx1FEsULrcHSHyC"
     },
     {
@@ -1348,6 +1449,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Strong private-party alternative to the SF 2014 675R, at $5,200 and lower mileage. Upgrades do not by themselves establish abuse. Listing details: second owner, 11,201 miles,.95 front springs, aftermarket seat cover, levers, covers, sliders and spools. Ad says no leaks or oil consumption. Seller requests calls, not texts; cash and M1 for test ride.\nQuestions: What rider weight and riding style were the.95 springs chosen for, and what rear suspension setup accompanies them? Has the bike been used on track, and which protective parts or levers were fitted for that use? Is the original seat foam retained beneath the custom cover?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Sensible premium for year and low mileage.",
       "url": "https://www.craigslist.org/view/d/clearlake-oaks-2017-triumph-675-street/cUe9y5dQMtyNgNs9V9afoq"
     },
     {
@@ -1366,6 +1469,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Assessment: Low-mileage, lively handling candidate, but $5,499 and travel to the Bradley area make it a stretch. Street naked despite the seller calling it a dual-sport. Listing details: 5,245 miles, garaged, never down, registration March 2027, lithium battery, Puig screen/lower fairing, KTM case guards/spools/seat cowl, cover, stand and manual.\nMap limitation: pin is a coarse southern-edge approximation because Bradley lies beyond the selectable base-map area; use Bradley / Bryson-Hesperia and the original listing for travel planning.\nQuestions: Is the asking price inclusive of the stand, manual and all listed accessories? How effective is this specific Puig screen for a taller rider? Are original passenger-seat and bodywork parts included, and are there any fueling or exhaust modifications?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Similar-priced 790 Duke examples are available.",
       "url": "https://www.craigslist.org/view/d/bradley-nice-2019-ktm-790-duke/8h7BzZ8JkBQL86i1DAocFd"
     },
     {
@@ -1384,6 +1489,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "What exactly changed in the throttle control (tube, ECU flash or other), and how does it behave at small openings?\nWhich Traxxion components and spring rates are fitted, and for what rider weight?\nWhich Sargent saddle version/height?\nAre the pictured screen, top box, racks and other extras included?\nWhat remaining upgrades/extras are below the screenshot cutoff?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Worthwhile suspension and seat upgrades offset higher mileage.",
       "url": "https://www.facebook.com/marketplace/item/2576196472872587/"
     },
     {
@@ -1402,6 +1509,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Is $2,280 the full cash asking price, and what accessories are included?\nWhich screen, handguards/levers and luggage are fitted; are stock parts included?\nCan you send the rest of the description hidden behind See more?\nHow do the Sport/Touring/Rain throttle maps feel at low speed, and has its ECU mapping been changed?\nWhat usable fuel range do you get before the reserve warning?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Cheap fun, but not markedly below book value.",
       "url": "https://www.facebook.com/marketplace/item/1147978671130949"
     },
     {
@@ -1420,6 +1529,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "Can you send the rest of the description hidden behind See more?\nHas the seat, handlebar, gearing or suspension been changed from stock?\nWere the 14,000 miles mainly road commuting or trail riding?\nAre the pictured rear rack and tool pouch included?\nWhich tires are fitted, and how have they handled dirt for you?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Provisional asking-price assessment, 2026-11-07: Competitive $2,700 fuel-injected VanVan price despite higher mileage.",
       "url": "https://www.facebook.com/marketplace/item/1641160957730371/"
     },
     {
@@ -1438,6 +1549,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• What is the current odometer reading on this 2011 F800R?\n• Which photos show the actual sale bike rather than the studio/reference image, and what equipment is included at $4,100?\n• Does this example have ABS and heated grips?\n• Which seat height is fitted, and have its bars, footpegs, gearing, exhaust or fueling been changed?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Plausible asking price, but not compelling.",
       "url": "https://www.facebook.com/marketplace/item/976952951579638/"
     },
     {
@@ -1456,6 +1569,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• Can you send an odometer photo confirming whether 100,900 is the actual mileage?\n• What was changed beyond the original S-model suspension: springs, valving, controller or complete units, and for what rider weight?\n• Does custom clip on mean the Arrow exhaust or a handlebar change? Was fueling altered, and are original parts included?\n• Which dated timing-belt/desmo service receipts accompany this high-mileage example?\n• Are the top box, mounts and keys included? Can you send the full description after Registration?",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Conditional: low price appropriately reflects 100,900 miles; no mechanical failure presumed.",
       "url": "https://www.facebook.com/marketplace/item/1131615946105839"
     },
     {
@@ -1474,6 +1589,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• Which tall windscreen and upper deflector are fitted, and how is helmet buffeting for a rider around 6ft1?\n• Is the Akrapovic a slip-on only, with stock headers/catalyst and fueling? Are original exhaust parts included?\n• Which factory options are fitted: cruise control, Dynamic ESA and shift assist?\n• Are cases included with the pictured luggage mounts, with matching keys?\n• Which seat height is fitted, and are the bars or footpegs altered? What rider weight is the suspension set for?",
       "sellerQuestions": [],
+      "valueRating": "Excellent",
+      "valueNote": "Field analyst audit, 2026-11-07: Notably below retail benchmarks; 35.5k miles moderate the discount.",
       "url": "https://www.facebook.com/marketplace/item/1461596719176976/"
     },
     {
@@ -1492,6 +1609,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "• Are both original hard panniers, mounts and keys included at $5,300?\n• Which windscreen is fitted, and how is helmet buffeting for a rider around 6ft1?\n• Can you demonstrate the ADD suspension/preload modes and cruise control on this Rally?\n• Are the ECU maps, exhaust and final gearing stock? How does it behave at small throttle openings in Sport versus Touring?\n• Which receipts accompany its latest scheduled valve-clearance service and any suspension work?\n• Can you send the remainder of the seller description beyond the brochure text, and confirm this 25-week-old posting is still current?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Competitive against dealer Rally examples.",
       "url": "https://www.facebook.com/marketplace/item/1266968085425018/"
     },
     {
@@ -1528,6 +1647,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "What exactly was included in the recent $800 service, and at what mileage?\nWhich upgrades are fitted, including exhaust, ECU mapping, gearing and suspension changes?\nCan we review the 14-year receipt file to understand work already completed and upcoming intervals?\nAre the luggage, mounts and original parts included in the $4,000 price?\nFor a test ride, assess low-speed throttle pickup, tall-rider knee room and windscreen buffeting; does the current setup suit a 225 lb rider?",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Desirable SMT, documented care; 45k miles moderate the discount.",
       "url": "https://www.craigslist.org/view/d/reno-beautiful-2012-ktm-smt-990/5ckAJP6MMibybRYXRCRw6N"
     },
     {
@@ -1546,6 +1667,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Exceptionally low mileage for $3,000.",
       "url": "https://www.craigslist.org/view/d/represa-2012-kawasaki-versys-miles/h6bknswvznQxjw2w4ehiJF"
     },
     {
@@ -1564,6 +1687,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: A nearby dealer offers a lower-mileage example for less.",
       "url": "https://www.craigslist.org/view/d/davis-2018-kawasaki-versys-650-abs/usbHRrB5Er3NUrDc7o61PR"
     },
     {
@@ -1582,6 +1707,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: High asking price relative to other used Versys listings.",
       "url": "https://offerup.com/item/detail/29f80468-eeb9-3933-bcce-77872f6292e2"
     },
     {
@@ -1600,6 +1727,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: 56,278 miles makes $4,499 uncompetitive.",
       "url": "https://www.craigslist.org/view/d/sunnyvale-2015-kawasaki-versys-650/b291YwbY91zeYGM7c6CaTZ"
     },
     {
@@ -1618,6 +1747,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Competitive asking price with recent valve service.",
       "url": "https://offerup.com/item/detail/fe9230a1-c546-3256-b6b2-8540f2d4fee1"
     },
     {
@@ -1636,6 +1767,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Exceptionally low-mileage touring package for $5,495.",
       "url": "https://www.craigslist.org/view/d/arcadia-2020-kawasaki-versys-lt/ctSnMTCw1VUr7chAoVrt6H"
     },
     {
@@ -1654,6 +1787,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Conditional value: $2,500 reflects the disclosed salvage title.",
       "url": "https://www.craigslist.org/view/d/marina-2014-suzuki-strom-1000dl/6px6Yk2hsYWc66ryRHLrJv"
     },
     {
@@ -1672,6 +1807,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Equipment and mileage support most of the asking price.",
       "url": "https://www.craigslist.org/view/d/cedar-ridge-2016-strom-650-with-only/5GdEywLMMjh5qD4m1yhbvV"
     },
     {
@@ -1690,6 +1827,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Inexpensive touring at $2,000; mileage is reflected in price.",
       "url": "https://www.craigslist.org/view/d/guerneville-2006-suzuki-strom-650/1hg8NmMq1mQC2uBxyNC1ZH"
     },
     {
@@ -1708,6 +1847,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: Expensive compared with other DL650 listings.",
       "url": "https://www.craigslist.org/view/d/belmont-cleanimmaculatesurgically/8H5mzS2CBKxJFWb4vDtRoG"
     },
     {
@@ -1726,6 +1867,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Suspension, brake and touring upgrades strengthen the $2,800 price.",
       "url": "https://www.craigslist.org/view/d/sacramento-2008-suzuki-strom-650/rjhsJFwbbtPhrURFvC3ZyW"
     },
     {
@@ -1744,6 +1887,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Equipment helps; Canadian specification and premium price limit value.",
       "url": "https://www.craigslist.org/view/d/san-pablo-suzuki-vstrom-dl-abs/8hm4y7ZS22Vpf3nZhs2JFz"
     },
     {
@@ -1762,6 +1907,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: Newer, lower-mileage alternatives cost less.",
       "url": "https://www.craigslist.org/view/d/bishop-13-dl650/afzDzhSMfudKbtEQ1tU31G"
     },
     {
@@ -1780,6 +1927,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Ownership history helps, but $4,000 is a premium asking price.",
       "url": "https://www.craigslist.org/view/d/santa-maria-strom-650-abs/bgrc8YdBAtzW1aJqKosYDy"
     },
     {
@@ -1798,6 +1947,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Original-owner luggage-equipped touring package at $3,900.",
       "url": "https://www.craigslist.org/view/d/arroyo-grande-2013-black-bmw-f800-gt/dCdVSLSeijYyhJiT4bijUh"
     },
     {
@@ -1816,6 +1967,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "Field analyst audit, 2026-11-07: Competitively priced dealer F800GT.",
       "url": "https://www.craigslist.org/view/d/san-francisco-2016-bmw-f800gt-sport/akTc2mCdt6WXKbhKUaFXJb"
     },
     {
@@ -1834,6 +1987,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Low-mileage premium; reasonable, not a bargain.",
       "url": "https://www.craigslist.org/view/d/el-verano-bmws-for-sale/htvUooVA1wNPRpQg5eSjk7"
     },
     {
@@ -1852,6 +2007,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Project valuation only: explicitly nonrunning at $800, not rider-ready value.",
       "url": "https://www.craigslist.org/view/d/san-francisco-2000-suzuki-sv650-non/jdPAnsED3xFm7j2HJeTPfb"
     },
     {
@@ -1870,6 +2027,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Fair asking price; mileage could refine the assessment.",
       "url": "https://offerup.com/item/detail/7aa2cd1b-f6b1-3e5b-a5af-02a77a87489b"
     },
     {
@@ -1888,6 +2047,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Bad",
+      "valueNote": "Field analyst audit, 2026-11-07: Brakes and registration needed at a premium $4,100 asking price.",
       "url": "https://offerup.com/item/detail/b44cdb50-5c10-3ae2-a23a-88dff5081c34"
     },
     {
@@ -1906,6 +2067,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Normal",
+      "valueNote": "Field analyst audit, 2026-11-07: Ordinary dealer pricing for a 2015 FZ-07.",
       "url": "https://motohunt.com/l/13973159/2015-Yamaha-Motor-Corp-USA-FZ-07"
     },
     {
@@ -1924,6 +2087,8 @@
       "archiveOriginalRank": null,
       "visitNotes": "",
       "sellerQuestions": [],
+      "valueRating": "Excellent",
+      "valueNote": "Field analyst audit, 2026-11-07: Substantial year-adjusted discount at $4,500.",
       "url": "https://www.craigslist.org/view/d/anaheim-yamaha-xsr/fFGmVeEmv82z4MbnwkApNs"
     }
   ],
