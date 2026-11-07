@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "lastCheckedAt": "2026-11-07T07:14:57.180875Z",
-  "revision": 286,
-  "inventoryGeneratedAt": "2026-11-07T07:14:55.546Z",
-  "inventorySha": "6b06b59c0491237442bd698e60dcc147f31c0d5b",
+  "lastCheckedAt": "2026-11-07T07:21:17.442705Z",
+  "revision": 315,
+  "inventoryGeneratedAt": "2026-11-07T07:21:15.227Z",
+  "inventorySha": "38028f75a1b489c349f1667cfe0c0fc204e4860e",
   "counts": {
     "active": 81,
     "archived": 14,
