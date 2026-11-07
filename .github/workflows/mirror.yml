@@ -33,13 +33,15 @@ jobs:
           assert data.get("source") == "FLIPPERNET HQ"
           assert type(data.get("revision")) is int and data["revision"] > 0
           assert set(data) <= {"ok","schemaVersion","source","revision","generatedAt","counts","listings","researchModels"}
-          listing_keys = {"name","yr","role","price","miles","loc","myRank","note","flag","status","archived","archiveReason","archiveOriginalRank","visitNotes","sellerQuestions","url"}
+          listing_keys = {"name","yr","role","price","miles","loc","myRank","note","flag","status","archived","archiveReason","archiveOriginalRank","visitNotes","sellerQuestions","url","valueRating","valueNote"}
           model_keys = {"id","name","brand","model","year","yr","role","category","categories","tags","rank","myRank","note","notes","description","pros","cons","seatHeight","weight","engine","price","ranks","categoryRanks"}
           bikes, models, counts = data["listings"], data["researchModels"], data["counts"]
           assert isinstance(bikes,list) and isinstance(models,list)
           for bike in bikes:
               assert set(bike) <= listing_keys
               assert type(bike["archived"]) is bool
+              assert bike.get("valueRating", "") in {"", "Excellent", "Good", "Normal", "Bad"}
+              assert len(str(bike.get("valueNote", ""))) <= 900
               assert bike["role"] in {"street","dirt","hula"}
           for model in models:
               assert set(model) <= model_keys
