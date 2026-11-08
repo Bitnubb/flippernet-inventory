@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 384,
-  "generatedAt": "2026-11-07T22:14:46.151Z",
+  "revision": 396,
+  "generatedAt": "2026-11-08T07:38:34.973Z",
   "counts": {
     "active": 80,
     "archived": 15,
@@ -2311,8 +2311,8 @@
       ],
       "note": "Supermoto hooligan; overlaps enduro.",
       "ranks": {
-        "street": 52,
-        "dreamers": 50
+        "street": 51,
+        "dreamers": 49
       }
     },
     {
@@ -2324,8 +2324,8 @@
       ],
       "note": "Agile, punchy; overlaps enduro.",
       "ranks": {
-        "street": 50,
-        "dreamers": 49
+        "street": 49,
+        "dreamers": 48
       }
     },
     {
@@ -2337,8 +2337,8 @@
       ],
       "note": "Punchy supermoto; scarce parts, KTM overlap.",
       "ranks": {
-        "street": 51,
-        "dreamers": 51
+        "street": 50,
+        "dreamers": 50
       }
     },
     {
@@ -2350,8 +2350,8 @@
       ],
       "note": "Rowdy single; old, scarce parts.",
       "ranks": {
-        "street": 53,
-        "dreamers": 52
+        "street": 52,
+        "dreamers": 51
       }
     },
     {
@@ -2420,8 +2420,8 @@
       ],
       "note": "Overlaps enduro.",
       "ranks": {
-        "street": 54,
-        "dreamers": 53
+        "street": 53,
+        "dreamers": 52
       }
     },
     {
@@ -2489,7 +2489,7 @@
       "note": "Practical, composed; likely too tame.",
       "ranks": {
         "street": 27,
-        "dreamers": 48
+        "dreamers": 47
       }
     },
     {
@@ -2515,7 +2515,7 @@
       "note": "Friendly twin; compact, less exciting.",
       "ranks": {
         "street": 26,
-        "dreamers": 46
+        "dreamers": 45
       }
     },
     {
@@ -2554,7 +2554,7 @@
       "note": "Sharp handling, punchy; cam wear concerns.",
       "ranks": {
         "street": 20,
-        "dreamers": 34
+        "dreamers": 33
       }
     },
     {
@@ -2564,10 +2564,10 @@
         "street",
         "dreamers"
       ],
-      "note": "Torquey, comfortable, versatile; heavy.",
+      "note": "Super Torquey, comfortable, versatile; heavy.",
       "ranks": {
         "street": 19,
-        "dreamers": 32
+        "dreamers": 31
       }
     },
     {
@@ -2580,7 +2580,7 @@
       "note": "V-twin character; thirsty, bulky, crouched.",
       "ranks": {
         "street": 32,
-        "dreamers": 45
+        "dreamers": 44
       }
     },
     {
@@ -2593,7 +2593,7 @@
       "note": "Monster torque, sharp; excessive power.",
       "ranks": {
         "street": 28,
-        "dreamers": 40
+        "dreamers": 39
       }
     },
     {
@@ -2606,7 +2606,7 @@
       "note": "Explosive grin, small cockpit.",
       "ranks": {
         "street": 13,
-        "dreamers": 33
+        "dreamers": 32
       }
     },
     {
@@ -2742,7 +2742,7 @@
       "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM.",
       "ranks": {
         "street": 40,
-        "dreamers": 44
+        "dreamers": 43
       }
     },
     {
@@ -2768,7 +2768,7 @@
       "note": "",
       "ranks": {
         "street": 31,
-        "dreamers": 43
+        "dreamers": 42
       }
     },
     {
@@ -2781,7 +2781,7 @@
       "note": "",
       "ranks": {
         "street": 30,
-        "dreamers": 42
+        "dreamers": 41
       }
     },
     {
@@ -2794,7 +2794,7 @@
       "note": "",
       "ranks": {
         "street": 29,
-        "dreamers": 41
+        "dreamers": 40
       }
     },
     {
@@ -2820,7 +2820,7 @@
       "note": "Roomy touring V-twin; slower steering than Versys.",
       "ranks": {
         "street": 10,
-        "dreamers": 35
+        "dreamers": 34
       }
     },
     {
@@ -2845,7 +2845,7 @@
       ],
       "note": "Punchy, agile, upright sport-tourer; expensive.",
       "ranks": {
-        "street": 43,
+        "street": 42,
         "dreamers": 2
       }
     },
@@ -2858,7 +2858,7 @@
       ],
       "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive.",
       "ranks": {
-        "street": 44,
+        "street": 43,
         "dreamers": 4
       }
     },
@@ -2884,7 +2884,7 @@
       ],
       "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation.",
       "ranks": {
-        "street": 45,
+        "street": 44,
         "dreamers": 5
       }
     },
@@ -2960,7 +2960,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Torquey boxer, stable touring; forward reach, substantial weight.",
+      "note": "Super Torquey boxer, stable touring, 531 lb",
       "ranks": {
         "street": 16,
         "dreamers": 21
@@ -3002,7 +3002,7 @@
       "note": "Affordable belt-drive tourer; composed, restrained engine, tight knees.",
       "ranks": {
         "street": 23,
-        "dreamers": 38
+        "dreamers": 37
       }
     },
     {
@@ -3040,7 +3040,7 @@
       ],
       "note": "Huge V-twin shove, sporty touring; excessive power, expensive.",
       "ranks": {
-        "street": 46,
+        "street": 45,
         "dreamers": 26
       }
     },
@@ -3067,7 +3067,7 @@
       "note": "Affordable belt-drive tourer; mild character, compact cockpit.",
       "ranks": {
         "street": 25,
-        "dreamers": 39
+        "dreamers": 38
       }
     },
     {
@@ -3092,8 +3092,8 @@
       ],
       "note": "Snappier version of the F800GS",
       "ranks": {
-        "street": 48,
-        "dreamers": 54
+        "street": 47,
+        "dreamers": 53
       }
     },
     {
@@ -3103,10 +3103,10 @@
         "street",
         "dreamers"
       ],
-      "note": "Adventure bike. Similar engine characteristics to the Tiger.",
+      "note": "Adventure bike. Similar engine characteristics to the Tiger. 2024+ Basically an upgraded 750 GS. More power, modern electronics, mostly road-oriented. Before 2024 is the adventure version",
       "ranks": {
-        "street": 47,
-        "dreamers": 55
+        "street": 46,
+        "dreamers": 54
       }
     },
     {
@@ -3118,8 +3118,8 @@
       ],
       "note": "33.9in, 450lb; lively twin; dirt focus overlaps 690.",
       "ranks": {
-        "street": 49,
-        "dreamers": 36
+        "street": 48,
+        "dreamers": 35
       }
     },
     {
@@ -3132,7 +3132,7 @@
       "note": "Heavier, 900 has heaps more torque but same hp as 750. ",
       "ranks": {
         "street": 22,
-        "dreamers": 37
+        "dreamers": 36
       }
     },
     {
@@ -3155,8 +3155,8 @@
       ],
       "note": "Adventure version of the SMT",
       "ranks": {
-        "street": 55,
-        "dreamers": 47
+        "street": 54,
+        "dreamers": 46
       }
     },
     {
@@ -3225,16 +3225,14 @@
       }
     },
     {
-      "id": "model-mw631p6y-dfr17",
-      "name": "Honda NT1100 DCT",
+      "id": "model-mw7hddrh-8uggf",
+      "name": "BMW 700GS",
       "tags": [
-        "street",
-        "dreamers"
+        "street"
       ],
-      "note": "547lb, US DCT-only; strong touring comfort, beyond budget.",
+      "note": "75hp\tCheap, simple, mostly pavement, all arounder",
       "ranks": {
-        "street": 42,
-        "dreamers": 31
+        "street": 55
       }
     }
   ]
