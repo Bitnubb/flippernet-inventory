@@ -32,9 +32,45 @@ jobs:
           assert data.get("ok") is True and data.get("schemaVersion") == 1
           assert data.get("source") == "FLIPPERNET HQ"
           assert type(data.get("revision")) is int and data["revision"] > 0
-          assert set(data) <= {"ok","schemaVersion","source","revision","generatedAt","counts","listings","researchModels"}
+          assert set(data) <= {"ok","schemaVersion","source","revision","generatedAt","counts","listings","researchModels","powerband"}
           listing_keys = {"name","yr","role","price","miles","loc","myRank","note","flag","status","archived","archiveReason","archiveOriginalRank","visitNotes","sellerQuestions","url","valueRating","valueNote"}
-          model_keys = {"id","name","brand","model","year","yr","role","category","categories","tags","rank","myRank","note","notes","description","pros","cons","seatHeight","weight","engine","price","ranks","categoryRanks"}
+          model_keys = {"id","name","brand","model","year","yr","role","category","categories","tags","rank","myRank","note","notes","description","pros","cons","seatHeight","weight","engine","price","ranks","categoryRanks","powerbandState","powerbandCurveName"}
+          def validate_powerband(pb):
+              import math
+              assert isinstance(pb, dict) and pb.get('available') is True, 'Powerband unavailable'
+              assert set(pb) <= {'available','schema','version','catalogRevision','catalogGeneratedAt','units','normalization','curves','wetWeights','modelStates','collections','pinnedGroupIds','referenceSpotlight','ratioModes'}
+              assert pb['schema'] == 'flippernet-powerbands' and pb['version'] == 1
+              assert type(pb['catalogRevision']) is int and pb['catalogRevision'] > 0
+              assert pb['units'] == {'rpm':'rpm','horsepower':'hp','torque':'lb-ft','wetWeight':'lb'}
+              assert isinstance(pb['curves'], list) and 0 < len(pb['curves']) <= 200
+              curve_keys = {'id','name','names','representative','year','rpm','bestTorque','bestHorsepower','shortBasis','basis','sourceUrl','sources','groupNote','color','evidence','hp','rpmHP','tq','rpmTQ'}
+              names, ids = set(), set()
+              for curve in pb['curves']:
+                  assert isinstance(curve,dict) and set(curve) <= curve_keys
+                  assert isinstance(curve['id'],str) and curve['id'] not in ids
+                  ids.add(curve['id'])
+                  assert isinstance(curve['names'],list) and curve['names'] and all(isinstance(n,str) and len(n)<=200 for n in curve['names'])
+                  names.update(curve['names'])
+                  arrays = [curve[k] for k in ('rpm','bestTorque','bestHorsepower')]
+                  assert len({len(a) for a in arrays}) == 1 and 1 < len(arrays[0]) <= 400
+                  assert all(type(v) in (int,float) and math.isfinite(v) for a in arrays for v in a)
+                  assert all(b>a for a,b in zip(curve['rpm'],curve['rpm'][1:]))
+                  assert isinstance(curve.get('sources',[]),list)
+                  for source in curve.get('sources',[]):
+                      assert set(source) <= {'name','year','url'}
+                      assert not source.get('url') or source['url'].startswith(('https://','http://'))
+              assert set(pb['wetWeights']) == names
+              assert all(type(v) in (int,float) and math.isfinite(v) and 0<v<2000 for v in pb['wetWeights'].values())
+              assert set(pb['modelStates']) <= names and set(pb['modelStates'].values()) <= {'undecided','hangar','rejected'}
+              assert isinstance(pb['collections'],list) and len(pb['collections'])<=200
+              for collection in pb['collections']:
+                  assert set(collection) <= {'id','name','modelNames','builtIn','category'}
+                  assert set(collection['modelNames']) <= names
+                  assert collection['category'] in ('street','dreamers',None)
+                  assert type(collection['builtIn']) is bool
+              assert set(pb['pinnedGroupIds']) <= ids and type(pb['referenceSpotlight']) is bool
+              assert set(pb['ratioModes']) <= {'raw','pw','pwplus'}
+          validate_powerband(data['powerband'])
           bikes, models, counts = data["listings"], data["researchModels"], data["counts"]
           assert isinstance(bikes,list) and isinstance(models,list)
           for bike in bikes:
@@ -61,7 +97,29 @@ jobs:
               assert counts["categories"][role]["archived"] == sum(b["role"]==role and b["archived"] for b in bikes)
           api = "https://api.github.com/repos/" + os.environ["GH_REPOSITORY"] + "/contents/inventory.json"
           headers = {"Authorization":"Bearer " + os.environ["GH_TOKEN"], "Accept":"application/vnd.github+json", "X-GitHub-Api-Version":"2022-11-28", "User-Agent":"Flippernet-Inventory-Mirror"}
+          def write_powerband(snapshot):
+              powerband_api = api.rsplit('/', 1)[0] + '/powerband.json'
+              document = {key:snapshot[key] for key in ('ok','schemaVersion','source','revision','generatedAt','powerband')}
+              prior = None
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(powerband_api,headers=headers),timeout=30) as response:
+                      prior = json.load(response)
+              except urllib.error.HTTPError as error:
+                  if error.code != 404:
+                      raise
+              if prior:
+                  old = json.loads(base64.b64decode(prior['content']))
+                  assert document['revision'] >= old['revision'], 'Refusing Powerband rollback'
+                  if {k:v for k,v in document.items() if k!='generatedAt'} == {k:v for k,v in old.items() if k!='generatedAt'}:
+                      return
+              body = {'message':'Mirror Powerband at HQ revision '+str(document['revision']),'content':base64.b64encode((json.dumps(document,ensure_ascii=False,indent=2)+'\n').encode()).decode(),'branch':'main'}
+              if prior:
+                  body['sha']=prior['sha']
+              request=urllib.request.Request(powerband_api,data=json.dumps(body).encode(),headers={**headers,'Content-Type':'application/json'},method='PUT')
+              with urllib.request.urlopen(request,timeout=30) as response:
+                  assert response.status in (200,201)
           def write_status(snapshot, inventory_sha):
+              write_powerband(snapshot)
               status_api = api.rsplit("/", 1)[0] + "/status.json"
               status = {
                   "ok": True,
@@ -114,3 +172,4 @@ jobs:
           write_status(data, published["content"]["sha"])
           print("Published revision",data["revision"],json.dumps(counts))
           PY
+
