@@ -2,16 +2,16 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 562,
-  "generatedAt": "2026-11-09T22:37:11.322Z",
+  "revision": 568,
+  "generatedAt": "2026-11-10T09:39:47.561Z",
   "counts": {
-    "active": 77,
+    "active": 78,
     "archived": 19,
-    "total": 96,
+    "total": 97,
     "researchModels": 95,
     "categories": {
       "street": {
-        "active": 43,
+        "active": 44,
         "archived": 12
       },
       "dirt": {
@@ -2110,6 +2110,25 @@
       "valueRating": "Good",
       "valueNote": "Provisional asking-price assessment: $4,500 is attractive for 7,948 miles, original ownership, fresh Pirelli touring tires and included OEM parts. Photo shows fairing scuffs, so not labelled a pristine-condition steal. Assumes good mechanical condition and clean title; no crash or hidden defect inferred.",
       "url": "https://www.facebook.com/marketplace/item/1246562527464075/"
+    },
+    {
+      "name": "BMW F900XR",
+      "yr": "2021",
+      "role": "street",
+      "price": 7800,
+      "miles": "10,800",
+      "loc": "Pleasanton",
+      "myRank": 44,
+      "note": "Comfortable sport tourer; ESA; warranty claimed; ~485 lb wet.",
+      "flag": "Verify warranty transfer and service records",
+      "status": "Facebook Marketplace listing — availability unconfirmed",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Seller states: Premium Package; Dynamic ESA (semi-active rear suspension); extended warranty through March 2027. Listed condition: Used – Good.\n\nQUESTIONS FOR THIS BIKE:\n• Is the extended warranty transferable? Please provide coverage and expiry documents.\n• Can you provide service records and details of the most recent service?\n• Any drops, crash repairs, warning lights, or suspension issues?\n• Is the title clean, in your name, and free of liens?\n• Is it still available at $7,800?",
+      "valueRating": "",
+      "valueNote": "",
+      "url": "https://www.facebook.com/marketplace/item/1491378198661746/"
     }
   ],
   "researchModels": [
@@ -2520,7 +2539,7 @@
       ],
       "note": "Practical, composed; likely too tame. 444 lb curb.",
       "ranks": {
-        "street": 17,
+        "street": 18,
         "dreamers": 46
       },
       "powerbandState": "hangar",
@@ -2535,7 +2554,7 @@
       ],
       "note": "Torquey, composed; less wind protection. 445 lb curb.",
       "ranks": {
-        "street": 14,
+        "street": 15,
         "dreamers": 16
       },
       "powerbandState": "hangar",
@@ -2565,7 +2584,7 @@
       ],
       "note": "2017 preferred; roomy, lively triple; wind protection, touring comfort. 470 lb curb.",
       "ranks": {
-        "street": 27,
+        "street": 12,
         "dreamers": 3
       },
       "powerbandState": "rejected",
@@ -2595,7 +2614,7 @@
       ],
       "note": "Sharp handling, punchy; cam wear concerns. ~407 lb curb (2024 full-fuel estimate).",
       "ranks": {
-        "street": 26,
+        "street": 27,
         "dreamers": 33
       },
       "powerbandState": "rejected",
@@ -2610,7 +2629,7 @@
       ],
       "note": "Super Torquey, comfortable, versatile; heavy. 492–509 lb curb (generation).",
       "ranks": {
-        "street": 23,
+        "street": 24,
         "dreamers": 31
       },
       "powerbandState": "hangar",
@@ -2625,7 +2644,7 @@
       ],
       "note": "V-twin character; thirsty, bulky, crouched. 474–476 lb curb (1998–2003 US).",
       "ranks": {
-        "street": 25,
+        "street": 26,
         "dreamers": 44
       },
       "powerbandState": "hangar",
@@ -2655,7 +2674,7 @@
       ],
       "note": "Explosive grin, small cockpit. 437 lb curb (2025 ABS).",
       "ranks": {
-        "street": 15,
+        "street": 16,
         "dreamers": 32
       },
       "powerbandState": "hangar",
@@ -2670,7 +2689,7 @@
       ],
       "note": "Proven cornering confidence; roomy, composed, great two-up. 483 lb curb; LT ~503 lb (2024).",
       "ranks": {
-        "street": 13,
+        "street": 14,
         "dreamers": 14
       },
       "powerbandState": "hangar",
@@ -2973,7 +2992,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Broad midrange, upright cockpit, wind protection; above budget. 476–483 lb curb (year).",
+      "note": "Broad midrange, upright cockpit, wind protection; above budget. 480lb.",
       "ranks": {
         "street": 5,
         "dreamers": 12
@@ -2990,7 +3009,7 @@
       ],
       "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach. 536 lb curb.",
       "ranks": {
-        "street": 22,
+        "street": 23,
         "dreamers": 8
       },
       "powerbandState": "hangar",
@@ -3080,7 +3099,7 @@
       ],
       "note": "GSX-8 twin character, upright touring; heavier, above budget. 492 lb curb (base; cases add weight).",
       "ranks": {
-        "street": 12,
+        "street": 13,
         "dreamers": 27
       },
       "powerbandState": "hangar",
@@ -3125,7 +3144,7 @@
       ],
       "note": "Muscular twin; Rally 606 lbs, 19in front; $5–6k used.",
       "ranks": {
-        "street": 20,
+        "street": 21,
         "dreamers": 28
       },
       "powerbandState": "hangar",
@@ -3155,7 +3174,7 @@
       ],
       "note": "Muscular boxer, planted touring; sportier posture, dream pricing. 540 lb curb.",
       "ranks": {
-        "street": 21,
+        "street": 22,
         "dreamers": 15
       },
       "powerbandState": "hangar",
@@ -3230,7 +3249,7 @@
       ],
       "note": "33.9in, 450lb; lively twin; dirt focus overlaps 690.",
       "ranks": {
-        "street": 19,
+        "street": 20,
         "dreamers": 35
       },
       "powerbandState": "hangar",
@@ -3269,7 +3288,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Adventure version of the SMT ~474 lb curb (2024 full-fuel estimate).",
+      "note": "Adventure version of the SMT ~474 lb.",
       "ranks": {
         "street": 9,
         "dreamers": 45
@@ -3316,7 +3335,7 @@
       ],
       "note": "V4 character, planted corners; revvier, sportier riding position. 527–536 lb curb (2014 base/Deluxe).",
       "ranks": {
-        "street": 18,
+        "street": 19,
         "dreamers": 29
       },
       "powerbandState": "rejected",
@@ -3331,7 +3350,7 @@
       ],
       "note": "Agile upright triple; 2022–25 smooth, 2026 gains top-end. 455–456 lb curb.",
       "ranks": {
-        "street": 24,
+        "street": 25,
         "dreamers": 30
       },
       "powerbandState": "hangar",
@@ -3346,7 +3365,7 @@
       ],
       "note": "V-twin touring comfort; 520–545lb, tall ADV stance.",
       "ranks": {
-        "street": 16,
+        "street": 17,
         "dreamers": 18
       },
       "powerbandState": "hangar",
