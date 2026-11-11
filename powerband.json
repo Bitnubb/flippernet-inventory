@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 568,
-  "generatedAt": "2026-11-10T09:39:47.561Z",
+  "revision": 573,
+  "generatedAt": "2026-11-11T08:54:29.528Z",
   "powerband": {
     "available": true,
     "schema": "flippernet-powerbands",
