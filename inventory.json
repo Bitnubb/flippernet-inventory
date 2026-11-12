@@ -2,20 +2,20 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 573,
-  "generatedAt": "2026-11-11T08:54:29.528Z",
+  "revision": 585,
+  "generatedAt": "2026-11-12T11:51:46.284Z",
   "counts": {
-    "active": 78,
+    "active": 84,
     "archived": 19,
-    "total": 97,
-    "researchModels": 95,
+    "total": 103,
+    "researchModels": 103,
     "categories": {
       "street": {
-        "active": 44,
+        "active": 49,
         "archived": 12
       },
       "dirt": {
-        "active": 8,
+        "active": 9,
         "archived": 2
       },
       "hula": {
@@ -104,7 +104,7 @@
       "price": 2999,
       "miles": "28,000",
       "loc": "Larkspur",
-      "myRank": 30,
+      "myRank": 33,
       "note": "Belts only inspected; valves reportedly adjusted.",
       "flag": "Belt receipt needed",
       "status": "Live Craigslist listing",
@@ -127,7 +127,7 @@
       "price": 3200,
       "miles": "47,819",
       "loc": "San Jose",
-      "myRank": 36,
+      "myRank": 40,
       "note": "Touring twin with luggage; less playful.",
       "flag": "",
       "status": "Facebook screenshot",
@@ -226,7 +226,7 @@
       "price": 3500,
       "miles": "10,300",
       "loc": "San Rafael",
-      "myRank": 42,
+      "myRank": 46,
       "note": "Fresh tires, Power Commander, 10k service.",
       "flag": "Street favorite",
       "status": "Live Craigslist listing",
@@ -297,7 +297,7 @@
       "price": 4000,
       "miles": "15,160",
       "loc": "Bodega Bay",
-      "myRank": 32,
+      "myRank": 35,
       "note": "Akrapovič pipes, Rottweiler intake, steering damper.",
       "flag": "Fast street hooligan · inspect carefully",
       "status": "Live Craigslist listing",
@@ -540,7 +540,7 @@
       "price": 4300,
       "miles": "~6,000",
       "loc": "Hollister",
-      "myRank": 31,
+      "myRank": 34,
       "note": "Matte-black wildcard; dealer service, belts pivotal.",
       "flag": "Request dated belt-service receipts · 7.5k valve check approaching · short-term owner",
       "status": "Facebook Marketplace · “like new / fully serviced” dealer claim (unverified)",
@@ -1300,7 +1300,7 @@
       "price": 4000,
       "miles": "Not stated in screenshot",
       "loc": "Discovery Bay",
-      "myRank": 23,
+      "myRank": 26,
       "note": "Black 796; $1,000 reduction, well maintained per seller.",
       "flag": "Provisional Street #4: good match for Skipper’s upright, responsive, engine-character-focused street riding. Placed above the $4,300 Hollister 2011 796 because this example asks $300 less for the same basic platform; retain the test-ridden SV650 and cheaper 690 Duke ahead provisionally. Screenshot: 2012 Ducati Hypermotard 796, Discovery Bay, current $4,000 ask reduced from $5,000, listed three weeks ago at screenshot time; seller labels it Used - like new, says it has never let them down, is very well maintained and needs garage space for a new bike. These are seller claims. Mileage is not visible in screenshot; request it without treating omission as a mechanical fault. For ranking, assume clean title in owner’s name, valves in specification, major maintenance completed and otherwise good working condition unless disclosed otherwise. Factory model context: 803cc air-cooled Desmodue twin, 81 hp at 8,000 rpm and 55.7 lb-ft at 6,250 rpm, 32.5-inch seat; this is the earlier 796 platform, not the 2013-on liquid-cooled 821. Upright posture and wide bars support the handling brief; actual comfort and throttle feel require a test ride. Screenshot shows black bodywork and twin under-seat exhausts; exact modification status not established. No mechanical defect inferred. Source: https://mediahouse.ducati.com/ducati-hypermotard-796/",
       "status": "Screenshot reviewed; $4,000 reduced from $5,000; seller claims well maintained; not contacted",
@@ -1320,7 +1320,7 @@
       "price": 5500,
       "miles": "20,000",
       "loc": "Vallejo / Benicia",
-      "myRank": 24,
+      "myRank": 27,
       "note": "Corbin seat, panniers, heated grips; new tires, chain.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1340,7 +1340,7 @@
       "price": 4500,
       "miles": "17,000",
       "loc": "Mill Valley",
-      "myRank": 10,
+      "myRank": 11,
       "note": "Wilbers shocks, Russell saddle, fairing, ABS, heated grips.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1360,7 +1360,7 @@
       "price": 4999,
       "miles": "19,000",
       "loc": "San Francisco",
-      "myRank": 43,
+      "myRank": 47,
       "note": "675R ABS; dealer offers one-month/500-mile guarantee.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1380,7 +1380,7 @@
       "price": 5750,
       "miles": "8,382",
       "loc": "San Rafael",
-      "myRank": 19,
+      "myRank": 21,
       "note": "Stock exhaust, Puig screen, CRG mirror, tail tidy.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1420,7 +1420,7 @@
       "price": 3999,
       "miles": "15,000",
       "loc": "San Francisco",
-      "myRank": 22,
+      "myRank": 24,
       "note": "15k miles, aftermarket pipe, dealer service.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1440,7 +1440,7 @@
       "price": 5200,
       "miles": "11,201",
       "loc": "Clearlake Oaks / Lake County",
-      "myRank": 44,
+      "myRank": 48,
       "note": "Second owner, 11k miles, upgraded springs, covers, sliders.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1460,7 +1460,7 @@
       "price": 5499,
       "miles": "5,245",
       "loc": "Bradley / Bryson-Hesperia",
-      "myRank": 29,
+      "myRank": 32,
       "note": "5,245 miles, Puig screen, lithium battery, case guards.",
       "flag": "",
       "status": "Ad retrieved Oct 23, 2026; seller availability unconfirmed",
@@ -1480,7 +1480,7 @@
       "price": 5300,
       "miles": "32,160",
       "loc": "Emeryville",
-      "myRank": 13,
+      "myRank": 15,
       "note": "Traxxion forks, Sargent seat, upgraded throttle; pictured top box.",
       "flag": "Provisional assessment: strong touring complement to the 690. Just behind the 2017 Vallejo/Benicia FJ: $200 cheaper, older year and 12,160 more miles; Traxxion work and Sargent seat could reverse that after a ride. Mileage is not a mechanical defect. Screenshot lists 3+ owners and very good/excellent condition; remaining description is cut off. Availability not independently verified.",
       "status": "Provisional — user screenshot; live availability not independently verified",
@@ -1500,7 +1500,7 @@
       "price": 2280,
       "miles": "19,276",
       "loc": "Napa",
-      "myRank": 25,
+      "myRank": 28,
       "note": "Budget V-twin supermoto; small screen, handguards, pictured luggage.",
       "flag": "Provisional #8: excellent fun-per-dollar wildcard at $2,280, but overlaps the 690 more than a touring twin/triple. Aprilia brochure specifies a 34.3-inch seat and 12-litre tank, limiting touring convenience; wind protection is modest despite pictured screen. No mechanical fault inferred from price or missing history. Screenshot shows two owners, 19,276 miles, Napa, and partial seller description praising V-twin torque. Full description and live availability not independently verified. Model source: https://www.motorino.co.jp/data/aprilia/brochure-dorsoduro-750-eng.pdf",
       "status": "Provisional — user screenshot; live availability not independently verified",
@@ -1540,7 +1540,7 @@
       "price": 4100,
       "miles": "Not listed",
       "loc": "Antelope, CA",
-      "myRank": 15,
+      "myRank": 17,
       "note": "Early F800R; $1,100 reduction, naked parallel twin.",
       "flag": "Provisional Street #14. $4,100 reduced from $5,200 per supplied screenshot; 2011 BMW F800R, Antelope CA per Skipper, mileage unlisted. Rank assumes sound mechanical condition, clean title in owner’s name and completed major maintenance; these are shopping assumptions, not inspection results. No penalty for omitted mileage or service claims. Earlier F800R generation, not the 2015-on chassis/gearing update. A balanced pavement roadster within budget, but limited wind protection and tall-rider knee room need a ride; higher-ranked options better match touring, engine character or known Versys confidence. Photo is a representative studio image matching the screenshot, not verification of the actual sale bike or its equipment. Live Facebook page unavailable to retrieval; no unseen seller claims added. Model context: https://www.press.bmwgroup.com/usa/article/detail/T0196338EN_US/bmw-motorrad-usa-introduces-the-2015-bmw-f-800-r",
       "status": "Screenshot reviewed; seller availability and equipment unverified",
@@ -1560,7 +1560,7 @@
       "price": 3500,
       "miles": "100,900 (confirmation requested)",
       "loc": "Sunnyvale",
-      "myRank": 26,
+      "myRank": 29,
       "note": "100,900mi; Öhlins, Arrow exhaust, top box.",
       "flag": "Provisional Street #8: strong roomy pavement/touring complement to the 690 at $3,500. Screenshot advertises 100,900 miles; retained as written, not silently treated as a typo. Mileage affects purchase value and resale, not assumed mechanical condition. Rank assumes sound condition, major maintenance completed and clean owner-held title; seller explicitly claims clean title in hand. Seller describes upgraded Öhlins suspension and a custom clip on; exact meaning and suspension changes need clarification. Photo shows white bodywork, Arrow-branded exhaust, windscreen and top box; inclusion unconfirmed. More bulk and power than the smaller twins, and Ducati ownership complexity count against the lighter practical favorites. Description cuts off after Registration; no unseen terms or claims inferred. Facebook live availability not independently verified.",
       "status": "Screenshot and supplied photo reviewed; seller availability unconfirmed",
@@ -1580,7 +1580,7 @@
       "price": 5750,
       "miles": "35,500",
       "loc": "Moraga",
-      "myRank": 16,
+      "myRank": 18,
       "note": "35,500mi; Akrapovič, tall screen; seller downsizing collection.",
       "flag": "Provisional Street #14: convincing paved-road/touring complement to the 690, with boxer midrange, fairing and shaft drive; roughly 520 lb road-ready and a more forward riding position require a fit/handling test. At $5,750 it is $750 above the usual $5,000 stretch ceiling, so it remains behind the two FJ-09 listings and the cheaper leading options. No mechanical defect inferred. Ranking assumes sound condition, clean owner-held title and completed major maintenance unless disclosed otherwise. Screenshot: blue 2016 R1200RS in Moraga, 35,500 miles; seller traded an S1000XR for it earlier in the year and is downsizing a collection. Photo shows Akrapovic-branded silencer, tall screen with upper deflector and luggage mounting hardware; exact equipment/inclusion unconfirmed. Seller description cuts off; no unseen claims added. Marketplace item URL was not supplied; seller-link field intentionally blank. Model context: https://www.press.bmwgroup.com/usa/article/detail/T0196340EN_US/bmw-motorrad-usa-introduces-the-2015-bmw-r-1200-rs",
       "status": "Screenshot and supplied photo reviewed; listing URL not supplied; not contacted",
@@ -1600,7 +1600,7 @@
       "price": 5300,
       "miles": "23,070",
       "loc": "San Francisco",
-      "myRank": 9,
+      "myRank": 10,
       "note": "606 lbs; green Rally, tall screen, pannier racks.",
       "flag": "Provisional Street #15, behind the Moraga R1200RS: strong V-twin character and upright touring comfort could complement the 690, but a large adventure-tourer with a 19-inch front wheel is less directly pavement-focused than the FJ-09s. $5,300 is $300 above the usual $5,000 stretch ceiling. Rank assumes sound mechanical condition, clean owner-held title and completed major maintenance unless disclosed otherwise; no defect inferred from missing service details or the age of the advertisement. Screenshot lists 2016 Caponord 1200 Rally ABS, green, 23,070 miles, San Francisco, listed 25 weeks ago at screenshot time. Visible description is mostly manufacturer brochure text, not this example’s service history. Supplied photo shows tall screen, handguards, crash bars and pannier racks; case inclusion unconfirmed. Factory Rally context: ADD semi-active suspension, cruise control, ABS and traction control; actual operation/equipment require demonstration. Facebook live availability not independently verified; no seller contacted. Source: https://wide.piaggiogroup.com/archive/wide5_14/moto/index_en_m.html",
       "status": "Screenshot and supplied photo reviewed; availability unconfirmed",
@@ -1678,7 +1678,7 @@
       "price": 5250,
       "miles": "7,700",
       "loc": "Davis",
-      "myRank": 20,
+      "myRank": 22,
       "note": "One owner; ABS, 7.7k miles.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private listing; one owner and clean title.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1698,7 +1698,7 @@
       "price": 5499,
       "miles": "20,243",
       "loc": "Millbrae",
-      "myRank": 21,
+      "myRank": 23,
       "note": "ABS; 20k miles, Nor-Cal Cycles dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Same motorcycle cross-posted on Craigslist at $5,500: https://www.craigslist.org/view/d/millbrae-2019-kawasaki-versys-650-abs/tTurRk7oiPgKNAN8juoNTV . OfferUp asks $5,499. Dealer is in Millbrae although Craigslist search area says inner Sunset. Dealer advertises no dealer fees; taxes/registration not verified as included.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1738,7 +1738,7 @@
       "price": 4200,
       "miles": "30,000 (approximately)",
       "loc": "Walnut Creek",
-      "myRank": 17,
+      "myRank": 19,
       "note": "Heated grips; recent valves, oil, air filter.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. OfferUp private listing advertises clean title, maintenance log and recent valve/oil/filter work.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1758,7 +1758,7 @@
       "price": 5495,
       "miles": "1,021",
       "loc": "Arcadia",
-      "myRank": 6,
+      "myRank": 7,
       "note": "One owner, ABS; 1,021 miles, dealer service.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Southern California: Arcadia Motorcycle Company stock LDA40240. One owner/clean title; dealer lists recent service and no ADM. Taxes, license and government fees extra; delivery offered in California. Map pin is an approximate southern-edge marker outside the drawn map; use Arcadia for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1778,7 +1778,7 @@
       "price": 2500,
       "miles": "45,000",
       "loc": "Marina",
-      "myRank": 12,
+      "myRank": 14,
       "note": "Salvage title; 45k miles, seller says runs well.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. SALVAGE TITLE explicitly disclosed. Seller says it runs well and is ready to ride. No condition or suitability analysis performed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1798,7 +1798,7 @@
       "price": 4500,
       "miles": "23,188 field / 23,139 description",
       "loc": "Grass Valley",
-      "myRank": 39,
+      "myRank": 43,
       "note": "Side cases, crash bars, lights; fresh chain.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Grass Valley/Nevada City private listing. Mileage differs slightly between structured field and description. Seller lists new chain/sprockets, oil change, USB and auxiliary lights.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1818,7 +1818,7 @@
       "price": 2000,
       "miles": "55,341",
       "loc": "Guerneville / Russian River",
-      "myRank": 34,
+      "myRank": 38,
       "note": "Records since 2008; Givi case, windscreen, gel seat.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private listing advertises garage storage, newer battery, under 1,000 miles on Shinko 705s, recent oil/filter and spare consumables. Riding gear costs $200 extra.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1838,7 +1838,7 @@
       "price": 4500,
       "miles": "17,000",
       "loc": "Belmont",
-      "myRank": 35,
+      "myRank": 39,
       "note": "Lowered; fresh tires, Givi box, centerstand.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Heading/body say 2008; structured model-year field says 2009. $4,500 firm. Seller advertises lowering links, DL1000 seat, protection bars, recent service and new battery/Bridgestones; optional Corbin seat $250 extra. Year preserved as heading with discrepancy noted.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1858,7 +1858,7 @@
       "price": 2800,
       "miles": "30,711",
       "loc": "Sacramento",
-      "myRank": 37,
+      "myRank": 41,
       "note": "Race Tech forks, upgraded brakes, Sargent seat, heated grips.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Private seller advertises new tires/wheel bearings, radiator hose/coolant work, 16T front sprocket, fork brace and stock intake/exhaust. Fork setup described for 170 lb rider. Seller claims clean title/current registration.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1878,7 +1878,7 @@
       "price": 3900,
       "miles": "32,500 km / approximately 20,000 mi",
       "loc": "San Pablo",
-      "myRank": 38,
+      "myRank": 42,
       "note": "Canadian spec; matching luggage, crash bars, fresh fluids.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Third-owner Canadian-spec motorcycle with km speedometer. Seller advertises clean CA title, registration through October 2027 and valve check at 14,500 miles.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1898,7 +1898,7 @@
       "price": 5000,
       "miles": "40,000",
       "loc": "Bishop",
-      "myRank": 40,
+      "myRank": 44,
       "note": "One owner; Givi luggage, Sargent seat, new tires.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Bishop. Seller lists Motech bars/centerstand, Baja lights, skid plate, new wheel bearings and maintenance records. Map pin is a coarse eastern-edge marker outside the drawn map; use Bishop for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1918,7 +1918,7 @@
       "price": 4000,
       "miles": "21,880",
       "loc": "Orcutt / Santa Maria",
-      "myRank": 41,
+      "myRank": 45,
       "note": "Original owner; Russell saddle, luggage, recent service.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Orcutt/Santa Maria. Seller advertises garage kept, recent brake/fluid/plug/filter work and includes Russell Day Long saddle not shown in photo. Map pin is a coarse southern-edge marker outside the drawn map; use Orcutt for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1938,7 +1938,7 @@
       "price": 3900,
       "miles": "45,584",
       "loc": "Arroyo Grande",
-      "myRank": 14,
+      "myRank": 16,
       "note": "Original owner; luggage, comfort seat, heated grips, taller screen.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Farther California: Arroyo Grande. Live search price $3,900; fetched detail showed earlier $4,200. Original owner; BMW side cases, Givi top box, ABS, TPM, comfort seat, Z Technik screen and recent battery/fluids. Map pin is a coarse southern-edge marker outside the drawn map; use Arroyo Grande for travel planning.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1958,7 +1958,7 @@
       "price": 4799,
       "miles": "32,000",
       "loc": "San Francisco",
-      "myRank": 11,
+      "myRank": 13,
       "note": "ABS; 32k miles, MotoJava dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. MotoJava dealer listing. Advertises one-month/500-mile guarantee; terms and government fees not confirmed.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1978,7 +1978,7 @@
       "price": 4500,
       "miles": "Under 14,000",
       "loc": "Sonoma",
-      "myRank": 18,
+      "myRank": 20,
       "note": "Under 14k miles; gray ST, multi-bike seller.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. Multi-bike advertisement: $3,800 headline is for F800R. The 2008 F800ST is specifically $4,[street address omitted]",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -1998,7 +1998,7 @@
       "price": 800,
       "miles": "Approximately 28,000",
       "loc": "San Francisco",
-      "myRank": 27,
+      "myRank": 30,
       "note": "Nonrunning project; six-year storage, truck pickup required.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. NONRUNNING as explicitly disclosed; seller has not attempted start after six-year storage. Advertises clean duplicate title, PNO since 2020/no back fees; includes bags, cover and manual. Added only as model/budget match, not a ride-ready recommendation.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -2018,7 +2018,7 @@
       "price": 4000,
       "miles": "Not listed",
       "loc": "Palo Alto",
-      "myRank": 28,
+      "myRank": 31,
       "note": "2017 SV650; seller describes condition as excellent.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. OfferUp listing gives year/model/price/city; description is only Excellent. No additional condition findings inferred.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -2058,7 +2058,7 @@
       "price": 4995,
       "miles": "21,563",
       "loc": "Sacramento",
-      "myRank": 33,
+      "myRank": 36,
       "note": "Pearl white; 21.6k miles, Specialty Motorsports dealer.",
       "flag": "Recon 2026-11-06; appended for Skipper to rank, without suitability analysis. MotoHunt dealer listing remains readable; stock YAM001842. Dealer’s direct page returned an access error, so inventory is verified on the aggregator only; seller stock not confirmed directly. Taxes/fees may be additional.",
       "status": "Recon Nov 6: ad readable; seller availability unconfirmed; awaiting Skipper rank",
@@ -2078,7 +2078,7 @@
       "price": 4000,
       "miles": "46,000",
       "loc": "Stockton",
-      "myRank": 7,
+      "myRank": 8,
       "note": "46k freeway miles; tinted screen, rear rack, shaft drive.",
       "flag": "",
       "status": "Imported from supplied screenshot Nov 8, 2026; seller availability not independently checked.",
@@ -2118,7 +2118,7 @@
       "price": 7800,
       "miles": "10,800",
       "loc": "Pleasanton",
-      "myRank": 8,
+      "myRank": 9,
       "note": "Comfortable sport tourer; ESA; warranty claimed; ~485 lb wet.",
       "flag": "Verify warranty transfer and service records",
       "status": "Facebook Marketplace listing — availability unconfirmed",
@@ -2130,6 +2130,125 @@
       "valueRating": "Normal",
       "valueNote": "",
       "url": "https://www.facebook.com/marketplace/item/1491378198661746/"
+    },
+    {
+      "name": "BMW F900XR",
+      "yr": "2020",
+      "role": "street",
+      "price": 5500,
+      "miles": "47,000",
+      "loc": "San Jose",
+      "myRank": 12,
+      "note": "Touring luggage, upgraded forks, high mileage, ~485 lb wet.",
+      "flag": "Verify valve service, ECU flash, and stock exhaust",
+      "status": "BARF listing, July price update. Availability unconfirmed.",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Seller reports original ownership, mainly highway miles, Dynamic ESA, adjustable Traxxion cartridges, heated Corbin seat, cruise, BMW side and top cases, clean title, recent tires, and registration through June 2027. Seller says BMW clutch and oil sump campaigns were completed.\n\nQuestions for this bike\n• Still available at $5,500? What is the current odometer reading?\n• Can you share dated valve-clearance, fork and rear suspension service records, BMW campaign invoices, oil reports and the GS-911 scan?\n• Does the included original exhaust include the catalyst, and can the ECU be returned to stock?\n• On a cold start and test ride, check for leaks, dash faults, clutch and quickshifter behavior, cruise, and ESA operation.\n• Can you send current photos of the bike, luggage and tires?",
+      "sellerQuestions": [],
+      "valueRating": "Good",
+      "valueNote": "$2,300 below the tracked 2021 XR. Touring equipment and reported service records add value, but 47k miles and ECU/exhaust changes warrant inspection.",
+      "url": "https://www.bayarearidersforum.com/forums/threads/2020-bmw-f900xr.567083/"
+    },
+    {
+      "name": "Ducati Hyperstrada 821",
+      "yr": "2014",
+      "role": "street",
+      "price": 6795,
+      "miles": "14,436",
+      "loc": "Sacramento",
+      "myRank": 49,
+      "note": "Dealer backup, 14k miles, ~450 lb wet.",
+      "flag": "Confirm out-the-door price and belt/valve service",
+      "status": "Dealer backup. Availability unconfirmed.",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Specialty Motorsports, stock DUC008367. Matching VIN ZDM1YBTS8EB008367 on Autotrader shows 14,436 miles.\n\nConfirm availability and request a written out-the-door quote. Ask for dated timing-belt and Desmo valve-service invoices, whether both factory side cases and keys are included, and whether there is any drop or repair history.",
+      "sellerQuestions": [],
+      "valueRating": "",
+      "valueNote": "",
+      "url": "https://www.jdpower.com/motorcycles-for-sale/inventory/2014/ducati/hyperstrada/sacramento-ca/6f2f8c45-1fd4-4a49-8bc1-0833f85ddf20"
+    },
+    {
+      "name": "BMW F800GS",
+      "yr": "2009",
+      "role": "street",
+      "price": 3000,
+      "miles": "35,000",
+      "loc": "Isleton",
+      "myRank": 37,
+      "note": "Top case, tall screen, aftermarket exhaust, ~505 lb wet.",
+      "flag": "Check service records, wheels, and chain wear",
+      "status": "Facebook Marketplace listing. Availability unconfirmed.",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "Black F800GS with spoked wheels, handguards, hard top case, tank bag, RAM mount and aftermarket exhaust.\n\nConfirm current mileage, clean title, service history and valve checks. Ask whether the stock exhaust is included. Inspect rims, spokes, wheel bearings, chain and sprockets, and look for evidence of off-road drops.",
+      "sellerQuestions": [],
+      "valueRating": "",
+      "valueNote": "",
+      "url": "https://www.facebook.com/marketplace/item/1066431432818553"
+    },
+    {
+      "name": "Suzuki SFV650 Gladius",
+      "yr": "2009",
+      "role": "street",
+      "price": 2750,
+      "miles": "22,650",
+      "loc": "Hayward",
+      "myRank": 6,
+      "note": "Stock bike with clean California title and current registration per seller.",
+      "flag": "",
+      "status": "User-added listing",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "",
+      "sellerQuestions": [],
+      "valueRating": "Excellent",
+      "valueNote": "",
+      "url": "https://www.craigslist.org/view/d/hayward-2009-suzuki-sfv650-gladius/s6F7LUWkq6beCCcoRC3mwX"
+    },
+    {
+      "name": "BMW G 650 Xcountry",
+      "yr": "2009",
+      "role": "dirt",
+      "price": 2800,
+      "miles": "33,000",
+      "loc": "San Rafael",
+      "myRank": 9,
+      "note": "Seller reports clean title, lowered Moto K seat, handguards, and fresh service. New rear tire included.",
+      "flag": "",
+      "status": "User-added listing",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "",
+      "sellerQuestions": [],
+      "valueRating": "",
+      "valueNote": "",
+      "url": "https://www.craigslist.org/view/d/nicasio-2009-bmw-f650gs-xcountry/6RHB3UVFWvwZvEuxpxFMSq"
+    },
+    {
+      "name": "BMW F800GS",
+      "yr": "2014",
+      "role": "street",
+      "price": 6500,
+      "miles": "11,176",
+      "loc": "Pleasanton",
+      "myRank": 25,
+      "note": "Clean title per seller. BMW panniers, Givi top box, heated grips, adjustable rear shock.",
+      "flag": "Annual service due per seller.",
+      "status": "User-added listing",
+      "archived": false,
+      "archiveReason": "",
+      "archiveOriginalRank": null,
+      "visitNotes": "",
+      "valueRating": "",
+      "valueNote": "",
+      "url": "https://www.craigslist.org/view/d/dublin-2014-bmw-f800gs/t3MscyNXCpNnBJVnvLknGX"
     }
   ],
   "researchModels": [
@@ -2139,7 +2258,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~346 lb curb (2024 full-fuel estimate).",
+      "note": "346 lb",
       "ranks": {
         "dirt": 1
       }
@@ -2150,7 +2269,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~346 lb curb (2022 full-fuel estimate).",
+      "note": "346 lb",
       "ranks": {
         "dirt": 4
       }
@@ -2161,7 +2280,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~344–348 lb curb (2023–24 full-fuel estimate).",
+      "note": "346 lb",
       "ranks": {
         "dirt": 6
       }
@@ -2172,7 +2291,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~351 lb curb.",
+      "note": "351 lb",
       "ranks": {
         "dirt": 8
       }
@@ -2183,7 +2302,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~348 lb curb (2016 full-fuel estimate).",
+      "note": "348 lb",
       "ranks": {
         "dirt": 11
       }
@@ -2194,7 +2313,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~306 lb curb (2004 full-fuel estimate).",
+      "note": "306 lb",
       "ranks": {
         "dirt": 7
       }
@@ -2205,7 +2324,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~337 lb curb (2004 full-fuel estimate).",
+      "note": "337 lb",
       "ranks": {
         "dirt": 16
       }
@@ -2216,7 +2335,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "366 lb curb.",
+      "note": "366 lb",
       "ranks": {
         "dirt": 14
       }
@@ -2227,7 +2346,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~329 lb curb (2007 full-fuel estimate).",
+      "note": "329 lb",
       "ranks": {
         "dirt": 13
       }
@@ -2238,7 +2357,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "344 lb curb.",
+      "note": "344 lb",
       "ranks": {
         "dirt": 3
       }
@@ -2249,7 +2368,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~410 lb curb (US).",
+      "note": "410 lb",
       "ranks": {
         "dirt": 18
       }
@@ -2260,7 +2379,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~390 lb curb (2007 full-fuel estimate).",
+      "note": "390 lb",
       "ranks": {
         "dirt": 20
       }
@@ -2271,7 +2390,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "346 lb curb.",
+      "note": "346 lb",
       "ranks": {
         "dirt": 19
       }
@@ -2282,7 +2401,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "353–356 lb curb (year).",
+      "note": "355 lb",
       "ranks": {
         "dirt": 2
       }
@@ -2293,7 +2412,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~442 lb curb (2021 full-fuel estimate).",
+      "note": "442 lb",
       "ranks": {
         "dirt": 15
       }
@@ -2304,7 +2423,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "399 lb curb.",
+      "note": "399 lb",
       "ranks": {
         "dirt": 22
       }
@@ -2315,7 +2434,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "317 lb curb.",
+      "note": "317 lb",
       "ranks": {
         "dirt": 17
       }
@@ -2326,7 +2445,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "375–377 lb curb (US/CA).",
+      "note": "376 lb",
       "ranks": {
         "dirt": 25
       }
@@ -2337,7 +2456,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "333 lb curb.",
+      "note": "333 lb",
       "ranks": {
         "dirt": 9
       }
@@ -2349,9 +2468,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Supermoto hooligan; overlaps enduro. ~353 lb curb (2024 full-fuel estimate).",
+      "note": "Supermoto hooligan; overlaps enduro. 353 lb",
       "ranks": {
-        "street": 51,
+        "street": 59,
         "dreamers": 48
       },
       "powerbandState": "rejected",
@@ -2364,9 +2483,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Agile, punchy; overlaps enduro. ~348 lb curb (2024 full-fuel estimate).",
+      "note": "Agile, punchy; overlaps enduro. 348 lb",
       "ranks": {
-        "street": 49,
+        "street": 57,
         "dreamers": 47
       },
       "powerbandState": "rejected",
@@ -2379,9 +2498,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Punchy supermoto; scarce parts, KTM overlap. ~347 lb curb (measured).",
+      "note": "Punchy supermoto; scarce parts, KTM overlap. 347 lb",
       "ranks": {
-        "street": 50,
+        "street": 58,
         "dreamers": 49
       },
       "powerbandState": "rejected",
@@ -2394,9 +2513,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Rowdy single; old, scarce parts. ~334 lb curb (2007 full-fuel estimate).",
+      "note": "Rowdy single; old, scarce parts. 334 lb",
       "ranks": {
-        "street": 52,
+        "street": 60,
         "dreamers": 50
       },
       "powerbandState": "rejected",
@@ -2408,7 +2527,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~442 lb curb (2021 full-fuel estimate).",
+      "note": "442 lb",
       "ranks": {
         "dirt": 24
       }
@@ -2419,7 +2538,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "454–474 lb curb (non-ABS/ABS).",
+      "note": "464 lb",
       "ranks": {
         "dirt": 23
       }
@@ -2430,7 +2549,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "426 lb curb.",
+      "note": "426 lb",
       "ranks": {
         "dirt": 26
       }
@@ -2441,7 +2560,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~440 lb curb (full-fluid estimate).",
+      "note": "440 lb",
       "ranks": {
         "dirt": 27
       }
@@ -2453,9 +2572,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Punchy, playful; soft suspension; MT-07 alternative packaging. 410 lb curb (2017).",
+      "note": "Punchy, playful; soft suspension; MT-07 alternative packaging. 410 lb",
       "ranks": {
-        "street": 29,
+        "street": 40,
         "dreamers": 20
       },
       "powerbandState": "rejected",
@@ -2468,9 +2587,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Overlaps enduro. 362 lb curb (2007).",
+      "note": "Overlaps enduro. 362 lb",
       "ranks": {
-        "street": 53,
+        "street": 61,
         "dreamers": 51
       },
       "powerbandState": "rejected",
@@ -2482,7 +2601,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "456–461 lb curb (2026 base/ABS).",
+      "note": "459 lb",
       "ranks": {
         "dirt": 28
       }
@@ -2493,7 +2612,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "295–298 lb curb (US/CA).",
+      "note": "297 lb",
       "ranks": {
         "dirt": 21
       }
@@ -2504,7 +2623,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "289 lb curb.",
+      "note": "289 lb",
       "ranks": {
         "dirt": 12
       }
@@ -2515,7 +2634,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~268 lb curb (2024 US full-fuel estimate).",
+      "note": "268 lb",
       "ranks": {
         "dirt": 5
       }
@@ -2526,7 +2645,7 @@
       "tags": [
         "dirt"
       ],
-      "note": "~272 lb curb (2024 US full-fuel estimate).",
+      "note": "272 lb",
       "ranks": {
         "dirt": 10
       }
@@ -2538,9 +2657,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Practical, composed; likely too tame. 444 lb curb.",
+      "note": "Practical, composed; likely too tame. 444 lb",
       "ranks": {
-        "street": 18,
+        "street": 27,
         "dreamers": 46
       },
       "powerbandState": "hangar",
@@ -2553,9 +2672,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Torquey, composed; less wind protection. 445 lb curb.",
+      "note": "Torquey, composed; less wind protection. 445 lb",
       "ranks": {
-        "street": 15,
+        "street": 21,
         "dreamers": 16
       },
       "powerbandState": "hangar",
@@ -2568,9 +2687,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Naked version of Versys. 415 lb curb.",
+      "note": "Naked version of Versys. 415 lb",
       "ranks": {
-        "street": 55,
+        "street": 63,
         "dreamers": 54
       },
       "powerbandState": "rejected",
@@ -2583,7 +2702,7 @@
         "street",
         "dreamers"
       ],
-      "note": "2017 preferred; roomy, lively triple; wind protection, touring comfort. 470 lb curb.",
+      "note": "2017 preferred; roomy, lively triple; wind protection, touring comfort. 470 lb",
       "ranks": {
         "street": 12,
         "dreamers": 3
@@ -2598,7 +2717,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Tall, thrilling; abrupt throttle, costly upkeep; Hyperstrada tours. 428–450 lb curb (SP/base/Hyperstrada).",
+      "note": "Tall, thrilling; abrupt throttle, costly upkeep; Hyperstrada tours. 439 lb",
       "ranks": {
         "street": 2,
         "dreamers": 7
@@ -2613,9 +2732,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Sharp handling, punchy; cam wear concerns. ~407 lb curb (2024 full-fuel estimate).",
+      "note": "Sharp handling, punchy; cam wear concerns. 407 lb",
       "ranks": {
-        "street": 27,
+        "street": 38,
         "dreamers": 33
       },
       "powerbandState": "rejected",
@@ -2628,9 +2747,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Super Torquey, comfortable, versatile; heavy. 492–509 lb curb (generation).",
+      "note": "Super Torquey, comfortable, versatile; heavy. 501 lb",
       "ranks": {
-        "street": 24,
+        "street": 34,
         "dreamers": 31
       },
       "powerbandState": "hangar",
@@ -2643,9 +2762,9 @@
         "street",
         "dreamers"
       ],
-      "note": "V-twin character; thirsty, bulky, crouched. 474–476 lb curb (1998–2003 US).",
+      "note": "V-twin character; thirsty, bulky, crouched. 475 lb",
       "ranks": {
-        "street": 26,
+        "street": 37,
         "dreamers": 44
       },
       "powerbandState": "hangar",
@@ -2658,9 +2777,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Monster torque, sharp; excessive power. ~446 lb curb (2014 1290 R full-fuel estimate).",
+      "note": "Monster torque, sharp; excessive power. 446 lb",
       "ranks": {
-        "street": 32,
+        "street": 43,
         "dreamers": 39
       },
       "powerbandState": "rejected",
@@ -2673,9 +2792,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Explosive grin, small cockpit. 437 lb curb (2025 ABS).",
+      "note": "Explosive grin, small cockpit. 437 lb",
       "ranks": {
-        "street": 16,
+        "street": 24,
         "dreamers": 32
       },
       "powerbandState": "hangar",
@@ -2688,9 +2807,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Proven cornering confidence; roomy, composed, great two-up. 483 lb curb; LT ~503 lb (2024).",
+      "note": "Proven cornering confidence; roomy, composed, great two-up. 493 lb",
       "ranks": {
-        "street": 14,
+        "street": 19,
         "dreamers": 14
       },
       "powerbandState": "hangar",
@@ -2702,7 +2821,7 @@
       "tags": [
         "hula"
       ],
-      "note": "32.7in; ~300lb; ABS, forgiving.",
+      "note": "32.7in; 300 lb; ABS, forgiving.",
       "ranks": {
         "hula": 2
       }
@@ -2713,7 +2832,7 @@
       "tags": [
         "hula"
       ],
-      "note": "32.7in; 311lb; stronger, heavier, pricier.",
+      "note": "32.7in; 311 lb; stronger, heavier, pricier.",
       "ranks": {
         "hula": 4
       }
@@ -2724,7 +2843,7 @@
       "tags": [
         "hula"
       ],
-      "note": "31.9in; ~291lb; nimble, simple, no ABS.",
+      "note": "31.9in; 291 lb; nimble, simple, no ABS.",
       "ranks": {
         "hula": 3
       }
@@ -2735,7 +2854,7 @@
       "tags": [
         "hula"
       ],
-      "note": "31.1in; 278lb; planted footing, slow.",
+      "note": "31.1in; 278 lb; planted footing, slow.",
       "ranks": {
         "hula": 5
       }
@@ -2746,7 +2865,7 @@
       "tags": [
         "hula"
       ],
-      "note": "33.3in/SE:32in ; 278lb; affordable",
+      "note": "33.3in/SE:32in ; 278 lb; affordable",
       "ranks": {
         "hula": 6
       }
@@ -2757,7 +2876,7 @@
       "tags": [
         "hula"
       ],
-      "note": "31.9in; ~267lb; light, carbureted, aging.",
+      "note": "31.9in; 267 lb; light, carbureted, aging.",
       "ranks": {
         "hula": 7
       }
@@ -2768,7 +2887,7 @@
       "tags": [
         "hula"
       ],
-      "note": "31.9in; 267lb; gentle, carbureted, dirt-capable.",
+      "note": "31.9in; 267 lb; gentle, carbureted, dirt-capable.",
       "ranks": {
         "hula": 8
       }
@@ -2779,7 +2898,7 @@
       "tags": [
         "hula"
       ],
-      "note": "32.7in; 282lb; six-speed, aging.",
+      "note": "32.7in; 282 lb; six-speed, aging.",
       "ranks": {
         "hula": 9
       }
@@ -2790,7 +2909,7 @@
       "tags": [
         "hula"
       ],
-      "note": "32.8in; 282lb; affordable, gentle, least power.",
+      "note": "32.8in; 282 lb; affordable, gentle, least power.",
       "ranks": {
         "hula": 10
       }
@@ -2801,7 +2920,7 @@
       "tags": [
         "hula"
       ],
-      "note": "30.3in; 282lb; injection, wide seat, limited suspension.",
+      "note": "30.3in; 282 lb; injection, wide seat, limited suspension.",
       "ranks": {
         "hula": 1
       }
@@ -2813,9 +2932,9 @@
         "street",
         "dreamers"
       ],
-      "note": " Triple. 106 HP. Adj suspension. Check feel at 6k RPM. 401 lb curb (2013+).",
+      "note": "Triple. 106 HP. Adj suspension. Check feel at 6k RPM. 401 lb",
       "ranks": {
-        "street": 41,
+        "street": 50,
         "dreamers": 43
       },
       "powerbandState": "rejected",
@@ -2828,9 +2947,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Punchy CP2; XSR700 engine, different packaging. 401 lb curb (2017 ABS).",
+      "note": "Punchy CP2; XSR700 engine, different packaging. 401 lb",
       "ranks": {
-        "street": 33,
+        "street": 44,
         "dreamers": 17
       },
       "powerbandState": "rejected",
@@ -2843,9 +2962,9 @@
         "street",
         "dreamers"
       ],
-      "note": "412–415 lb curb (non-ABS/ABS).",
+      "note": "414 lb",
       "ranks": {
-        "street": 36,
+        "street": 47,
         "dreamers": 42
       },
       "powerbandState": "rejected",
@@ -2858,9 +2977,9 @@
         "street",
         "dreamers"
       ],
-      "note": "~415 lb curb (full-fuel estimate).",
+      "note": "415 lb",
       "ranks": {
-        "street": 35,
+        "street": 46,
         "dreamers": 41
       },
       "powerbandState": "rejected",
@@ -2873,9 +2992,9 @@
         "street",
         "dreamers"
       ],
-      "note": "453 lb curb.",
+      "note": "453 lb",
       "ranks": {
-        "street": 34,
+        "street": 45,
         "dreamers": 40
       },
       "powerbandState": "hangar",
@@ -2888,9 +3007,9 @@
         "street",
         "dreamers"
       ],
-      "note": "4,000-rpm torque peak; composed, roomy; roughly 500 pounds.",
+      "note": "4,000-rpm torque peak; composed, roomy; 500 lb",
       "ranks": {
-        "street": 6,
+        "street": 8,
         "dreamers": 11
       },
       "powerbandState": "hangar",
@@ -2903,9 +3022,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Roomy touring V-twin; slower steering than Versys. 470 lb curb (2025).",
+      "note": "Roomy touring V-twin; slower steering than Versys. 470 lb",
       "ranks": {
-        "street": 31,
+        "street": 42,
         "dreamers": 34
       },
       "powerbandState": "rejected",
@@ -2918,7 +3037,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Characterful midrange, roomy touring; S suspension; expensive. 500–518 lb curb (trim).",
+      "note": "Characterful midrange, roomy touring; S suspension; expensive. 509 lb",
       "ranks": {
         "street": 3,
         "dreamers": 1
@@ -2933,9 +3052,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Expensive Newer version of 990 SM-T. Punchy, agile, upright sport-tourer. ~454 lb curb (full-fuel estimate).",
+      "note": "Expensive Newer version of 990 SM-T. Punchy, agile, upright sport-tourer. 454 lb",
       "ranks": {
-        "street": 43,
+        "street": 7,
         "dreamers": 2
       },
       "powerbandState": "hangar",
@@ -2948,9 +3067,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive. 514 lb curb.",
+      "note": "Muscular twin, shaft drive, touring comfort; heavy, expensive. 514 lb",
       "ranks": {
-        "street": 44,
+        "street": 52,
         "dreamers": 4
       },
       "powerbandState": "rejected",
@@ -2963,7 +3082,7 @@
         "street",
         "dreamers"
       ],
-      "note": "More midrange than 821; nimble, touring-equipped, costly upkeep. 463 lb curb.",
+      "note": "More midrange than 821; nimble, touring-equipped, costly upkeep. 463 lb",
       "ranks": {
         "street": 1,
         "dreamers": 6
@@ -2978,9 +3097,9 @@
         "street",
         "dreamers"
       ],
-      "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation. 489–496 lb curb (937cc); ~470–476 lb (890cc full-fuel estimate).",
+      "note": "937cc desmo / 890cc spring-valve; roomy, lighter newer generation. 483 lb",
       "ranks": {
-        "street": 45,
+        "street": 53,
         "dreamers": 5
       },
       "powerbandState": "hangar",
@@ -2993,9 +3112,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Broad midrange, upright cockpit, wind protection; above budget. 480lb.",
+      "note": "Broad midrange, upright cockpit, wind protection; above budget. 480 lb",
       "ranks": {
-        "street": 5,
+        "street": 6,
         "dreamers": 12
       },
       "powerbandState": "hangar",
@@ -3008,9 +3127,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach. 536 lb curb.",
+      "note": "Muscular ShiftCam boxer, stable touring; heavy, forward reach. 536 lb",
       "ranks": {
-        "street": 23,
+        "street": 33,
         "dreamers": 8
       },
       "powerbandState": "hangar",
@@ -3023,9 +3142,9 @@
         "street",
         "dreamers"
       ],
-      "note": "CP2 punch, fairing; Tracer 7 newer; non-US availability. 432–472 lb curb (year/trim).",
+      "note": "CP2 punch, fairing; Tracer 7 newer; non-US availability. 452 lb",
       "ranks": {
-        "street": 42,
+        "street": 51,
         "dreamers": 10
       },
       "powerbandState": "rejected",
@@ -3038,7 +3157,7 @@
         "street",
         "dreamers"
       ],
-      "note": "Raw V-twin punch, agile touring; occasional budget fit. Older meatier version of the 890 smt 474 lb curb.",
+      "note": "Raw V-twin punch, agile touring; occasional budget fit. Older meatier version of the 890 smt 474 lb",
       "ranks": {
         "street": 4,
         "dreamers": 9
@@ -3053,9 +3172,9 @@
         "street",
         "dreamers"
       ],
-      "note": "GSX-8S midrange, fairing, sporty posture; usually above budget. 452 lb curb.",
+      "note": "GSX-8S midrange, fairing, sporty posture; usually above budget. 452 lb",
       "ranks": {
-        "street": 38,
+        "street": 5,
         "dreamers": 13
       },
       "powerbandState": "hangar",
@@ -3070,7 +3189,7 @@
       ],
       "note": "Super Torquey boxer, stable touring, 531 lb",
       "ranks": {
-        "street": 10,
+        "street": 15,
         "dreamers": 21
       },
       "powerbandState": "hangar",
@@ -3083,9 +3202,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Punchy 937; 950 adds IMU; S adds Öhlins. 463 lb curb.",
+      "note": "Punchy 937; 950 adds IMU; S adds Öhlins. 463 lb",
       "ranks": {
-        "street": 39,
+        "street": 11,
         "dreamers": 24
       },
       "powerbandState": "hangar",
@@ -3098,9 +3217,9 @@
         "street",
         "dreamers"
       ],
-      "note": "GSX-8 twin character, upright touring; heavier, above budget. 492 lb curb (base; cases add weight).",
+      "note": "GSX-8 twin character, upright touring; heavier, above budget. 492 lb",
       "ranks": {
-        "street": 13,
+        "street": 18,
         "dreamers": 27
       },
       "powerbandState": "hangar",
@@ -3113,9 +3232,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Affordable belt-drive tourer; composed, restrained engine, tight knees. 470 lb curb.",
+      "note": "Affordable belt-drive tourer; composed, restrained engine, tight knees. 470 lb",
       "ranks": {
-        "street": 11,
+        "street": 16,
         "dreamers": 37
       },
       "powerbandState": "hangar",
@@ -3128,9 +3247,9 @@
         "street",
         "dreamers"
       ],
-      "note": "1200 non-DVT/DVT; 1260 stronger midrange; roomy, heavy. 511–520 lb curb (2015–18 generation/trim).",
+      "note": "1200 non-DVT/DVT; 1260 stronger midrange; roomy, heavy. 516 lb",
       "ranks": {
-        "street": 37,
+        "street": 48,
         "dreamers": 25
       },
       "powerbandState": "rejected",
@@ -3143,9 +3262,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular twin; Rally 606 lbs, 19in front; $5–6k used.",
+      "note": "Muscular twin; Rally 19in front; $5–6k used. 606 lb",
       "ranks": {
-        "street": 21,
+        "street": 31,
         "dreamers": 28
       },
       "powerbandState": "hangar",
@@ -3158,9 +3277,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Huge V-twin shove, sporty touring; excessive power, expensive. ~499 lb curb (full-fuel estimate).",
+      "note": "Huge V-twin shove, sporty touring; excessive power, expensive. 499 lb",
       "ranks": {
-        "street": 46,
+        "street": 54,
         "dreamers": 26
       },
       "powerbandState": "rejected",
@@ -3173,9 +3292,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Muscular boxer, planted touring; sportier posture, dream pricing. 540 lb curb.",
+      "note": "Muscular boxer, planted touring; sportier posture, dream pricing. 540 lb",
       "ranks": {
-        "street": 22,
+        "street": 32,
         "dreamers": 15
       },
       "powerbandState": "hangar",
@@ -3188,9 +3307,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Affordable belt-drive tourer; mild character, compact cockpit. ~461 lb curb.",
+      "note": "Affordable belt-drive tourer; mild character, compact cockpit. 461 lb",
       "ranks": {
-        "street": 30,
+        "street": 41,
         "dreamers": 38
       },
       "powerbandState": "hangar",
@@ -3203,9 +3322,9 @@
         "street",
         "dreamers"
       ],
-      "note": "2017 preferred; lively naked triple; less touring comfort. 426 lb curb (2017).",
+      "note": "2017 preferred; lively naked triple; less touring comfort. 426 lb",
       "ranks": {
-        "street": 40,
+        "street": 49,
         "dreamers": 19
       },
       "powerbandState": "rejected",
@@ -3218,9 +3337,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Snappier version of the F800GS 494 lb curb.",
+      "note": "Snappier version of the F800GS 494 lb",
       "ranks": {
-        "street": 48,
+        "street": 56,
         "dreamers": 52
       },
       "powerbandState": "hangar",
@@ -3233,9 +3352,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Adventure bike. Similar engine characteristics to the Tiger. 2024+ Basically an upgraded 750 GS. More power, modern electronics, mostly road-oriented. Before 2024 is the adventure version 472 lb curb (pre-2024); 500 lb (2024+).",
+      "note": "Adventure bike. Similar engine characteristics to the Tiger. 2024+ Basically an upgraded 750 GS. More power, modern electronics, mostly road-oriented. Before 2024 is the adventure version 486 lb",
       "ranks": {
-        "street": 47,
+        "street": 55,
         "dreamers": 53
       },
       "powerbandState": "hangar",
@@ -3248,9 +3367,9 @@
         "street",
         "dreamers"
       ],
-      "note": "33.9in, 450lb; lively twin; dirt focus overlaps 690.",
+      "note": "33.9in, 450 lb; lively twin; dirt focus overlaps 690.",
       "ranks": {
-        "street": 20,
+        "street": 29,
         "dreamers": 35
       },
       "powerbandState": "hangar",
@@ -3263,9 +3382,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Heavier, 900 has heaps more torque but same hp as 750. 481 lb curb (900); 463 lb (750 GT).",
+      "note": "Heavier, 900 has heaps more torque but same hp as 750. 472 lb",
       "ranks": {
-        "street": 28,
+        "street": 39,
         "dreamers": 36
       },
       "powerbandState": "rejected",
@@ -3277,7 +3396,7 @@
       "tags": [
         "hula"
       ],
-      "note": " 34.4 Too high without boots 304 lb curb (2026).",
+      "note": "34.4 Too high without boots 304 lb",
       "ranks": {
         "hula": 11
       }
@@ -3289,9 +3408,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Adventure version of the SMT ~474 lb.",
+      "note": "Adventure version of the SMT 474 lb",
       "ranks": {
-        "street": 9,
+        "street": 14,
         "dreamers": 45
       },
       "powerbandState": "hangar",
@@ -3304,9 +3423,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Low-rpm shove, used value; ~560lb, composed rather than flickable.",
+      "note": "Low-rpm shove, used value; 560 lb, composed rather than flickable.",
       "ranks": {
-        "street": 8,
+        "street": 13,
         "dreamers": 23
       },
       "powerbandState": "hangar",
@@ -3319,9 +3438,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Smooth low-rpm torque, touring value; 567lb, less flickable.",
+      "note": "Smooth low-rpm torque, touring value; 567 lb, less flickable.",
       "ranks": {
-        "street": 7,
+        "street": 9,
         "dreamers": 22
       },
       "powerbandState": "hangar",
@@ -3334,9 +3453,9 @@
         "street",
         "dreamers"
       ],
-      "note": "V4 character, planted corners; revvier, sportier riding position. 527–536 lb curb (2014 base/Deluxe).",
+      "note": "V4 character, planted corners; revvier, sportier riding position. 532 lb",
       "ranks": {
-        "street": 19,
+        "street": 17,
         "dreamers": 29
       },
       "powerbandState": "rejected",
@@ -3349,9 +3468,9 @@
         "street",
         "dreamers"
       ],
-      "note": "Agile upright triple; 2022–25 smooth, 2026 gains top-end. 455–456 lb curb.",
+      "note": "Agile upright triple; 2022–25 smooth, 2026 gains top-end. 456 lb",
       "ranks": {
-        "street": 25,
+        "street": 36,
         "dreamers": 30
       },
       "powerbandState": "hangar",
@@ -3364,9 +3483,9 @@
         "street",
         "dreamers"
       ],
-      "note": "V-twin touring comfort; 520–545lb, tall ADV stance.",
+      "note": "V-twin touring comfort; 533 lb, tall ADV stance.",
       "ranks": {
-        "street": 17,
+        "street": 25,
         "dreamers": 18
       },
       "powerbandState": "hangar",
@@ -3378,9 +3497,9 @@
       "tags": [
         "street"
       ],
-      "note": "75hp\tCheap, simple, mostly pavement, all arounder 461 lb curb.",
+      "note": "75hp\tCheap, simple, mostly pavement, all arounder 461 lb",
       "ranks": {
-        "street": 54
+        "street": 62
       },
       "powerbandState": "hangar",
       "powerbandCurveName": "BMW 700GS"
@@ -3392,13 +3511,101 @@
         "street",
         "dreamers"
       ],
-      "note": "Punchy, agile single; limited touring comfort; ~355 lb wet.",
+      "note": "Punchy, agile single; limited touring comfort; 355 lb",
       "ranks": {
-        "street": 56,
+        "street": 64,
         "dreamers": 55
       },
       "powerbandState": "rejected",
       "powerbandCurveName": "KTM 690 Duke"
+    },
+    {
+      "id": "m-apriliars660",
+      "name": "Aprilia RS 660",
+      "tags": [
+        "street"
+      ],
+      "note": "Agile, tolerable reach, tight pillion, 403 lb",
+      "ranks": {
+        "street": 10
+      }
+    },
+    {
+      "id": "m-suzukisv7gx",
+      "name": "Suzuki SV-7GX (2027)",
+      "tags": [
+        "street"
+      ],
+      "note": "Upright, pillion-friendly, modest wind protection, 465 lb",
+      "ranks": {
+        "street": 20
+      }
+    },
+    {
+      "id": "m-triumphtigersport800",
+      "name": "Triumph Tiger Sport 800",
+      "tags": [
+        "street"
+      ],
+      "note": "Agile triple, upright, pillion-friendly, 471 lb",
+      "ranks": {
+        "street": 22
+      }
+    },
+    {
+      "id": "m-kawasakininja1000sx",
+      "name": "Kawasaki Ninja 1000SX",
+      "tags": [
+        "street"
+      ],
+      "note": "Planted, comfortable, small pillion seat, 515 lb",
+      "ranks": {
+        "street": 23
+      }
+    },
+    {
+      "id": "m-hondacbr650fcbr650r",
+      "name": "Honda CBR650F / CBR650R",
+      "tags": [
+        "street"
+      ],
+      "note": "Smooth, predictable, sporty reach, small pillion, 465 lb",
+      "ranks": {
+        "street": 26
+      }
+    },
+    {
+      "id": "m-triumphtiger1050",
+      "name": "Triumph Tiger 1050 (original)",
+      "tags": [
+        "street"
+      ],
+      "note": "Steady, upright, roomy pillion, top-heavy, 505 lb",
+      "ranks": {
+        "street": 28
+      }
+    },
+    {
+      "id": "m-triumphsprintst1050",
+      "name": "Triumph Sprint ST 1050",
+      "tags": [
+        "street"
+      ],
+      "note": "Planted, roomy pillion, warm underseat exhaust, 530 lb",
+      "ranks": {
+        "street": 30
+      }
+    },
+    {
+      "id": "m-yamahar7",
+      "name": "Yamaha R7",
+      "tags": [
+        "street"
+      ],
+      "note": "Agile, low bars, tiny pillion perch, 415 lb",
+      "ranks": {
+        "street": 35
+      }
     }
   ],
   "powerband": {
