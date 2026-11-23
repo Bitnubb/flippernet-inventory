@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "lastCheckedAt": "2026-11-23T04:04:09.973625Z",
+  "lastCheckedAt": "2026-11-23T14:23:45.992313Z",
   "revision": 585,
   "inventoryGeneratedAt": "2026-11-12T11:51:46.284Z",
   "inventorySha": "443207807103754701a433d419ce3417cee7b3b8",
@@ -24,5 +24,5 @@
       }
     }
   },
-  "workflowRunUrl": "https://github.com/Bitnubb/flippernet-inventory/actions/runs/45109588274"
+  "workflowRunUrl": "https://github.com/Bitnubb/flippernet-inventory/actions/runs/45193707676"
 }
