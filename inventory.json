@@ -2,8 +2,8 @@
   "ok": true,
   "schemaVersion": 1,
   "source": "FLIPPERNET HQ",
-  "revision": 585,
-  "generatedAt": "2026-11-12T11:51:46.284Z",
+  "revision": 588,
+  "generatedAt": "2026-11-25T14:45:58.405Z",
   "counts": {
     "active": 84,
     "archived": 19,
@@ -587,7 +587,7 @@
       "name": "Versys 650 OBO",
       "yr": "2017",
       "role": "street",
-      "price": 4700,
+      "price": 4199,
       "miles": "22,450",
       "loc": "Sacramento",
       "myRank": 2,
@@ -1772,7 +1772,7 @@
       "url": "https://www.craigslist.org/view/d/arcadia-2020-kawasaki-versys-lt/ctSnMTCw1VUr7chAoVrt6H"
     },
     {
-      "name": "Suzuki V-Strom 1000",
+      "name": "Salvage V-Strom 1000",
       "yr": "2014",
       "role": "street",
       "price": 2500,
@@ -2246,6 +2246,7 @@
       "archiveReason": "",
       "archiveOriginalRank": null,
       "visitNotes": "",
+      "sellerQuestions": [],
       "valueRating": "",
       "valueNote": "",
       "url": "https://www.craigslist.org/view/d/dublin-2014-bmw-f800gs/t3MscyNXCpNnBJVnvLknGX"
